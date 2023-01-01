@@ -1,0 +1,590 @@
+info: Server started at http://localhost:5000/api/v1/ {"timestamp":"2022-12-20T04:38:33.552Z"}
+info: Connected to the database. {"timestamp":"2022-12-20T04:38:44.303Z"}
+error: 
+    status - 500 
+    message - ValidationError: "lastName" length must be at least 2 characters long 
+    url - /api/v1/users/register 
+    method - POST 
+    IP - ::1
+   {"timestamp":"2022-12-20T04:40:33.226Z"}
+info: Server started at http://localhost:5000/api/v1/ {"timestamp":"2022-12-20T04:42:17.151Z"}
+info: Connected to the database. {"timestamp":"2022-12-20T04:42:19.756Z"}
+info: Server started at http://localhost:5000/api/v1/ {"timestamp":"2022-12-20T04:48:10.046Z"}
+info: Connected to the database. {"timestamp":"2022-12-20T04:48:13.998Z"}
+info: Server started at http://localhost:5000/api/v1/ {"timestamp":"2022-12-20T04:57:46.346Z"}
+info: Connected to the database. {"timestamp":"2022-12-20T04:57:49.149Z"}
+info: Server started at http://localhost:5000/api/v1/ {"timestamp":"2022-12-20T05:00:26.372Z"}
+info: Connected to the database. {"timestamp":"2022-12-20T05:00:29.194Z"}
+error: 
+      status - 400
+      message - Authorization token is required 
+      url - /api/v1/users/loginuser 
+      method - GET 
+      IP - ::1
+     {"timestamp":"2022-12-20T05:01:06.104Z"}
+info: Server started at http://localhost:5000/api/v1/ {"timestamp":"2022-12-20T05:03:32.147Z"}
+info: Connected to the database. {"timestamp":"2022-12-20T05:03:35.405Z"}
+info: Server started at http://localhost:5000/api/v1/ {"timestamp":"2022-12-20T05:06:05.102Z"}
+info: Connected to the database. {"timestamp":"2022-12-20T05:06:09.554Z"}
+info: Server started at http://localhost:5000/api/v1/ {"timestamp":"2022-12-20T05:09:31.371Z"}
+info: Connected to the database. {"timestamp":"2022-12-20T05:09:34.092Z"}
+info: Server started at http://localhost:5000/api/v1/ {"timestamp":"2022-12-20T05:10:06.259Z"}
+info: Connected to the database. {"timestamp":"2022-12-20T05:10:09.250Z"}
+info: Server started at http://localhost:5000/api/v1/ {"timestamp":"2022-12-20T05:11:15.590Z"}
+info: Connected to the database. {"timestamp":"2022-12-20T05:11:18.214Z"}
+info: Server started at http://localhost:5000/api/v1/ {"timestamp":"2022-12-20T05:16:35.532Z"}
+info: Connected to the database. {"timestamp":"2022-12-20T05:16:38.468Z"}
+info: Server started at http://localhost:5000/api/v1/ {"timestamp":"2022-12-20T05:16:53.149Z"}
+info: Connected to the database. {"timestamp":"2022-12-20T05:16:55.955Z"}
+info: Server started at http://localhost:5000/api/v1/ {"timestamp":"2022-12-20T05:18:57.528Z"}
+info: Connected to the database. {"timestamp":"2022-12-20T05:19:00.197Z"}
+info: Server started at http://localhost:5000/api/v1/ {"timestamp":"2022-12-20T05:19:40.597Z"}
+info: Connected to the database. {"timestamp":"2022-12-20T05:19:45.547Z"}
+info: Server started at http://localhost:5000/api/v1/ {"timestamp":"2022-12-20T05:33:18.943Z"}
+info: Connected to the database. {"timestamp":"2022-12-20T05:33:24.013Z"}
+info: Server started at http://localhost:5000/api/v1/ {"timestamp":"2022-12-20T05:34:19.431Z"}
+info: Connected to the database. {"timestamp":"2022-12-20T05:34:22.541Z"}
+info: Server started at http://localhost:5000/api/v1/ {"timestamp":"2022-12-20T05:36:17.820Z"}
+info: Connected to the database. {"timestamp":"2022-12-20T05:36:25.725Z"}
+info: Server started at http://localhost:5000/api/v1/ {"timestamp":"2022-12-20T05:36:53.086Z"}
+info: Connected to the database. {"timestamp":"2022-12-20T05:36:58.379Z"}
+error: 
+    status - 500 
+    message - Error: Password is invalid
+    at _callee3$ (C:\Users\Gajanan\OneDrive\Desktop\BasicsJS\Fundo-note\Fundo-note\src\services\/user.service.js:21:13)
+    at tryCatch (C:\Users\Gajanan\OneDrive\Desktop\BasicsJS\Fundo-note\Fundo-note\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:44:17)
+    at Generator.<anonymous> (C:\Users\Gajanan\OneDrive\Desktop\BasicsJS\Fundo-note\Fundo-note\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:125:22)
+    at Generator.next (C:\Users\Gajanan\OneDrive\Desktop\BasicsJS\Fundo-note\Fundo-note\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:69:21)
+    at asyncGeneratorStep (C:\Users\Gajanan\OneDrive\Desktop\BasicsJS\Fundo-note\Fundo-note\node_modules\@babel\runtime\helpers\asyncToGenerator.js:3:24)
+    at _next (C:\Users\Gajanan\OneDrive\Desktop\BasicsJS\Fundo-note\Fundo-note\node_modules\@babel\runtime\helpers\asyncToGenerator.js:22:9)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5) 
+    url - /api/v1/users/loginuser 
+    method - POST 
+    IP - ::1
+   {"timestamp":"2022-12-20T05:36:59.017Z"}
+info: Server started at http://localhost:5000/api/v1/ {"timestamp":"2022-12-20T05:37:54.917Z"}
+info: Connected to the database. {"timestamp":"2022-12-20T05:37:57.811Z"}
+error: 
+    status - 500 
+    message - Error: Password is invalid
+    at _callee3$ (C:\Users\Gajanan\OneDrive\Desktop\BasicsJS\Fundo-note\Fundo-note\src\services\/user.service.js:22:13)
+    at tryCatch (C:\Users\Gajanan\OneDrive\Desktop\BasicsJS\Fundo-note\Fundo-note\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:44:17)
+    at Generator.<anonymous> (C:\Users\Gajanan\OneDrive\Desktop\BasicsJS\Fundo-note\Fundo-note\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:125:22)
+    at Generator.next (C:\Users\Gajanan\OneDrive\Desktop\BasicsJS\Fundo-note\Fundo-note\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:69:21)
+    at asyncGeneratorStep (C:\Users\Gajanan\OneDrive\Desktop\BasicsJS\Fundo-note\Fundo-note\node_modules\@babel\runtime\helpers\asyncToGenerator.js:3:24)
+    at _next (C:\Users\Gajanan\OneDrive\Desktop\BasicsJS\Fundo-note\Fundo-note\node_modules\@babel\runtime\helpers\asyncToGenerator.js:22:9)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5) 
+    url - /api/v1/users/loginuser 
+    method - POST 
+    IP - ::1
+   {"timestamp":"2022-12-20T05:38:03.668Z"}
+info: Server started at http://localhost:5000/api/v1/ {"timestamp":"2022-12-20T05:39:01.953Z"}
+info: Connected to the database. {"timestamp":"2022-12-20T05:39:04.840Z"}
+info: Server started at http://localhost:5000/api/v1/ {"timestamp":"2022-12-20T05:40:28.962Z"}
+info: Connected to the database. {"timestamp":"2022-12-20T05:40:31.980Z"}
+error: 
+    status - 500 
+    message - Error: Password is invalid
+    at _callee3$ (C:\Users\Gajanan\OneDrive\Desktop\BasicsJS\Fundo-note\Fundo-note\src\services\/user.service.js:22:13)
+    at tryCatch (C:\Users\Gajanan\OneDrive\Desktop\BasicsJS\Fundo-note\Fundo-note\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:44:17)
+    at Generator.<anonymous> (C:\Users\Gajanan\OneDrive\Desktop\BasicsJS\Fundo-note\Fundo-note\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:125:22)
+    at Generator.next (C:\Users\Gajanan\OneDrive\Desktop\BasicsJS\Fundo-note\Fundo-note\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:69:21)
+    at asyncGeneratorStep (C:\Users\Gajanan\OneDrive\Desktop\BasicsJS\Fundo-note\Fundo-note\node_modules\@babel\runtime\helpers\asyncToGenerator.js:3:24)
+    at _next (C:\Users\Gajanan\OneDrive\Desktop\BasicsJS\Fundo-note\Fundo-note\node_modules\@babel\runtime\helpers\asyncToGenerator.js:22:9)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5) 
+    url - /api/v1/users/loginuser 
+    method - POST 
+    IP - ::1
+   {"timestamp":"2022-12-20T05:40:39.708Z"}
+info: Server started at http://localhost:5000/api/v1/ {"timestamp":"2022-12-20T05:41:06.528Z"}
+info: Connected to the database. {"timestamp":"2022-12-20T05:41:10.189Z"}
+error: 
+    status - 500 
+    message - Error: Password is invalid
+    at _callee3$ (C:\Users\Gajanan\OneDrive\Desktop\BasicsJS\Fundo-note\Fundo-note\src\services\/user.service.js:22:13)
+    at tryCatch (C:\Users\Gajanan\OneDrive\Desktop\BasicsJS\Fundo-note\Fundo-note\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:44:17)
+    at Generator.<anonymous> (C:\Users\Gajanan\OneDrive\Desktop\BasicsJS\Fundo-note\Fundo-note\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:125:22)
+    at Generator.next (C:\Users\Gajanan\OneDrive\Desktop\BasicsJS\Fundo-note\Fundo-note\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:69:21)
+    at asyncGeneratorStep (C:\Users\Gajanan\OneDrive\Desktop\BasicsJS\Fundo-note\Fundo-note\node_modules\@babel\runtime\helpers\asyncToGenerator.js:3:24)
+    at _next (C:\Users\Gajanan\OneDrive\Desktop\BasicsJS\Fundo-note\Fundo-note\node_modules\@babel\runtime\helpers\asyncToGenerator.js:22:9)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5) 
+    url - /api/v1/users/loginuser 
+    method - POST 
+    IP - ::1
+   {"timestamp":"2022-12-20T05:41:17.418Z"}
+error: 
+    status - 500 
+    message - Error: Password is invalid
+    at _callee3$ (C:\Users\Gajanan\OneDrive\Desktop\BasicsJS\Fundo-note\Fundo-note\src\services\/user.service.js:22:13)
+    at tryCatch (C:\Users\Gajanan\OneDrive\Desktop\BasicsJS\Fundo-note\Fundo-note\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:44:17)
+    at Generator.<anonymous> (C:\Users\Gajanan\OneDrive\Desktop\BasicsJS\Fundo-note\Fundo-note\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:125:22)
+    at Generator.next (C:\Users\Gajanan\OneDrive\Desktop\BasicsJS\Fundo-note\Fundo-note\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:69:21)
+    at asyncGeneratorStep (C:\Users\Gajanan\OneDrive\Desktop\BasicsJS\Fundo-note\Fundo-note\node_modules\@babel\runtime\helpers\asyncToGenerator.js:3:24)
+    at _next (C:\Users\Gajanan\OneDrive\Desktop\BasicsJS\Fundo-note\Fundo-note\node_modules\@babel\runtime\helpers\asyncToGenerator.js:22:9)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5) 
+    url - /api/v1/users/loginuser 
+    method - POST 
+    IP - ::1
+   {"timestamp":"2022-12-20T05:41:22.462Z"}
+info: Server started at http://localhost:5000/api/v1/ {"timestamp":"2022-12-20T05:41:43.438Z"}
+info: Connected to the database. {"timestamp":"2022-12-20T05:41:46.338Z"}
+info: Server started at http://localhost:5000/api/v1/ {"timestamp":"2022-12-20T05:42:58.243Z"}
+info: Connected to the database. {"timestamp":"2022-12-20T05:43:02.484Z"}
+info: Server started at http://localhost:5000/api/v1/ {"timestamp":"2022-12-20T05:44:27.874Z"}
+info: Connected to the database. {"timestamp":"2022-12-20T05:44:31.021Z"}
+error: 
+    status - 500 
+    message - ValidationError: "firstName" is required 
+    url - /api/v1/users/loginuser 
+    method - POST 
+    IP - ::1
+   {"timestamp":"2022-12-20T05:44:41.299Z"}
+info: Server started at http://localhost:5000/api/v1/ {"timestamp":"2022-12-20T05:45:15.343Z"}
+info: Connected to the database. {"timestamp":"2022-12-20T05:45:18.298Z"}
+info: Server started at http://localhost:5000/api/v1/ {"timestamp":"2022-12-20T05:46:22.694Z"}
+info: Connected to the database. {"timestamp":"2022-12-20T05:46:26.256Z"}
+info: Server started at http://localhost:5000/api/v1/ {"timestamp":"2022-12-20T05:47:07.622Z"}
+info: Connected to the database. {"timestamp":"2022-12-20T05:47:10.512Z"}
+info: Server started at http://localhost:5000/api/v1/ {"timestamp":"2022-12-20T05:47:45.256Z"}
+info: Connected to the database. {"timestamp":"2022-12-20T05:47:47.885Z"}
+info: Server started at http://localhost:5000/api/v1/ {"timestamp":"2022-12-20T05:49:56.144Z"}
+info: Connected to the database. {"timestamp":"2022-12-20T05:49:58.827Z"}
+info: Server started at http://localhost:5000/api/v1/ {"timestamp":"2022-12-20T05:50:43.526Z"}
+info: Connected to the database. {"timestamp":"2022-12-20T05:50:46.241Z"}
+info: Server started at http://localhost:5000/api/v1/ {"timestamp":"2022-12-20T06:02:39.894Z"}
+info: Connected to the database. {"timestamp":"2022-12-20T06:02:45.162Z"}
+info: Server started at http://localhost:5000/api/v1/ {"timestamp":"2022-12-20T06:05:28.223Z"}
+info: Connected to the database. {"timestamp":"2022-12-20T06:05:31.517Z"}
+info: Server started at http://localhost:5000/api/v1/ {"timestamp":"2022-12-20T06:07:20.833Z"}
+info: Connected to the database. {"timestamp":"2022-12-20T06:07:24.867Z"}
+info: Server started at http://localhost:5000/api/v1/ {"timestamp":"2022-12-20T06:08:43.050Z"}
+info: Server started at http://localhost:5000/api/v1/ {"timestamp":"2022-12-20T06:08:49.268Z"}
+info: Server started at http://localhost:5000/api/v1/ {"timestamp":"2022-12-20T06:08:52.717Z"}
+info: Connected to the database. {"timestamp":"2022-12-20T06:08:55.508Z"}
+error: 
+    status - 500 
+    message - Error: Password is invalid
+    at _callee3$ (C:\Users\Gajanan\OneDrive\Desktop\BasicsJS\Fundo-note\Fundo-note\src\services\/user.service.js:22:13)
+    at tryCatch (C:\Users\Gajanan\OneDrive\Desktop\BasicsJS\Fundo-note\Fundo-note\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:44:17)
+    at Generator.<anonymous> (C:\Users\Gajanan\OneDrive\Desktop\BasicsJS\Fundo-note\Fundo-note\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:125:22)
+    at Generator.next (C:\Users\Gajanan\OneDrive\Desktop\BasicsJS\Fundo-note\Fundo-note\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:69:21)
+    at asyncGeneratorStep (C:\Users\Gajanan\OneDrive\Desktop\BasicsJS\Fundo-note\Fundo-note\node_modules\@babel\runtime\helpers\asyncToGenerator.js:3:24)
+    at _next (C:\Users\Gajanan\OneDrive\Desktop\BasicsJS\Fundo-note\Fundo-note\node_modules\@babel\runtime\helpers\asyncToGenerator.js:22:9)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5) 
+    url - /api/v1/users/loginuser 
+    method - POST 
+    IP - ::1
+   {"timestamp":"2022-12-20T06:09:21.213Z"}
+info: Server started at http://localhost:5000/api/v1/ {"timestamp":"2022-12-20T06:13:45.521Z"}
+info: Connected to the database. {"timestamp":"2022-12-20T06:13:48.143Z"}
+error: 
+    status - 500 
+    message - Error: Password is invalid
+    at _callee3$ (C:\Users\Gajanan\OneDrive\Desktop\BasicsJS\Fundo-note\Fundo-note\src\services\/user.service.js:22:13)
+    at tryCatch (C:\Users\Gajanan\OneDrive\Desktop\BasicsJS\Fundo-note\Fundo-note\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:44:17)
+    at Generator.<anonymous> (C:\Users\Gajanan\OneDrive\Desktop\BasicsJS\Fundo-note\Fundo-note\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:125:22)
+    at Generator.next (C:\Users\Gajanan\OneDrive\Desktop\BasicsJS\Fundo-note\Fundo-note\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:69:21)
+    at asyncGeneratorStep (C:\Users\Gajanan\OneDrive\Desktop\BasicsJS\Fundo-note\Fundo-note\node_modules\@babel\runtime\helpers\asyncToGenerator.js:3:24)
+    at _next (C:\Users\Gajanan\OneDrive\Desktop\BasicsJS\Fundo-note\Fundo-note\node_modules\@babel\runtime\helpers\asyncToGenerator.js:22:9)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5) 
+    url - /api/v1/users/loginuser 
+    method - POST 
+    IP - ::1
+   {"timestamp":"2022-12-20T06:14:02.030Z"}
+info: Server started at http://localhost:5000/api/v1/ {"timestamp":"2022-12-20T06:20:40.352Z"}
+info: Server started at http://localhost:5000/api/v1/ {"timestamp":"2022-12-20T06:20:45.430Z"}
+info: Connected to the database. {"timestamp":"2022-12-20T06:20:49.230Z"}
+error: 
+    status - 500 
+    message - Error: Password is invalid
+    at _callee3$ (C:\Users\Gajanan\OneDrive\Desktop\BasicsJS\Fundo-note\Fundo-note\src\services\/user.service.js:22:13)
+    at tryCatch (C:\Users\Gajanan\OneDrive\Desktop\BasicsJS\Fundo-note\Fundo-note\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:44:17)
+    at Generator.<anonymous> (C:\Users\Gajanan\OneDrive\Desktop\BasicsJS\Fundo-note\Fundo-note\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:125:22)
+    at Generator.next (C:\Users\Gajanan\OneDrive\Desktop\BasicsJS\Fundo-note\Fundo-note\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:69:21)
+    at asyncGeneratorStep (C:\Users\Gajanan\OneDrive\Desktop\BasicsJS\Fundo-note\Fundo-note\node_modules\@babel\runtime\helpers\asyncToGenerator.js:3:24)
+    at _next (C:\Users\Gajanan\OneDrive\Desktop\BasicsJS\Fundo-note\Fundo-note\node_modules\@babel\runtime\helpers\asyncToGenerator.js:22:9)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5) 
+    url - /api/v1/users/loginuser 
+    method - POST 
+    IP - ::1
+   {"timestamp":"2022-12-20T06:20:54.505Z"}
+info: Server started at http://localhost:5000/api/v1/ {"timestamp":"2022-12-20T06:22:02.051Z"}
+info: Connected to the database. {"timestamp":"2022-12-20T06:22:05.894Z"}
+error: 
+    status - 500 
+    message - Error: Password is invalid
+    at _callee3$ (C:\Users\Gajanan\OneDrive\Desktop\BasicsJS\Fundo-note\Fundo-note\src\services\/user.service.js:23:13)
+    at tryCatch (C:\Users\Gajanan\OneDrive\Desktop\BasicsJS\Fundo-note\Fundo-note\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:44:17)
+    at Generator.<anonymous> (C:\Users\Gajanan\OneDrive\Desktop\BasicsJS\Fundo-note\Fundo-note\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:125:22)
+    at Generator.next (C:\Users\Gajanan\OneDrive\Desktop\BasicsJS\Fundo-note\Fundo-note\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:69:21)
+    at asyncGeneratorStep (C:\Users\Gajanan\OneDrive\Desktop\BasicsJS\Fundo-note\Fundo-note\node_modules\@babel\runtime\helpers\asyncToGenerator.js:3:24)
+    at _next (C:\Users\Gajanan\OneDrive\Desktop\BasicsJS\Fundo-note\Fundo-note\node_modules\@babel\runtime\helpers\asyncToGenerator.js:22:9)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5) 
+    url - /api/v1/users/loginuser 
+    method - POST 
+    IP - ::1
+   {"timestamp":"2022-12-20T06:22:09.194Z"}
+info: Server started at http://localhost:5000/api/v1/ {"timestamp":"2022-12-20T06:22:51.881Z"}
+info: Connected to the database. {"timestamp":"2022-12-20T06:22:56.307Z"}
+error: 
+    status - 500 
+    message - Error: Password is invalid
+    at _callee3$ (C:\Users\Gajanan\OneDrive\Desktop\BasicsJS\Fundo-note\Fundo-note\src\services\/user.service.js:24:13)
+    at tryCatch (C:\Users\Gajanan\OneDrive\Desktop\BasicsJS\Fundo-note\Fundo-note\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:44:17)
+    at Generator.<anonymous> (C:\Users\Gajanan\OneDrive\Desktop\BasicsJS\Fundo-note\Fundo-note\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:125:22)
+    at Generator.next (C:\Users\Gajanan\OneDrive\Desktop\BasicsJS\Fundo-note\Fundo-note\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:69:21)
+    at asyncGeneratorStep (C:\Users\Gajanan\OneDrive\Desktop\BasicsJS\Fundo-note\Fundo-note\node_modules\@babel\runtime\helpers\asyncToGenerator.js:3:24)
+    at _next (C:\Users\Gajanan\OneDrive\Desktop\BasicsJS\Fundo-note\Fundo-note\node_modules\@babel\runtime\helpers\asyncToGenerator.js:22:9)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5) 
+    url - /api/v1/users/loginuser 
+    method - POST 
+    IP - ::1
+   {"timestamp":"2022-12-20T06:22:56.599Z"}
+info: Server started at http://localhost:5000/api/v1/ {"timestamp":"2022-12-20T06:23:53.764Z"}
+info: Connected to the database. {"timestamp":"2022-12-20T06:23:56.751Z"}
+error: 
+    status - 500 
+    message - Error: Password is invalid
+    at _callee3$ (C:\Users\Gajanan\OneDrive\Desktop\BasicsJS\Fundo-note\Fundo-note\src\services\/user.service.js:24:13)
+    at tryCatch (C:\Users\Gajanan\OneDrive\Desktop\BasicsJS\Fundo-note\Fundo-note\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:44:17)
+    at Generator.<anonymous> (C:\Users\Gajanan\OneDrive\Desktop\BasicsJS\Fundo-note\Fundo-note\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:125:22)
+    at Generator.next (C:\Users\Gajanan\OneDrive\Desktop\BasicsJS\Fundo-note\Fundo-note\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:69:21)
+    at asyncGeneratorStep (C:\Users\Gajanan\OneDrive\Desktop\BasicsJS\Fundo-note\Fundo-note\node_modules\@babel\runtime\helpers\asyncToGenerator.js:3:24)
+    at _next (C:\Users\Gajanan\OneDrive\Desktop\BasicsJS\Fundo-note\Fundo-note\node_modules\@babel\runtime\helpers\asyncToGenerator.js:22:9)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5) 
+    url - /api/v1/users/loginuser 
+    method - POST 
+    IP - ::1
+   {"timestamp":"2022-12-20T06:24:28.666Z"}
+info: Server started at http://localhost:5000/api/v1/ {"timestamp":"2022-12-20T06:25:21.588Z"}
+info: Connected to the database. {"timestamp":"2022-12-20T06:25:25.214Z"}
+error: 
+    status - 500 
+    message - Error: Password is invalid
+    at _callee3$ (C:\Users\Gajanan\OneDrive\Desktop\BasicsJS\Fundo-note\Fundo-note\src\services\/user.service.js:24:13)
+    at tryCatch (C:\Users\Gajanan\OneDrive\Desktop\BasicsJS\Fundo-note\Fundo-note\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:44:17)
+    at Generator.<anonymous> (C:\Users\Gajanan\OneDrive\Desktop\BasicsJS\Fundo-note\Fundo-note\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:125:22)
+    at Generator.next (C:\Users\Gajanan\OneDrive\Desktop\BasicsJS\Fundo-note\Fundo-note\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:69:21)
+    at asyncGeneratorStep (C:\Users\Gajanan\OneDrive\Desktop\BasicsJS\Fundo-note\Fundo-note\node_modules\@babel\runtime\helpers\asyncToGenerator.js:3:24)
+    at _next (C:\Users\Gajanan\OneDrive\Desktop\BasicsJS\Fundo-note\Fundo-note\node_modules\@babel\runtime\helpers\asyncToGenerator.js:22:9)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5) 
+    url - /api/v1/users/loginuser 
+    method - POST 
+    IP - ::1
+   {"timestamp":"2022-12-20T06:25:26.143Z"}
+info: Server started at http://localhost:5000/api/v1/ {"timestamp":"2022-12-20T06:28:08.792Z"}
+info: Connected to the database. {"timestamp":"2022-12-20T06:28:16.672Z"}
+info: Server started at http://localhost:5000/api/v1/ {"timestamp":"2022-12-20T06:32:08.113Z"}
+info: Connected to the database. {"timestamp":"2022-12-20T06:32:11.190Z"}
+info: Server started at http://localhost:5000/api/v1/ {"timestamp":"2022-12-20T09:43:24.678Z"}
+info: Connected to the database. {"timestamp":"2022-12-20T09:43:27.759Z"}
+error: 
+    status - 500 
+    message - Error: Password is invalid
+    at _callee3$ (C:\Users\Gajanan\OneDrive\Desktop\BasicsJS\Fundo-note\Fundo-note\src\services\/user.service.js:24:13)
+    at tryCatch (C:\Users\Gajanan\OneDrive\Desktop\BasicsJS\Fundo-note\Fundo-note\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:44:17)
+    at Generator.<anonymous> (C:\Users\Gajanan\OneDrive\Desktop\BasicsJS\Fundo-note\Fundo-note\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:125:22)
+    at Generator.next (C:\Users\Gajanan\OneDrive\Desktop\BasicsJS\Fundo-note\Fundo-note\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:69:21)
+    at asyncGeneratorStep (C:\Users\Gajanan\OneDrive\Desktop\BasicsJS\Fundo-note\Fundo-note\node_modules\@babel\runtime\helpers\asyncToGenerator.js:3:24)
+    at _next (C:\Users\Gajanan\OneDrive\Desktop\BasicsJS\Fundo-note\Fundo-note\node_modules\@babel\runtime\helpers\asyncToGenerator.js:22:9)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5) 
+    url - /api/v1/users/loginuser 
+    method - POST 
+    IP - ::1
+   {"timestamp":"2022-12-20T09:43:46.536Z"}
+info: Server started at http://localhost:5000/api/v1/ {"timestamp":"2022-12-20T09:54:48.741Z"}
+info: Connected to the database. {"timestamp":"2022-12-20T09:54:51.621Z"}
+info: Server started at http://localhost:5000/api/v1/ {"timestamp":"2022-12-20T09:58:01.297Z"}
+info: Connected to the database. {"timestamp":"2022-12-20T09:58:03.986Z"}
+error: 
+    status - 500 
+    message - Error: Password is invalid
+    at _callee3$ (C:\Users\Gajanan\OneDrive\Desktop\BasicsJS\Fundo-note\Fundo-note\src\services\/user.service.js:24:13)
+    at tryCatch (C:\Users\Gajanan\OneDrive\Desktop\BasicsJS\Fundo-note\Fundo-note\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:44:17)
+    at Generator.<anonymous> (C:\Users\Gajanan\OneDrive\Desktop\BasicsJS\Fundo-note\Fundo-note\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:125:22)
+    at Generator.next (C:\Users\Gajanan\OneDrive\Desktop\BasicsJS\Fundo-note\Fundo-note\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:69:21)
+    at asyncGeneratorStep (C:\Users\Gajanan\OneDrive\Desktop\BasicsJS\Fundo-note\Fundo-note\node_modules\@babel\runtime\helpers\asyncToGenerator.js:3:24)
+    at _next (C:\Users\Gajanan\OneDrive\Desktop\BasicsJS\Fundo-note\Fundo-note\node_modules\@babel\runtime\helpers\asyncToGenerator.js:22:9)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5) 
+    url - /api/v1/users/loginuser 
+    method - POST 
+    IP - ::1
+   {"timestamp":"2022-12-20T09:58:27.515Z"}
+info: Server started at http://localhost:5000/api/v1/ {"timestamp":"2022-12-20T09:59:15.638Z"}
+info: Connected to the database. {"timestamp":"2022-12-20T09:59:19.573Z"}
+info: Server started at http://localhost:5000/api/v1/ {"timestamp":"2022-12-20T10:00:08.213Z"}
+info: Connected to the database. {"timestamp":"2022-12-20T10:00:10.777Z"}
+error: 
+    status - 500 
+    message - Error: Password is invalid
+    at _callee3$ (C:\Users\Gajanan\OneDrive\Desktop\BasicsJS\Fundo-note\Fundo-note\src\services\/user.service.js:24:13)
+    at tryCatch (C:\Users\Gajanan\OneDrive\Desktop\BasicsJS\Fundo-note\Fundo-note\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:44:17)
+    at Generator.<anonymous> (C:\Users\Gajanan\OneDrive\Desktop\BasicsJS\Fundo-note\Fundo-note\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:125:22)
+    at Generator.next (C:\Users\Gajanan\OneDrive\Desktop\BasicsJS\Fundo-note\Fundo-note\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:69:21)
+    at asyncGeneratorStep (C:\Users\Gajanan\OneDrive\Desktop\BasicsJS\Fundo-note\Fundo-note\node_modules\@babel\runtime\helpers\asyncToGenerator.js:3:24)
+    at _next (C:\Users\Gajanan\OneDrive\Desktop\BasicsJS\Fundo-note\Fundo-note\node_modules\@babel\runtime\helpers\asyncToGenerator.js:22:9)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5) 
+    url - /api/v1/users/loginuser 
+    method - POST 
+    IP - ::1
+   {"timestamp":"2022-12-20T10:00:57.218Z"}
+info: Server started at http://localhost:5000/api/v1/ {"timestamp":"2022-12-20T10:01:42.169Z"}
+info: Connected to the database. {"timestamp":"2022-12-20T10:01:45.704Z"}
+error: 
+    status - 500 
+    message - Error: Password is invalid
+    at _callee3$ (C:\Users\Gajanan\OneDrive\Desktop\BasicsJS\Fundo-note\Fundo-note\src\services\/user.service.js:24:13)
+    at tryCatch (C:\Users\Gajanan\OneDrive\Desktop\BasicsJS\Fundo-note\Fundo-note\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:44:17)
+    at Generator.<anonymous> (C:\Users\Gajanan\OneDrive\Desktop\BasicsJS\Fundo-note\Fundo-note\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:125:22)
+    at Generator.next (C:\Users\Gajanan\OneDrive\Desktop\BasicsJS\Fundo-note\Fundo-note\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:69:21)
+    at asyncGeneratorStep (C:\Users\Gajanan\OneDrive\Desktop\BasicsJS\Fundo-note\Fundo-note\node_modules\@babel\runtime\helpers\asyncToGenerator.js:3:24)
+    at _next (C:\Users\Gajanan\OneDrive\Desktop\BasicsJS\Fundo-note\Fundo-note\node_modules\@babel\runtime\helpers\asyncToGenerator.js:22:9)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5) 
+    url - /api/v1/users/loginuser 
+    method - POST 
+    IP - ::1
+   {"timestamp":"2022-12-20T10:01:50.780Z"}
+info: Server started at http://localhost:5000/api/v1/ {"timestamp":"2022-12-20T10:02:42.325Z"}
+info: Connected to the database. {"timestamp":"2022-12-20T10:02:50.631Z"}
+error: 
+    status - 500 
+    message - Error: Password is invalid
+    at _callee3$ (C:\Users\Gajanan\OneDrive\Desktop\BasicsJS\Fundo-note\Fundo-note\src\services\/user.service.js:24:13)
+    at tryCatch (C:\Users\Gajanan\OneDrive\Desktop\BasicsJS\Fundo-note\Fundo-note\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:44:17)
+    at Generator.<anonymous> (C:\Users\Gajanan\OneDrive\Desktop\BasicsJS\Fundo-note\Fundo-note\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:125:22)
+    at Generator.next (C:\Users\Gajanan\OneDrive\Desktop\BasicsJS\Fundo-note\Fundo-note\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:69:21)
+    at asyncGeneratorStep (C:\Users\Gajanan\OneDrive\Desktop\BasicsJS\Fundo-note\Fundo-note\node_modules\@babel\runtime\helpers\asyncToGenerator.js:3:24)
+    at _next (C:\Users\Gajanan\OneDrive\Desktop\BasicsJS\Fundo-note\Fundo-note\node_modules\@babel\runtime\helpers\asyncToGenerator.js:22:9)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5) 
+    url - /api/v1/users/loginuser 
+    method - POST 
+    IP - ::1
+   {"timestamp":"2022-12-20T10:02:55.184Z"}
+error: 
+    status - 500 
+    message - Error: Password is invalid
+    at _callee3$ (C:\Users\Gajanan\OneDrive\Desktop\BasicsJS\Fundo-note\Fundo-note\src\services\/user.service.js:24:13)
+    at tryCatch (C:\Users\Gajanan\OneDrive\Desktop\BasicsJS\Fundo-note\Fundo-note\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:44:17)
+    at Generator.<anonymous> (C:\Users\Gajanan\OneDrive\Desktop\BasicsJS\Fundo-note\Fundo-note\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:125:22)
+    at Generator.next (C:\Users\Gajanan\OneDrive\Desktop\BasicsJS\Fundo-note\Fundo-note\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:69:21)
+    at asyncGeneratorStep (C:\Users\Gajanan\OneDrive\Desktop\BasicsJS\Fundo-note\Fundo-note\node_modules\@babel\runtime\helpers\asyncToGenerator.js:3:24)
+    at _next (C:\Users\Gajanan\OneDrive\Desktop\BasicsJS\Fundo-note\Fundo-note\node_modules\@babel\runtime\helpers\asyncToGenerator.js:22:9)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5) 
+    url - /api/v1/users/loginuser 
+    method - POST 
+    IP - ::1
+   {"timestamp":"2022-12-20T10:02:58.776Z"}
+info: Server started at http://localhost:5000/api/v1/ {"timestamp":"2022-12-20T10:03:26.326Z"}
+info: Connected to the database. {"timestamp":"2022-12-20T10:03:30.336Z"}
+error: 
+    status - 500 
+    message - Error: Password is invalid
+    at _callee3$ (C:\Users\Gajanan\OneDrive\Desktop\BasicsJS\Fundo-note\Fundo-note\src\services\/user.service.js:24:13)
+    at tryCatch (C:\Users\Gajanan\OneDrive\Desktop\BasicsJS\Fundo-note\Fundo-note\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:44:17)
+    at Generator.<anonymous> (C:\Users\Gajanan\OneDrive\Desktop\BasicsJS\Fundo-note\Fundo-note\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:125:22)
+    at Generator.next (C:\Users\Gajanan\OneDrive\Desktop\BasicsJS\Fundo-note\Fundo-note\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:69:21)
+    at asyncGeneratorStep (C:\Users\Gajanan\OneDrive\Desktop\BasicsJS\Fundo-note\Fundo-note\node_modules\@babel\runtime\helpers\asyncToGenerator.js:3:24)
+    at _next (C:\Users\Gajanan\OneDrive\Desktop\BasicsJS\Fundo-note\Fundo-note\node_modules\@babel\runtime\helpers\asyncToGenerator.js:22:9)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5) 
+    url - /api/v1/users/loginuser 
+    method - POST 
+    IP - ::1
+   {"timestamp":"2022-12-20T10:03:36.265Z"}
+error: 
+    status - 500 
+    message - Error: Password is invalid
+    at _callee3$ (C:\Users\Gajanan\OneDrive\Desktop\BasicsJS\Fundo-note\Fundo-note\src\services\/user.service.js:24:13)
+    at tryCatch (C:\Users\Gajanan\OneDrive\Desktop\BasicsJS\Fundo-note\Fundo-note\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:44:17)
+    at Generator.<anonymous> (C:\Users\Gajanan\OneDrive\Desktop\BasicsJS\Fundo-note\Fundo-note\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:125:22)
+    at Generator.next (C:\Users\Gajanan\OneDrive\Desktop\BasicsJS\Fundo-note\Fundo-note\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:69:21)
+    at asyncGeneratorStep (C:\Users\Gajanan\OneDrive\Desktop\BasicsJS\Fundo-note\Fundo-note\node_modules\@babel\runtime\helpers\asyncToGenerator.js:3:24)
+    at _next (C:\Users\Gajanan\OneDrive\Desktop\BasicsJS\Fundo-note\Fundo-note\node_modules\@babel\runtime\helpers\asyncToGenerator.js:22:9)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5) 
+    url - /api/v1/users/loginuser 
+    method - POST 
+    IP - ::1
+   {"timestamp":"2022-12-20T10:03:38.372Z"}
+info: Server started at http://localhost:5000/api/v1/ {"timestamp":"2022-12-20T10:04:41.100Z"}
+info: Connected to the database. {"timestamp":"2022-12-20T10:04:49.344Z"}
+error: 
+    status - 500 
+    message - TypeError: Cannot read properties of null (reading 'Length')
+    at _callee3$ (C:\Users\Gajanan\OneDrive\Desktop\BasicsJS\Fundo-note\Fundo-note\src\services\/user.service.js:20:11)
+    at tryCatch (C:\Users\Gajanan\OneDrive\Desktop\BasicsJS\Fundo-note\Fundo-note\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:44:17)
+    at Generator.<anonymous> (C:\Users\Gajanan\OneDrive\Desktop\BasicsJS\Fundo-note\Fundo-note\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:125:22)
+    at Generator.next (C:\Users\Gajanan\OneDrive\Desktop\BasicsJS\Fundo-note\Fundo-note\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:69:21)
+    at asyncGeneratorStep (C:\Users\Gajanan\OneDrive\Desktop\BasicsJS\Fundo-note\Fundo-note\node_modules\@babel\runtime\helpers\asyncToGenerator.js:3:24)
+    at _next (C:\Users\Gajanan\OneDrive\Desktop\BasicsJS\Fundo-note\Fundo-note\node_modules\@babel\runtime\helpers\asyncToGenerator.js:22:9)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5) 
+    url - /api/v1/users/loginuser 
+    method - POST 
+    IP - ::1
+   {"timestamp":"2022-12-20T10:05:22.116Z"}
+info: Server started at http://localhost:5000/api/v1/ {"timestamp":"2022-12-20T10:05:47.941Z"}
+info: Connected to the database. {"timestamp":"2022-12-20T10:05:50.877Z"}
+error: 
+    status - 500 
+    message - Error: Password is invalid
+    at _callee3$ (C:\Users\Gajanan\OneDrive\Desktop\BasicsJS\Fundo-note\Fundo-note\src\services\/user.service.js:24:13)
+    at tryCatch (C:\Users\Gajanan\OneDrive\Desktop\BasicsJS\Fundo-note\Fundo-note\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:44:17)
+    at Generator.<anonymous> (C:\Users\Gajanan\OneDrive\Desktop\BasicsJS\Fundo-note\Fundo-note\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:125:22)
+    at Generator.next (C:\Users\Gajanan\OneDrive\Desktop\BasicsJS\Fundo-note\Fundo-note\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:69:21)
+    at asyncGeneratorStep (C:\Users\Gajanan\OneDrive\Desktop\BasicsJS\Fundo-note\Fundo-note\node_modules\@babel\runtime\helpers\asyncToGenerator.js:3:24)
+    at _next (C:\Users\Gajanan\OneDrive\Desktop\BasicsJS\Fundo-note\Fundo-note\node_modules\@babel\runtime\helpers\asyncToGenerator.js:22:9)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5) 
+    url - /api/v1/users/loginuser 
+    method - POST 
+    IP - ::1
+   {"timestamp":"2022-12-20T10:05:54.248Z"}
+info: Server started at http://localhost:5000/api/v1/ {"timestamp":"2022-12-20T10:07:09.407Z"}
+info: Connected to the database. {"timestamp":"2022-12-20T10:07:12.426Z"}
+info: Server started at http://localhost:5000/api/v1/ {"timestamp":"2022-12-20T10:34:29.669Z"}
+info: Connected to the database. {"timestamp":"2022-12-20T10:34:32.685Z"}
+info: Server started at http://localhost:5000/api/v1/ {"timestamp":"2022-12-20T12:00:57.477Z"}
+info: Connected to the database. {"timestamp":"2022-12-20T12:01:00.293Z"}
+info: Server started at http://localhost:5000/api/v1/ {"timestamp":"2022-12-20T12:01:50.699Z"}
+info: Connected to the database. {"timestamp":"2022-12-20T12:01:53.448Z"}
+error: 
+    status - 500 
+    message - Error: Password is invalid
+    at _callee3$ (C:\Users\Gajanan\OneDrive\Desktop\BasicsJS\Fundo-note\Fundo-note\src\services\/user.service.js:25:13)
+    at tryCatch (C:\Users\Gajanan\OneDrive\Desktop\BasicsJS\Fundo-note\Fundo-note\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:44:17)
+    at Generator.<anonymous> (C:\Users\Gajanan\OneDrive\Desktop\BasicsJS\Fundo-note\Fundo-note\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:125:22)
+    at Generator.next (C:\Users\Gajanan\OneDrive\Desktop\BasicsJS\Fundo-note\Fundo-note\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:69:21)
+    at asyncGeneratorStep (C:\Users\Gajanan\OneDrive\Desktop\BasicsJS\Fundo-note\Fundo-note\node_modules\@babel\runtime\helpers\asyncToGenerator.js:3:24)
+    at _next (C:\Users\Gajanan\OneDrive\Desktop\BasicsJS\Fundo-note\Fundo-note\node_modules\@babel\runtime\helpers\asyncToGenerator.js:22:9)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5) 
+    url - /api/v1/users/loginuser 
+    method - POST 
+    IP - ::1
+   {"timestamp":"2022-12-20T12:01:58.673Z"}
+info: Server started at http://localhost:5000/api/v1/ {"timestamp":"2022-12-20T12:03:02.377Z"}
+info: Connected to the database. {"timestamp":"2022-12-20T12:03:09.647Z"}
+error: 
+    status - 500 
+    message - Error: Password is invalid
+    at _callee3$ (C:\Users\Gajanan\OneDrive\Desktop\BasicsJS\Fundo-note\Fundo-note\src\services\/user.service.js:25:13)
+    at tryCatch (C:\Users\Gajanan\OneDrive\Desktop\BasicsJS\Fundo-note\Fundo-note\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:44:17)
+    at Generator.<anonymous> (C:\Users\Gajanan\OneDrive\Desktop\BasicsJS\Fundo-note\Fundo-note\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:125:22)
+    at Generator.next (C:\Users\Gajanan\OneDrive\Desktop\BasicsJS\Fundo-note\Fundo-note\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:69:21)
+    at asyncGeneratorStep (C:\Users\Gajanan\OneDrive\Desktop\BasicsJS\Fundo-note\Fundo-note\node_modules\@babel\runtime\helpers\asyncToGenerator.js:3:24)
+    at _next (C:\Users\Gajanan\OneDrive\Desktop\BasicsJS\Fundo-note\Fundo-note\node_modules\@babel\runtime\helpers\asyncToGenerator.js:22:9)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5) 
+    url - /api/v1/users/loginuser 
+    method - POST 
+    IP - ::1
+   {"timestamp":"2022-12-20T12:03:15.202Z"}
+error: 
+    status - 500 
+    message - Error: Password is invalid
+    at _callee3$ (C:\Users\Gajanan\OneDrive\Desktop\BasicsJS\Fundo-note\Fundo-note\src\services\/user.service.js:25:13)
+    at tryCatch (C:\Users\Gajanan\OneDrive\Desktop\BasicsJS\Fundo-note\Fundo-note\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:44:17)
+    at Generator.<anonymous> (C:\Users\Gajanan\OneDrive\Desktop\BasicsJS\Fundo-note\Fundo-note\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:125:22)
+    at Generator.next (C:\Users\Gajanan\OneDrive\Desktop\BasicsJS\Fundo-note\Fundo-note\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:69:21)
+    at asyncGeneratorStep (C:\Users\Gajanan\OneDrive\Desktop\BasicsJS\Fundo-note\Fundo-note\node_modules\@babel\runtime\helpers\asyncToGenerator.js:3:24)
+    at _next (C:\Users\Gajanan\OneDrive\Desktop\BasicsJS\Fundo-note\Fundo-note\node_modules\@babel\runtime\helpers\asyncToGenerator.js:22:9)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5) 
+    url - /api/v1/users/loginuser 
+    method - POST 
+    IP - ::1
+   {"timestamp":"2022-12-20T12:03:18.232Z"}
+info: Server started at http://localhost:5000/api/v1/ {"timestamp":"2022-12-20T12:04:30.535Z"}
+info: Connected to the database. {"timestamp":"2022-12-20T12:04:37.915Z"}
+info: Server started at http://localhost:5000/api/v1/ {"timestamp":"2022-12-20T12:06:57.972Z"}
+info: Connected to the database. {"timestamp":"2022-12-20T12:07:00.824Z"}
+error: 
+    status - 500 
+    message - Error: Password is invalid
+    at _callee3$ (C:\Users\Gajanan\OneDrive\Desktop\BasicsJS\Fundo-note\Fundo-note\src\services\/user.service.js:22:13)
+    at tryCatch (C:\Users\Gajanan\OneDrive\Desktop\BasicsJS\Fundo-note\Fundo-note\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:44:17)
+    at Generator.<anonymous> (C:\Users\Gajanan\OneDrive\Desktop\BasicsJS\Fundo-note\Fundo-note\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:125:22)
+    at Generator.next (C:\Users\Gajanan\OneDrive\Desktop\BasicsJS\Fundo-note\Fundo-note\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:69:21)
+    at asyncGeneratorStep (C:\Users\Gajanan\OneDrive\Desktop\BasicsJS\Fundo-note\Fundo-note\node_modules\@babel\runtime\helpers\asyncToGenerator.js:3:24)
+    at _next (C:\Users\Gajanan\OneDrive\Desktop\BasicsJS\Fundo-note\Fundo-note\node_modules\@babel\runtime\helpers\asyncToGenerator.js:22:9)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5) 
+    url - /api/v1/users/loginuser 
+    method - POST 
+    IP - ::1
+   {"timestamp":"2022-12-20T12:07:18.973Z"}
+error: 
+    status - 500 
+    message - Error: Password is invalid
+    at _callee3$ (C:\Users\Gajanan\OneDrive\Desktop\BasicsJS\Fundo-note\Fundo-note\src\services\/user.service.js:22:13)
+    at tryCatch (C:\Users\Gajanan\OneDrive\Desktop\BasicsJS\Fundo-note\Fundo-note\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:44:17)
+    at Generator.<anonymous> (C:\Users\Gajanan\OneDrive\Desktop\BasicsJS\Fundo-note\Fundo-note\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:125:22)
+    at Generator.next (C:\Users\Gajanan\OneDrive\Desktop\BasicsJS\Fundo-note\Fundo-note\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:69:21)
+    at asyncGeneratorStep (C:\Users\Gajanan\OneDrive\Desktop\BasicsJS\Fundo-note\Fundo-note\node_modules\@babel\runtime\helpers\asyncToGenerator.js:3:24)
+    at _next (C:\Users\Gajanan\OneDrive\Desktop\BasicsJS\Fundo-note\Fundo-note\node_modules\@babel\runtime\helpers\asyncToGenerator.js:22:9)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5) 
+    url - /api/v1/users/loginuser 
+    method - POST 
+    IP - ::1
+   {"timestamp":"2022-12-20T12:08:10.451Z"}
+info: Server started at http://localhost:5000/api/v1/ {"timestamp":"2022-12-20T12:08:27.796Z"}
+info: Connected to the database. {"timestamp":"2022-12-20T12:08:30.639Z"}
+info: Server started at http://localhost:5000/api/v1/ {"timestamp":"2022-12-20T12:08:46.463Z"}
+info: Connected to the database. {"timestamp":"2022-12-20T12:08:49.309Z"}
+error: 
+    status - 500 
+    message - TypeError: Cannot read properties of null (reading 'password')
+    at _callee3$ (C:\Users\Gajanan\OneDrive\Desktop\BasicsJS\Fundo-note\Fundo-note\src\services\/user.service.js:19:13)
+    at tryCatch (C:\Users\Gajanan\OneDrive\Desktop\BasicsJS\Fundo-note\Fundo-note\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:44:17)
+    at Generator.<anonymous> (C:\Users\Gajanan\OneDrive\Desktop\BasicsJS\Fundo-note\Fundo-note\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:125:22)
+    at Generator.next (C:\Users\Gajanan\OneDrive\Desktop\BasicsJS\Fundo-note\Fundo-note\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:69:21)
+    at asyncGeneratorStep (C:\Users\Gajanan\OneDrive\Desktop\BasicsJS\Fundo-note\Fundo-note\node_modules\@babel\runtime\helpers\asyncToGenerator.js:3:24)
+    at _next (C:\Users\Gajanan\OneDrive\Desktop\BasicsJS\Fundo-note\Fundo-note\node_modules\@babel\runtime\helpers\asyncToGenerator.js:22:9)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5) 
+    url - /api/v1/users/loginuser 
+    method - POST 
+    IP - ::1
+   {"timestamp":"2022-12-20T12:08:57.372Z"}
+info: Server started at http://localhost:5000/api/v1/ {"timestamp":"2022-12-20T12:09:27.089Z"}
+info: Connected to the database. {"timestamp":"2022-12-20T12:09:30.135Z"}
+error: 
+    status - 500 
+    message - TypeError: Cannot read properties of null (reading 'password')
+    at _callee3$ (C:\Users\Gajanan\OneDrive\Desktop\BasicsJS\Fundo-note\Fundo-note\src\services\/user.service.js:19:13)
+    at tryCatch (C:\Users\Gajanan\OneDrive\Desktop\BasicsJS\Fundo-note\Fundo-note\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:44:17)
+    at Generator.<anonymous> (C:\Users\Gajanan\OneDrive\Desktop\BasicsJS\Fundo-note\Fundo-note\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:125:22)
+    at Generator.next (C:\Users\Gajanan\OneDrive\Desktop\BasicsJS\Fundo-note\Fundo-note\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:69:21)
+    at asyncGeneratorStep (C:\Users\Gajanan\OneDrive\Desktop\BasicsJS\Fundo-note\Fundo-note\node_modules\@babel\runtime\helpers\asyncToGenerator.js:3:24)
+    at _next (C:\Users\Gajanan\OneDrive\Desktop\BasicsJS\Fundo-note\Fundo-note\node_modules\@babel\runtime\helpers\asyncToGenerator.js:22:9)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5) 
+    url - /api/v1/users/loginuser 
+    method - POST 
+    IP - ::1
+   {"timestamp":"2022-12-20T12:09:40.937Z"}
+info: Server started at http://localhost:5000/api/v1/ {"timestamp":"2022-12-20T12:09:54.572Z"}
+info: Connected to the database. {"timestamp":"2022-12-20T12:09:57.479Z"}
+error: 
+    status - 500 
+    message - TypeError: Cannot read properties of null (reading 'Length')
+    at _callee3$ (C:\Users\Gajanan\OneDrive\Desktop\BasicsJS\Fundo-note\Fundo-note\src\services\/user.service.js:18:11)
+    at tryCatch (C:\Users\Gajanan\OneDrive\Desktop\BasicsJS\Fundo-note\Fundo-note\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:44:17)
+    at Generator.<anonymous> (C:\Users\Gajanan\OneDrive\Desktop\BasicsJS\Fundo-note\Fundo-note\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:125:22)
+    at Generator.next (C:\Users\Gajanan\OneDrive\Desktop\BasicsJS\Fundo-note\Fundo-note\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:69:21)
+    at asyncGeneratorStep (C:\Users\Gajanan\OneDrive\Desktop\BasicsJS\Fundo-note\Fundo-note\node_modules\@babel\runtime\helpers\asyncToGenerator.js:3:24)
+    at _next (C:\Users\Gajanan\OneDrive\Desktop\BasicsJS\Fundo-note\Fundo-note\node_modules\@babel\runtime\helpers\asyncToGenerator.js:22:9)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5) 
+    url - /api/v1/users/loginuser 
+    method - POST 
+    IP - ::1
+   {"timestamp":"2022-12-20T12:10:01.630Z"}
+info: Server started at http://localhost:5000/api/v1/ {"timestamp":"2022-12-20T12:10:18.252Z"}
+info: Connected to the database. {"timestamp":"2022-12-20T12:10:21.295Z"}
+error: 
+    status - 500 
+    message - Error: Password is invalid
+    at _callee3$ (C:\Users\Gajanan\OneDrive\Desktop\BasicsJS\Fundo-note\Fundo-note\src\services\/user.service.js:22:13)
+    at tryCatch (C:\Users\Gajanan\OneDrive\Desktop\BasicsJS\Fundo-note\Fundo-note\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:44:17)
+    at Generator.<anonymous> (C:\Users\Gajanan\OneDrive\Desktop\BasicsJS\Fundo-note\Fundo-note\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:125:22)
+    at Generator.next (C:\Users\Gajanan\OneDrive\Desktop\BasicsJS\Fundo-note\Fundo-note\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:69:21)
+    at asyncGeneratorStep (C:\Users\Gajanan\OneDrive\Desktop\BasicsJS\Fundo-note\Fundo-note\node_modules\@babel\runtime\helpers\asyncToGenerator.js:3:24)
+    at _next (C:\Users\Gajanan\OneDrive\Desktop\BasicsJS\Fundo-note\Fundo-note\node_modules\@babel\runtime\helpers\asyncToGenerator.js:22:9)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5) 
+    url - /api/v1/users/loginuser 
+    method - POST 
+    IP - ::1
+   {"timestamp":"2022-12-20T12:10:30.514Z"}
+info: Server started at http://localhost:5000/api/v1/ {"timestamp":"2022-12-20T12:11:20.911Z"}
+info: Connected to the database. {"timestamp":"2022-12-20T12:11:23.758Z"}

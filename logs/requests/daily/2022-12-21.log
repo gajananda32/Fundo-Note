@@ -1,0 +1,36 @@
+info: ::1 - - [21/Dec/2022:03:02:26 +0000] "POST /api/v1/users/loginuser HTTP/1.1" 500 86 "-" "PostmanRuntime/7.30.0"
+
+info: ::1 - - [21/Dec/2022:03:03:10 +0000] "POST /api/v1/users/loginuser HTTP/1.1" 500 47 "-" "PostmanRuntime/7.30.0"
+
+info: ::1 - - [21/Dec/2022:03:03:22 +0000] "POST /api/v1/users/loginuser HTTP/1.1" 200 268 "-" "PostmanRuntime/7.30.0"
+
+info: ::1 - - [21/Dec/2022:03:09:38 +0000] "POST /api/v1/users/loginuser HTTP/1.1" 500 47 "-" "PostmanRuntime/7.30.0"
+
+info: ::1 - - [21/Dec/2022:04:40:23 +0000] "POST /api/v1/users/loginuser HTTP/1.1" 500 49 "-" "PostmanRuntime/7.30.0"
+
+info: ::1 - - [21/Dec/2022:04:40:44 +0000] "POST /api/v1/users/loginuser HTTP/1.1" 500 54 "-" "PostmanRuntime/7.30.0"
+
+info: ::1 - - [21/Dec/2022:04:47:27 +0000] "POST /api/v1/users/register HTTP/1.1" 500 60 "-" "PostmanRuntime/7.30.0"
+
+info: ::1 - - [21/Dec/2022:04:48:36 +0000] "POST /api/v1/users/register HTTP/1.1" 500 70 "-" "PostmanRuntime/7.30.0"
+
+info: ::1 - - [21/Dec/2022:04:49:26 +0000] "GET /api/v1/users HTTP/1.1" 200 1025 "-" "PostmanRuntime/7.30.0"
+
+info: ::1 - - [21/Dec/2022:04:50:35 +0000] "POST /api/v1/users/register HTTP/1.1" 500 70 "-" "PostmanRuntime/7.30.0"
+
+info: ::1 - - [21/Dec/2022:04:51:06 +0000] "POST /api/v1/users/register HTTP/1.1" 201 323 "-" "PostmanRuntime/7.30.0"
+
+info: ::1 - - [21/Dec/2022:04:52:26 +0000] "GET /api/v1/users HTTP/1.1" 200 1291 "-" "PostmanRuntime/7.30.0"
+
+info: ::1 - - [21/Dec/2022:04:52:56 +0000] "DELETE /api/v1/users/63a1512014d3912eec9ab441 HTTP/1.1" 200 60 "-" "PostmanRuntime/7.30.0"
+
+info: ::1 - - [21/Dec/2022:04:53:09 +0000] "GET /api/v1/users HTTP/1.1" 200 1121 "-" "PostmanRuntime/7.30.0"
+
+info: ::1 - - [21/Dec/2022:04:53:34 +0000] "DELETE /api/v1/users/63a150cc17390067642f767b HTTP/1.1" 200 60 "-" "PostmanRuntime/7.30.0"
+
+info: ::1 - - [21/Dec/2022:04:53:44 +0000] "GET /api/v1/users HTTP/1.1" 200 951 "-" "PostmanRuntime/7.30.0"
+
+info: ::1 - - [21/Dec/2022:04:54:15 +0000] "DELETE /api/v1/users/63a13cce4af47d5798476910 HTTP/1.1" 200 60 "-" "PostmanRuntime/7.30.0"
+
+info: ::1 - - [21/Dec/2022:04:54:26 +0000] "GET /api/v1/users HTTP/1.1" 200 746 "-" "PostmanRuntime/7.30.0"
+

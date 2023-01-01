@@ -1,0 +1,716 @@
+info: Server started at http://localhost:5000/api/v1/ {"timestamp":"2022-12-28T02:40:53.696Z"}
+info: Connected to the database. {"timestamp":"2022-12-28T02:41:00.473Z"}
+error: 
+    status - 500 
+    message - Error: data and salt arguments required
+    at Object.hashSync (C:\Users\Gajanan\OneDrive\Desktop\BasicsJS\projects\FundooNote\FundoNote\node_modules\bcrypt\bcrypt.js:91:15)
+    at _callee4$ (C:\Users\Gajanan\OneDrive\Desktop\BasicsJS\projects\FundooNote\FundoNote\src\services\/user.service.js:49:33)
+    at tryCatch (C:\Users\Gajanan\OneDrive\Desktop\BasicsJS\projects\FundooNote\FundoNote\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:44:17)
+    at Generator.<anonymous> (C:\Users\Gajanan\OneDrive\Desktop\BasicsJS\projects\FundooNote\FundoNote\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:125:22)
+    at Generator.next (C:\Users\Gajanan\OneDrive\Desktop\BasicsJS\projects\FundooNote\FundoNote\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:69:21)
+    at asyncGeneratorStep (C:\Users\Gajanan\OneDrive\Desktop\BasicsJS\projects\FundooNote\FundoNote\node_modules\@babel\runtime\helpers\asyncToGenerator.js:3:24)
+    at _next (C:\Users\Gajanan\OneDrive\Desktop\BasicsJS\projects\FundooNote\FundoNote\node_modules\@babel\runtime\helpers\asyncToGenerator.js:22:9)
+    at C:\Users\Gajanan\OneDrive\Desktop\BasicsJS\projects\FundooNote\FundoNote\node_modules\@babel\runtime\helpers\asyncToGenerator.js:27:7
+    at new Promise (<anonymous>)
+    at Object.<anonymous> (C:\Users\Gajanan\OneDrive\Desktop\BasicsJS\projects\FundooNote\FundoNote\node_modules\@babel\runtime\helpers\asyncToGenerator.js:19:12)
+    at Object.ResetPassword (C:\Users\Gajanan\OneDrive\Desktop\BasicsJS\projects\FundooNote\FundoNote\src\services\/user.service.js:47:27)
+    at _callee5$ (C:\Users\Gajanan\OneDrive\Desktop\BasicsJS\projects\FundooNote\FundoNote\src\controllers\/user.controller.js:78:36)
+    at tryCatch (C:\Users\Gajanan\OneDrive\Desktop\BasicsJS\projects\FundooNote\FundoNote\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:44:17)
+    at Generator.<anonymous> (C:\Users\Gajanan\OneDrive\Desktop\BasicsJS\projects\FundooNote\FundoNote\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:125:22)
+    at Generator.next (C:\Users\Gajanan\OneDrive\Desktop\BasicsJS\projects\FundooNote\FundoNote\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:69:21)
+    at asyncGeneratorStep (C:\Users\Gajanan\OneDrive\Desktop\BasicsJS\projects\FundooNote\FundoNote\node_modules\@babel\runtime\helpers\asyncToGenerator.js:3:24)
+    at _next (C:\Users\Gajanan\OneDrive\Desktop\BasicsJS\projects\FundooNote\FundoNote\node_modules\@babel\runtime\helpers\asyncToGenerator.js:22:9)
+    at C:\Users\Gajanan\OneDrive\Desktop\BasicsJS\projects\FundooNote\FundoNote\node_modules\@babel\runtime\helpers\asyncToGenerator.js:27:7
+    at new Promise (<anonymous>)
+    at C:\Users\Gajanan\OneDrive\Desktop\BasicsJS\projects\FundooNote\FundoNote\node_modules\@babel\runtime\helpers\asyncToGenerator.js:19:12
+    at ResetPassword (C:\Users\Gajanan\OneDrive\Desktop\BasicsJS\projects\FundooNote\FundoNote\src\controllers\/user.controller.js:76:27)
+    at Layer.handle [as handle_request] (C:\Users\Gajanan\OneDrive\Desktop\BasicsJS\projects\FundooNote\FundoNote\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Users\Gajanan\OneDrive\Desktop\BasicsJS\projects\FundooNote\FundoNote\node_modules\express\lib\router\route.js:144:13)
+    at _callee2$ (C:\Users\Gajanan\OneDrive\Desktop\BasicsJS\projects\FundooNote\FundoNote\src\middlewares\/auth.middleware.js:43:5)
+    at tryCatch (C:\Users\Gajanan\OneDrive\Desktop\BasicsJS\projects\FundooNote\FundoNote\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:44:17)
+    at Generator.<anonymous> (C:\Users\Gajanan\OneDrive\Desktop\BasicsJS\projects\FundooNote\FundoNote\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:125:22)
+    at Generator.next (C:\Users\Gajanan\OneDrive\Desktop\BasicsJS\projects\FundooNote\FundoNote\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:69:21)
+    at asyncGeneratorStep (C:\Users\Gajanan\OneDrive\Desktop\BasicsJS\projects\FundooNote\FundoNote\node_modules\@babel\runtime\helpers\asyncToGenerator.js:3:24)
+    at _next (C:\Users\Gajanan\OneDrive\Desktop\BasicsJS\projects\FundooNote\FundoNote\node_modules\@babel\runtime\helpers\asyncToGenerator.js:22:9)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5) 
+    url - /api/v1/users/resetpassword 
+    method - PUT 
+    IP - ::1
+   {"timestamp":"2022-12-28T02:41:24.533Z"}
+info: Server started at http://localhost:5000/api/v1/ {"timestamp":"2022-12-28T04:14:25.959Z"}
+info: Connected to the database. {"timestamp":"2022-12-28T04:14:29.045Z"}
+info: Server started at http://localhost:5000/api/v1/ {"timestamp":"2022-12-28T04:14:41.873Z"}
+info: Connected to the database. {"timestamp":"2022-12-28T04:14:44.545Z"}
+info: Server started at http://localhost:5000/api/v1/ {"timestamp":"2022-12-28T05:00:18.987Z"}
+info: Connected to the database. {"timestamp":"2022-12-28T05:00:24.135Z"}
+info: Server started at http://localhost:5000/api/v1/ {"timestamp":"2022-12-28T05:01:47.004Z"}
+info: Server started at http://localhost:5000/api/v1/ {"timestamp":"2022-12-28T05:03:06.367Z"}
+info: Connected to the database. {"timestamp":"2022-12-28T05:03:09.396Z"}
+info: Server started at http://localhost:5000/api/v1/ {"timestamp":"2022-12-28T05:08:51.017Z"}
+info: Connected to the database. {"timestamp":"2022-12-28T05:08:54.678Z"}
+error: 
+    status - 500 
+    message - ValidationError: "lastName" length must be at least 2 characters long 
+    url - /api/v1/users/register 
+    method - POST 
+    IP - ::ffff:127.0.0.1
+   {"timestamp":"2022-12-28T05:08:56.292Z"}
+info: Server started at http://localhost:5000/api/v1/ {"timestamp":"2022-12-28T05:14:50.821Z"}
+info: Connected to the database. {"timestamp":"2022-12-28T05:14:53.528Z"}
+error: 
+    status - 500 
+    message - ValidationError: "lastName" length must be at least 2 characters long 
+    url - /api/v1/users/register 
+    method - POST 
+    IP - ::ffff:127.0.0.1
+   {"timestamp":"2022-12-28T05:14:54.591Z"}
+error: 
+      status - 11000
+      message - E11000 duplicate key error collection: test.users index: Email_1 dup key: { Email: null } 
+      url - /api/v1/users/register 
+      method - POST 
+      IP - ::ffff:127.0.0.1
+     {"timestamp":"2022-12-28T05:14:55.160Z"}
+error: 
+    status - 500 
+    message - RangeError: Invalid status code: 11000
+    at new NodeError (node:internal/errors:393:5)
+    at ServerResponse.writeHead (node:_http_server:343:11)
+    at ServerResponse.writeHead (C:\Users\Gajanan\OneDrive\Desktop\BasicsJS\projects\FundooNote\FundoNote\node_modules\on-headers\index.js:44:26)
+    at ServerResponse._implicitHeader (node:_http_server:334:8)
+    at write_ (node:_http_outgoing:867:9)
+    at ServerResponse.end (node:_http_outgoing:977:5)
+    at ServerResponse.send (C:\Users\Gajanan\OneDrive\Desktop\BasicsJS\projects\FundooNote\FundoNote\node_modules\express\lib\response.js:232:10)
+    at ServerResponse.json (C:\Users\Gajanan\OneDrive\Desktop\BasicsJS\projects\FundooNote\FundoNote\node_modules\express\lib\response.js:278:15)
+    at appErrorHandler (C:\Users\Gajanan\OneDrive\Desktop\BasicsJS\projects\FundooNote\FundoNote\src\middlewares\/error.middleware.js:36:26)
+    at Layer.handle_error (C:\Users\Gajanan\OneDrive\Desktop\BasicsJS\projects\FundooNote\FundoNote\node_modules\express\lib\router\layer.js:71:5)
+    at trim_prefix (C:\Users\Gajanan\OneDrive\Desktop\BasicsJS\projects\FundooNote\FundoNote\node_modules\express\lib\router\index.js:326:13)
+    at C:\Users\Gajanan\OneDrive\Desktop\BasicsJS\projects\FundooNote\FundoNote\node_modules\express\lib\router\index.js:286:9
+    at Function.process_params (C:\Users\Gajanan\OneDrive\Desktop\BasicsJS\projects\FundooNote\FundoNote\node_modules\express\lib\router\index.js:346:12)
+    at next (C:\Users\Gajanan\OneDrive\Desktop\BasicsJS\projects\FundooNote\FundoNote\node_modules\express\lib\router\index.js:280:10)
+    at C:\Users\Gajanan\OneDrive\Desktop\BasicsJS\projects\FundooNote\FundoNote\node_modules\express\lib\router\index.js:646:15
+    at next (C:\Users\Gajanan\OneDrive\Desktop\BasicsJS\projects\FundooNote\FundoNote\node_modules\express\lib\router\index.js:265:14)
+    at C:\Users\Gajanan\OneDrive\Desktop\BasicsJS\projects\FundooNote\FundoNote\node_modules\express\lib\router\index.js:646:15
+    at next (C:\Users\Gajanan\OneDrive\Desktop\BasicsJS\projects\FundooNote\FundoNote\node_modules\express\lib\router\index.js:265:14)
+    at next (C:\Users\Gajanan\OneDrive\Desktop\BasicsJS\projects\FundooNote\FundoNote\node_modules\express\lib\router\route.js:136:14)
+    at _callee3$ (C:\Users\Gajanan\OneDrive\Desktop\BasicsJS\projects\FundooNote\FundoNote\src\controllers\/user.controller.js:57:5)
+    at tryCatch (C:\Users\Gajanan\OneDrive\Desktop\BasicsJS\projects\FundooNote\FundoNote\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:44:17)
+    at Generator.<anonymous> (C:\Users\Gajanan\OneDrive\Desktop\BasicsJS\projects\FundooNote\FundoNote\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:125:22)
+    at Generator.throw (C:\Users\Gajanan\OneDrive\Desktop\BasicsJS\projects\FundooNote\FundoNote\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:69:21)
+    at asyncGeneratorStep (C:\Users\Gajanan\OneDrive\Desktop\BasicsJS\projects\FundooNote\FundoNote\node_modules\@babel\runtime\helpers\asyncToGenerator.js:3:24)
+    at _throw (C:\Users\Gajanan\OneDrive\Desktop\BasicsJS\projects\FundooNote\FundoNote\node_modules\@babel\runtime\helpers\asyncToGenerator.js:25:9)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5) 
+    url - /api/v1/users/register 
+    method - POST 
+    IP - ::ffff:127.0.0.1
+   {"timestamp":"2022-12-28T05:14:55.173Z"}
+error: 
+    status - 500 
+    message - ValidationError: "firstName" length must be at least 4 characters long 
+    url - /api/v1/users/register 
+    method - POST 
+    IP - ::ffff:127.0.0.1
+   {"timestamp":"2022-12-28T05:14:55.854Z"}
+info: Server started at http://localhost:5000/api/v1/ {"timestamp":"2022-12-28T05:16:57.022Z"}
+info: Connected to the database. {"timestamp":"2022-12-28T05:16:59.646Z"}
+error: 
+    status - 500 
+    message - ValidationError: "lastName" length must be at least 2 characters long 
+    url - /api/v1/users/register 
+    method - POST 
+    IP - ::ffff:127.0.0.1
+   {"timestamp":"2022-12-28T05:17:00.859Z"}
+error: 
+      status - 11000
+      message - E11000 duplicate key error collection: test.users index: Email_1 dup key: { Email: null } 
+      url - /api/v1/users/register 
+      method - POST 
+      IP - ::ffff:127.0.0.1
+     {"timestamp":"2022-12-28T05:17:01.646Z"}
+error: 
+    status - 500 
+    message - RangeError: Invalid status code: 11000
+    at new NodeError (node:internal/errors:393:5)
+    at ServerResponse.writeHead (node:_http_server:343:11)
+    at ServerResponse.writeHead (C:\Users\Gajanan\OneDrive\Desktop\BasicsJS\projects\FundooNote\FundoNote\node_modules\on-headers\index.js:44:26)
+    at ServerResponse._implicitHeader (node:_http_server:334:8)
+    at write_ (node:_http_outgoing:867:9)
+    at ServerResponse.end (node:_http_outgoing:977:5)
+    at ServerResponse.send (C:\Users\Gajanan\OneDrive\Desktop\BasicsJS\projects\FundooNote\FundoNote\node_modules\express\lib\response.js:232:10)
+    at ServerResponse.json (C:\Users\Gajanan\OneDrive\Desktop\BasicsJS\projects\FundooNote\FundoNote\node_modules\express\lib\response.js:278:15)
+    at appErrorHandler (C:\Users\Gajanan\OneDrive\Desktop\BasicsJS\projects\FundooNote\FundoNote\src\middlewares\/error.middleware.js:36:26)
+    at Layer.handle_error (C:\Users\Gajanan\OneDrive\Desktop\BasicsJS\projects\FundooNote\FundoNote\node_modules\express\lib\router\layer.js:71:5)
+    at trim_prefix (C:\Users\Gajanan\OneDrive\Desktop\BasicsJS\projects\FundooNote\FundoNote\node_modules\express\lib\router\index.js:326:13)
+    at C:\Users\Gajanan\OneDrive\Desktop\BasicsJS\projects\FundooNote\FundoNote\node_modules\express\lib\router\index.js:286:9
+    at Function.process_params (C:\Users\Gajanan\OneDrive\Desktop\BasicsJS\projects\FundooNote\FundoNote\node_modules\express\lib\router\index.js:346:12)
+    at next (C:\Users\Gajanan\OneDrive\Desktop\BasicsJS\projects\FundooNote\FundoNote\node_modules\express\lib\router\index.js:280:10)
+    at C:\Users\Gajanan\OneDrive\Desktop\BasicsJS\projects\FundooNote\FundoNote\node_modules\express\lib\router\index.js:646:15
+    at next (C:\Users\Gajanan\OneDrive\Desktop\BasicsJS\projects\FundooNote\FundoNote\node_modules\express\lib\router\index.js:265:14)
+    at C:\Users\Gajanan\OneDrive\Desktop\BasicsJS\projects\FundooNote\FundoNote\node_modules\express\lib\router\index.js:646:15
+    at next (C:\Users\Gajanan\OneDrive\Desktop\BasicsJS\projects\FundooNote\FundoNote\node_modules\express\lib\router\index.js:265:14)
+    at next (C:\Users\Gajanan\OneDrive\Desktop\BasicsJS\projects\FundooNote\FundoNote\node_modules\express\lib\router\route.js:136:14)
+    at _callee3$ (C:\Users\Gajanan\OneDrive\Desktop\BasicsJS\projects\FundooNote\FundoNote\src\controllers\/user.controller.js:57:5)
+    at tryCatch (C:\Users\Gajanan\OneDrive\Desktop\BasicsJS\projects\FundooNote\FundoNote\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:44:17)
+    at Generator.<anonymous> (C:\Users\Gajanan\OneDrive\Desktop\BasicsJS\projects\FundooNote\FundoNote\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:125:22)
+    at Generator.throw (C:\Users\Gajanan\OneDrive\Desktop\BasicsJS\projects\FundooNote\FundoNote\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:69:21)
+    at asyncGeneratorStep (C:\Users\Gajanan\OneDrive\Desktop\BasicsJS\projects\FundooNote\FundoNote\node_modules\@babel\runtime\helpers\asyncToGenerator.js:3:24)
+    at _throw (C:\Users\Gajanan\OneDrive\Desktop\BasicsJS\projects\FundooNote\FundoNote\node_modules\@babel\runtime\helpers\asyncToGenerator.js:25:9)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5) 
+    url - /api/v1/users/register 
+    method - POST 
+    IP - ::ffff:127.0.0.1
+   {"timestamp":"2022-12-28T05:17:01.682Z"}
+error: 
+    status - 500 
+    message - ValidationError: "firstName" length must be at least 4 characters long 
+    url - /api/v1/users/register 
+    method - POST 
+    IP - ::ffff:127.0.0.1
+   {"timestamp":"2022-12-28T05:17:01.789Z"}
+info: Server started at http://localhost:5000/api/v1/ {"timestamp":"2022-12-28T05:17:45.779Z"}
+info: Connected to the database. {"timestamp":"2022-12-28T05:17:48.714Z"}
+error: 
+    status - 500 
+    message - ValidationError: "lastName" length must be at least 2 characters long 
+    url - /api/v1/users/register 
+    method - POST 
+    IP - ::ffff:127.0.0.1
+   {"timestamp":"2022-12-28T05:17:49.770Z"}
+error: 
+      status - 11000
+      message - E11000 duplicate key error collection: test.users index: Email_1 dup key: { Email: null } 
+      url - /api/v1/users/register 
+      method - POST 
+      IP - ::ffff:127.0.0.1
+     {"timestamp":"2022-12-28T05:17:50.562Z"}
+error: 
+    status - 500 
+    message - RangeError: Invalid status code: 11000
+    at new NodeError (node:internal/errors:393:5)
+    at ServerResponse.writeHead (node:_http_server:343:11)
+    at ServerResponse.writeHead (C:\Users\Gajanan\OneDrive\Desktop\BasicsJS\projects\FundooNote\FundoNote\node_modules\on-headers\index.js:44:26)
+    at ServerResponse._implicitHeader (node:_http_server:334:8)
+    at write_ (node:_http_outgoing:867:9)
+    at ServerResponse.end (node:_http_outgoing:977:5)
+    at ServerResponse.send (C:\Users\Gajanan\OneDrive\Desktop\BasicsJS\projects\FundooNote\FundoNote\node_modules\express\lib\response.js:232:10)
+    at ServerResponse.json (C:\Users\Gajanan\OneDrive\Desktop\BasicsJS\projects\FundooNote\FundoNote\node_modules\express\lib\response.js:278:15)
+    at appErrorHandler (C:\Users\Gajanan\OneDrive\Desktop\BasicsJS\projects\FundooNote\FundoNote\src\middlewares\/error.middleware.js:36:26)
+    at Layer.handle_error (C:\Users\Gajanan\OneDrive\Desktop\BasicsJS\projects\FundooNote\FundoNote\node_modules\express\lib\router\layer.js:71:5)
+    at trim_prefix (C:\Users\Gajanan\OneDrive\Desktop\BasicsJS\projects\FundooNote\FundoNote\node_modules\express\lib\router\index.js:326:13)
+    at C:\Users\Gajanan\OneDrive\Desktop\BasicsJS\projects\FundooNote\FundoNote\node_modules\express\lib\router\index.js:286:9
+    at Function.process_params (C:\Users\Gajanan\OneDrive\Desktop\BasicsJS\projects\FundooNote\FundoNote\node_modules\express\lib\router\index.js:346:12)
+    at next (C:\Users\Gajanan\OneDrive\Desktop\BasicsJS\projects\FundooNote\FundoNote\node_modules\express\lib\router\index.js:280:10)
+    at C:\Users\Gajanan\OneDrive\Desktop\BasicsJS\projects\FundooNote\FundoNote\node_modules\express\lib\router\index.js:646:15
+    at next (C:\Users\Gajanan\OneDrive\Desktop\BasicsJS\projects\FundooNote\FundoNote\node_modules\express\lib\router\index.js:265:14)
+    at C:\Users\Gajanan\OneDrive\Desktop\BasicsJS\projects\FundooNote\FundoNote\node_modules\express\lib\router\index.js:646:15
+    at next (C:\Users\Gajanan\OneDrive\Desktop\BasicsJS\projects\FundooNote\FundoNote\node_modules\express\lib\router\index.js:265:14)
+    at next (C:\Users\Gajanan\OneDrive\Desktop\BasicsJS\projects\FundooNote\FundoNote\node_modules\express\lib\router\route.js:136:14)
+    at _callee3$ (C:\Users\Gajanan\OneDrive\Desktop\BasicsJS\projects\FundooNote\FundoNote\src\controllers\/user.controller.js:57:5)
+    at tryCatch (C:\Users\Gajanan\OneDrive\Desktop\BasicsJS\projects\FundooNote\FundoNote\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:44:17)
+    at Generator.<anonymous> (C:\Users\Gajanan\OneDrive\Desktop\BasicsJS\projects\FundooNote\FundoNote\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:125:22)
+    at Generator.throw (C:\Users\Gajanan\OneDrive\Desktop\BasicsJS\projects\FundooNote\FundoNote\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:69:21)
+    at asyncGeneratorStep (C:\Users\Gajanan\OneDrive\Desktop\BasicsJS\projects\FundooNote\FundoNote\node_modules\@babel\runtime\helpers\asyncToGenerator.js:3:24)
+    at _throw (C:\Users\Gajanan\OneDrive\Desktop\BasicsJS\projects\FundooNote\FundoNote\node_modules\@babel\runtime\helpers\asyncToGenerator.js:25:9)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5) 
+    url - /api/v1/users/register 
+    method - POST 
+    IP - ::ffff:127.0.0.1
+   {"timestamp":"2022-12-28T05:17:50.600Z"}
+error: 
+    status - 500 
+    message - ValidationError: "lastName" length must be at least 2 characters long 
+    url - /api/v1/users/register 
+    method - POST 
+    IP - ::ffff:127.0.0.1
+   {"timestamp":"2022-12-28T05:17:50.701Z"}
+info: Server started at http://localhost:5000/api/v1/ {"timestamp":"2022-12-28T05:19:23.997Z"}
+info: Connected to the database. {"timestamp":"2022-12-28T05:19:26.817Z"}
+error: 
+    status - 500 
+    message - ValidationError: "lastName" length must be at least 2 characters long 
+    url - /api/v1/users/register 
+    method - POST 
+    IP - ::ffff:127.0.0.1
+   {"timestamp":"2022-12-28T05:19:27.965Z"}
+error: 
+      status - 11000
+      message - E11000 duplicate key error collection: test.users index: Email_1 dup key: { Email: null } 
+      url - /api/v1/users/register 
+      method - POST 
+      IP - ::ffff:127.0.0.1
+     {"timestamp":"2022-12-28T05:19:28.576Z"}
+error: 
+    status - 500 
+    message - RangeError: Invalid status code: 11000
+    at new NodeError (node:internal/errors:393:5)
+    at ServerResponse.writeHead (node:_http_server:343:11)
+    at ServerResponse.writeHead (C:\Users\Gajanan\OneDrive\Desktop\BasicsJS\projects\FundooNote\FundoNote\node_modules\on-headers\index.js:44:26)
+    at ServerResponse._implicitHeader (node:_http_server:334:8)
+    at write_ (node:_http_outgoing:867:9)
+    at ServerResponse.end (node:_http_outgoing:977:5)
+    at ServerResponse.send (C:\Users\Gajanan\OneDrive\Desktop\BasicsJS\projects\FundooNote\FundoNote\node_modules\express\lib\response.js:232:10)
+    at ServerResponse.json (C:\Users\Gajanan\OneDrive\Desktop\BasicsJS\projects\FundooNote\FundoNote\node_modules\express\lib\response.js:278:15)
+    at appErrorHandler (C:\Users\Gajanan\OneDrive\Desktop\BasicsJS\projects\FundooNote\FundoNote\src\middlewares\/error.middleware.js:36:26)
+    at Layer.handle_error (C:\Users\Gajanan\OneDrive\Desktop\BasicsJS\projects\FundooNote\FundoNote\node_modules\express\lib\router\layer.js:71:5)
+    at trim_prefix (C:\Users\Gajanan\OneDrive\Desktop\BasicsJS\projects\FundooNote\FundoNote\node_modules\express\lib\router\index.js:326:13)
+    at C:\Users\Gajanan\OneDrive\Desktop\BasicsJS\projects\FundooNote\FundoNote\node_modules\express\lib\router\index.js:286:9
+    at Function.process_params (C:\Users\Gajanan\OneDrive\Desktop\BasicsJS\projects\FundooNote\FundoNote\node_modules\express\lib\router\index.js:346:12)
+    at next (C:\Users\Gajanan\OneDrive\Desktop\BasicsJS\projects\FundooNote\FundoNote\node_modules\express\lib\router\index.js:280:10)
+    at C:\Users\Gajanan\OneDrive\Desktop\BasicsJS\projects\FundooNote\FundoNote\node_modules\express\lib\router\index.js:646:15
+    at next (C:\Users\Gajanan\OneDrive\Desktop\BasicsJS\projects\FundooNote\FundoNote\node_modules\express\lib\router\index.js:265:14)
+    at C:\Users\Gajanan\OneDrive\Desktop\BasicsJS\projects\FundooNote\FundoNote\node_modules\express\lib\router\index.js:646:15
+    at next (C:\Users\Gajanan\OneDrive\Desktop\BasicsJS\projects\FundooNote\FundoNote\node_modules\express\lib\router\index.js:265:14)
+    at next (C:\Users\Gajanan\OneDrive\Desktop\BasicsJS\projects\FundooNote\FundoNote\node_modules\express\lib\router\route.js:136:14)
+    at _callee3$ (C:\Users\Gajanan\OneDrive\Desktop\BasicsJS\projects\FundooNote\FundoNote\src\controllers\/user.controller.js:57:5)
+    at tryCatch (C:\Users\Gajanan\OneDrive\Desktop\BasicsJS\projects\FundooNote\FundoNote\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:44:17)
+    at Generator.<anonymous> (C:\Users\Gajanan\OneDrive\Desktop\BasicsJS\projects\FundooNote\FundoNote\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:125:22)
+    at Generator.throw (C:\Users\Gajanan\OneDrive\Desktop\BasicsJS\projects\FundooNote\FundoNote\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:69:21)
+    at asyncGeneratorStep (C:\Users\Gajanan\OneDrive\Desktop\BasicsJS\projects\FundooNote\FundoNote\node_modules\@babel\runtime\helpers\asyncToGenerator.js:3:24)
+    at _throw (C:\Users\Gajanan\OneDrive\Desktop\BasicsJS\projects\FundooNote\FundoNote\node_modules\@babel\runtime\helpers\asyncToGenerator.js:25:9)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5) 
+    url - /api/v1/users/register 
+    method - POST 
+    IP - ::ffff:127.0.0.1
+   {"timestamp":"2022-12-28T05:19:28.607Z"}
+info: Server started at http://localhost:5000/api/v1/ {"timestamp":"2022-12-28T05:21:24.406Z"}
+info: Connected to the database. {"timestamp":"2022-12-28T05:21:27.123Z"}
+error: 
+    status - 500 
+    message - ValidationError: "lastName" length must be at least 2 characters long 
+    url - /api/v1/users/register 
+    method - POST 
+    IP - ::ffff:127.0.0.1
+   {"timestamp":"2022-12-28T05:21:28.711Z"}
+info: Server started at http://localhost:5000/api/v1/ {"timestamp":"2022-12-28T05:33:48.213Z"}
+info: Connected to the database. {"timestamp":"2022-12-28T05:33:52.264Z"}
+error: 
+    status - 500 
+    message - ValidationError: "lastName" length must be at least 2 characters long 
+    url - /api/v1/users/register 
+    method - POST 
+    IP - ::ffff:127.0.0.1
+   {"timestamp":"2022-12-28T05:33:53.474Z"}
+error: 
+      status - 11000
+      message - E11000 duplicate key error collection: test.users index: Email_1 dup key: { Email: null } 
+      url - /api/v1/users/register 
+      method - POST 
+      IP - ::ffff:127.0.0.1
+     {"timestamp":"2022-12-28T05:33:54.152Z"}
+error: 
+    status - 500 
+    message - RangeError: Invalid status code: 11000
+    at new NodeError (node:internal/errors:393:5)
+    at ServerResponse.writeHead (node:_http_server:343:11)
+    at ServerResponse.writeHead (C:\Users\Gajanan\OneDrive\Desktop\BasicsJS\projects\FundooNote\FundoNote\node_modules\on-headers\index.js:44:26)
+    at ServerResponse._implicitHeader (node:_http_server:334:8)
+    at write_ (node:_http_outgoing:867:9)
+    at ServerResponse.end (node:_http_outgoing:977:5)
+    at ServerResponse.send (C:\Users\Gajanan\OneDrive\Desktop\BasicsJS\projects\FundooNote\FundoNote\node_modules\express\lib\response.js:232:10)
+    at ServerResponse.json (C:\Users\Gajanan\OneDrive\Desktop\BasicsJS\projects\FundooNote\FundoNote\node_modules\express\lib\response.js:278:15)
+    at appErrorHandler (C:\Users\Gajanan\OneDrive\Desktop\BasicsJS\projects\FundooNote\FundoNote\src\middlewares\/error.middleware.js:36:26)
+    at Layer.handle_error (C:\Users\Gajanan\OneDrive\Desktop\BasicsJS\projects\FundooNote\FundoNote\node_modules\express\lib\router\layer.js:71:5)
+    at trim_prefix (C:\Users\Gajanan\OneDrive\Desktop\BasicsJS\projects\FundooNote\FundoNote\node_modules\express\lib\router\index.js:326:13)
+    at C:\Users\Gajanan\OneDrive\Desktop\BasicsJS\projects\FundooNote\FundoNote\node_modules\express\lib\router\index.js:286:9
+    at Function.process_params (C:\Users\Gajanan\OneDrive\Desktop\BasicsJS\projects\FundooNote\FundoNote\node_modules\express\lib\router\index.js:346:12)
+    at next (C:\Users\Gajanan\OneDrive\Desktop\BasicsJS\projects\FundooNote\FundoNote\node_modules\express\lib\router\index.js:280:10)
+    at C:\Users\Gajanan\OneDrive\Desktop\BasicsJS\projects\FundooNote\FundoNote\node_modules\express\lib\router\index.js:646:15
+    at next (C:\Users\Gajanan\OneDrive\Desktop\BasicsJS\projects\FundooNote\FundoNote\node_modules\express\lib\router\index.js:265:14)
+    at C:\Users\Gajanan\OneDrive\Desktop\BasicsJS\projects\FundooNote\FundoNote\node_modules\express\lib\router\index.js:646:15
+    at next (C:\Users\Gajanan\OneDrive\Desktop\BasicsJS\projects\FundooNote\FundoNote\node_modules\express\lib\router\index.js:265:14)
+    at next (C:\Users\Gajanan\OneDrive\Desktop\BasicsJS\projects\FundooNote\FundoNote\node_modules\express\lib\router\route.js:136:14)
+    at _callee3$ (C:\Users\Gajanan\OneDrive\Desktop\BasicsJS\projects\FundooNote\FundoNote\src\controllers\/user.controller.js:57:5)
+    at tryCatch (C:\Users\Gajanan\OneDrive\Desktop\BasicsJS\projects\FundooNote\FundoNote\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:44:17)
+    at Generator.<anonymous> (C:\Users\Gajanan\OneDrive\Desktop\BasicsJS\projects\FundooNote\FundoNote\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:125:22)
+    at Generator.throw (C:\Users\Gajanan\OneDrive\Desktop\BasicsJS\projects\FundooNote\FundoNote\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:69:21)
+    at asyncGeneratorStep (C:\Users\Gajanan\OneDrive\Desktop\BasicsJS\projects\FundooNote\FundoNote\node_modules\@babel\runtime\helpers\asyncToGenerator.js:3:24)
+    at _throw (C:\Users\Gajanan\OneDrive\Desktop\BasicsJS\projects\FundooNote\FundoNote\node_modules\@babel\runtime\helpers\asyncToGenerator.js:25:9)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5) 
+    url - /api/v1/users/register 
+    method - POST 
+    IP - ::ffff:127.0.0.1
+   {"timestamp":"2022-12-28T05:33:54.187Z"}
+info: Server started at http://localhost:5000/api/v1/ {"timestamp":"2022-12-28T05:35:21.864Z"}
+info: Connected to the database. {"timestamp":"2022-12-28T05:35:29.728Z"}
+error: 
+    status - 500 
+    message - ValidationError: "lastName" length must be at least 2 characters long 
+    url - /api/v1/users/register 
+    method - POST 
+    IP - ::ffff:127.0.0.1
+   {"timestamp":"2022-12-28T05:35:30.826Z"}
+error: 
+      status - 11000
+      message - E11000 duplicate key error collection: test.users index: Email_1 dup key: { Email: null } 
+      url - /api/v1/users/register 
+      method - POST 
+      IP - ::ffff:127.0.0.1
+     {"timestamp":"2022-12-28T05:35:31.489Z"}
+error: 
+    status - 500 
+    message - RangeError: Invalid status code: 11000
+    at new NodeError (node:internal/errors:393:5)
+    at ServerResponse.writeHead (node:_http_server:343:11)
+    at ServerResponse.writeHead (C:\Users\Gajanan\OneDrive\Desktop\BasicsJS\projects\FundooNote\FundoNote\node_modules\on-headers\index.js:44:26)
+    at ServerResponse._implicitHeader (node:_http_server:334:8)
+    at write_ (node:_http_outgoing:867:9)
+    at ServerResponse.end (node:_http_outgoing:977:5)
+    at ServerResponse.send (C:\Users\Gajanan\OneDrive\Desktop\BasicsJS\projects\FundooNote\FundoNote\node_modules\express\lib\response.js:232:10)
+    at ServerResponse.json (C:\Users\Gajanan\OneDrive\Desktop\BasicsJS\projects\FundooNote\FundoNote\node_modules\express\lib\response.js:278:15)
+    at appErrorHandler (C:\Users\Gajanan\OneDrive\Desktop\BasicsJS\projects\FundooNote\FundoNote\src\middlewares\/error.middleware.js:36:26)
+    at Layer.handle_error (C:\Users\Gajanan\OneDrive\Desktop\BasicsJS\projects\FundooNote\FundoNote\node_modules\express\lib\router\layer.js:71:5)
+    at trim_prefix (C:\Users\Gajanan\OneDrive\Desktop\BasicsJS\projects\FundooNote\FundoNote\node_modules\express\lib\router\index.js:326:13)
+    at C:\Users\Gajanan\OneDrive\Desktop\BasicsJS\projects\FundooNote\FundoNote\node_modules\express\lib\router\index.js:286:9
+    at Function.process_params (C:\Users\Gajanan\OneDrive\Desktop\BasicsJS\projects\FundooNote\FundoNote\node_modules\express\lib\router\index.js:346:12)
+    at next (C:\Users\Gajanan\OneDrive\Desktop\BasicsJS\projects\FundooNote\FundoNote\node_modules\express\lib\router\index.js:280:10)
+    at C:\Users\Gajanan\OneDrive\Desktop\BasicsJS\projects\FundooNote\FundoNote\node_modules\express\lib\router\index.js:646:15
+    at next (C:\Users\Gajanan\OneDrive\Desktop\BasicsJS\projects\FundooNote\FundoNote\node_modules\express\lib\router\index.js:265:14)
+    at C:\Users\Gajanan\OneDrive\Desktop\BasicsJS\projects\FundooNote\FundoNote\node_modules\express\lib\router\index.js:646:15
+    at next (C:\Users\Gajanan\OneDrive\Desktop\BasicsJS\projects\FundooNote\FundoNote\node_modules\express\lib\router\index.js:265:14)
+    at next (C:\Users\Gajanan\OneDrive\Desktop\BasicsJS\projects\FundooNote\FundoNote\node_modules\express\lib\router\route.js:136:14)
+    at _callee3$ (C:\Users\Gajanan\OneDrive\Desktop\BasicsJS\projects\FundooNote\FundoNote\src\controllers\/user.controller.js:57:5)
+    at tryCatch (C:\Users\Gajanan\OneDrive\Desktop\BasicsJS\projects\FundooNote\FundoNote\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:44:17)
+    at Generator.<anonymous> (C:\Users\Gajanan\OneDrive\Desktop\BasicsJS\projects\FundooNote\FundoNote\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:125:22)
+    at Generator.throw (C:\Users\Gajanan\OneDrive\Desktop\BasicsJS\projects\FundooNote\FundoNote\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:69:21)
+    at asyncGeneratorStep (C:\Users\Gajanan\OneDrive\Desktop\BasicsJS\projects\FundooNote\FundoNote\node_modules\@babel\runtime\helpers\asyncToGenerator.js:3:24)
+    at _throw (C:\Users\Gajanan\OneDrive\Desktop\BasicsJS\projects\FundooNote\FundoNote\node_modules\@babel\runtime\helpers\asyncToGenerator.js:25:9)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5) 
+    url - /api/v1/users/register 
+    method - POST 
+    IP - ::ffff:127.0.0.1
+   {"timestamp":"2022-12-28T05:35:31.530Z"}
+info: Server started at http://localhost:5000/api/v1/ {"timestamp":"2022-12-28T05:35:55.684Z"}
+info: Connected to the database. {"timestamp":"2022-12-28T05:35:58.953Z"}
+error: 
+    status - 500 
+    message - ValidationError: "lastName" length must be at least 2 characters long 
+    url - /api/v1/users/register 
+    method - POST 
+    IP - ::ffff:127.0.0.1
+   {"timestamp":"2022-12-28T05:36:00.226Z"}
+error: 
+      status - 11000
+      message - E11000 duplicate key error collection: test.users index: Email_1 dup key: { Email: null } 
+      url - /api/v1/users/register 
+      method - POST 
+      IP - ::ffff:127.0.0.1
+     {"timestamp":"2022-12-28T05:36:00.898Z"}
+error: 
+    status - 500 
+    message - RangeError: Invalid status code: 11000
+    at new NodeError (node:internal/errors:393:5)
+    at ServerResponse.writeHead (node:_http_server:343:11)
+    at ServerResponse.writeHead (C:\Users\Gajanan\OneDrive\Desktop\BasicsJS\projects\FundooNote\FundoNote\node_modules\on-headers\index.js:44:26)
+    at ServerResponse._implicitHeader (node:_http_server:334:8)
+    at write_ (node:_http_outgoing:867:9)
+    at ServerResponse.end (node:_http_outgoing:977:5)
+    at ServerResponse.send (C:\Users\Gajanan\OneDrive\Desktop\BasicsJS\projects\FundooNote\FundoNote\node_modules\express\lib\response.js:232:10)
+    at ServerResponse.json (C:\Users\Gajanan\OneDrive\Desktop\BasicsJS\projects\FundooNote\FundoNote\node_modules\express\lib\response.js:278:15)
+    at appErrorHandler (C:\Users\Gajanan\OneDrive\Desktop\BasicsJS\projects\FundooNote\FundoNote\src\middlewares\/error.middleware.js:36:26)
+    at Layer.handle_error (C:\Users\Gajanan\OneDrive\Desktop\BasicsJS\projects\FundooNote\FundoNote\node_modules\express\lib\router\layer.js:71:5)
+    at trim_prefix (C:\Users\Gajanan\OneDrive\Desktop\BasicsJS\projects\FundooNote\FundoNote\node_modules\express\lib\router\index.js:326:13)
+    at C:\Users\Gajanan\OneDrive\Desktop\BasicsJS\projects\FundooNote\FundoNote\node_modules\express\lib\router\index.js:286:9
+    at Function.process_params (C:\Users\Gajanan\OneDrive\Desktop\BasicsJS\projects\FundooNote\FundoNote\node_modules\express\lib\router\index.js:346:12)
+    at next (C:\Users\Gajanan\OneDrive\Desktop\BasicsJS\projects\FundooNote\FundoNote\node_modules\express\lib\router\index.js:280:10)
+    at C:\Users\Gajanan\OneDrive\Desktop\BasicsJS\projects\FundooNote\FundoNote\node_modules\express\lib\router\index.js:646:15
+    at next (C:\Users\Gajanan\OneDrive\Desktop\BasicsJS\projects\FundooNote\FundoNote\node_modules\express\lib\router\index.js:265:14)
+    at C:\Users\Gajanan\OneDrive\Desktop\BasicsJS\projects\FundooNote\FundoNote\node_modules\express\lib\router\index.js:646:15
+    at next (C:\Users\Gajanan\OneDrive\Desktop\BasicsJS\projects\FundooNote\FundoNote\node_modules\express\lib\router\index.js:265:14)
+    at next (C:\Users\Gajanan\OneDrive\Desktop\BasicsJS\projects\FundooNote\FundoNote\node_modules\express\lib\router\route.js:136:14)
+    at _callee3$ (C:\Users\Gajanan\OneDrive\Desktop\BasicsJS\projects\FundooNote\FundoNote\src\controllers\/user.controller.js:57:5)
+    at tryCatch (C:\Users\Gajanan\OneDrive\Desktop\BasicsJS\projects\FundooNote\FundoNote\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:44:17)
+    at Generator.<anonymous> (C:\Users\Gajanan\OneDrive\Desktop\BasicsJS\projects\FundooNote\FundoNote\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:125:22)
+    at Generator.throw (C:\Users\Gajanan\OneDrive\Desktop\BasicsJS\projects\FundooNote\FundoNote\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:69:21)
+    at asyncGeneratorStep (C:\Users\Gajanan\OneDrive\Desktop\BasicsJS\projects\FundooNote\FundoNote\node_modules\@babel\runtime\helpers\asyncToGenerator.js:3:24)
+    at _throw (C:\Users\Gajanan\OneDrive\Desktop\BasicsJS\projects\FundooNote\FundoNote\node_modules\@babel\runtime\helpers\asyncToGenerator.js:25:9)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5) 
+    url - /api/v1/users/register 
+    method - POST 
+    IP - ::ffff:127.0.0.1
+   {"timestamp":"2022-12-28T05:36:00.918Z"}
+info: Server started at http://localhost:5000/api/v1/ {"timestamp":"2022-12-28T05:36:31.171Z"}
+info: Connected to the database. {"timestamp":"2022-12-28T05:36:33.920Z"}
+error: 
+    status - 500 
+    message - ValidationError: "lastName" length must be at least 2 characters long 
+    url - /api/v1/users/register 
+    method - POST 
+    IP - ::ffff:127.0.0.1
+   {"timestamp":"2022-12-28T05:36:34.985Z"}
+error: 
+      status - 11000
+      message - E11000 duplicate key error collection: test.users index: Email_1 dup key: { Email: null } 
+      url - /api/v1/users/register 
+      method - POST 
+      IP - ::ffff:127.0.0.1
+     {"timestamp":"2022-12-28T05:36:35.571Z"}
+error: 
+    status - 500 
+    message - RangeError: Invalid status code: 11000
+    at new NodeError (node:internal/errors:393:5)
+    at ServerResponse.writeHead (node:_http_server:343:11)
+    at ServerResponse.writeHead (C:\Users\Gajanan\OneDrive\Desktop\BasicsJS\projects\FundooNote\FundoNote\node_modules\on-headers\index.js:44:26)
+    at ServerResponse._implicitHeader (node:_http_server:334:8)
+    at write_ (node:_http_outgoing:867:9)
+    at ServerResponse.end (node:_http_outgoing:977:5)
+    at ServerResponse.send (C:\Users\Gajanan\OneDrive\Desktop\BasicsJS\projects\FundooNote\FundoNote\node_modules\express\lib\response.js:232:10)
+    at ServerResponse.json (C:\Users\Gajanan\OneDrive\Desktop\BasicsJS\projects\FundooNote\FundoNote\node_modules\express\lib\response.js:278:15)
+    at appErrorHandler (C:\Users\Gajanan\OneDrive\Desktop\BasicsJS\projects\FundooNote\FundoNote\src\middlewares\/error.middleware.js:36:26)
+    at Layer.handle_error (C:\Users\Gajanan\OneDrive\Desktop\BasicsJS\projects\FundooNote\FundoNote\node_modules\express\lib\router\layer.js:71:5)
+    at trim_prefix (C:\Users\Gajanan\OneDrive\Desktop\BasicsJS\projects\FundooNote\FundoNote\node_modules\express\lib\router\index.js:326:13)
+    at C:\Users\Gajanan\OneDrive\Desktop\BasicsJS\projects\FundooNote\FundoNote\node_modules\express\lib\router\index.js:286:9
+    at Function.process_params (C:\Users\Gajanan\OneDrive\Desktop\BasicsJS\projects\FundooNote\FundoNote\node_modules\express\lib\router\index.js:346:12)
+    at next (C:\Users\Gajanan\OneDrive\Desktop\BasicsJS\projects\FundooNote\FundoNote\node_modules\express\lib\router\index.js:280:10)
+    at C:\Users\Gajanan\OneDrive\Desktop\BasicsJS\projects\FundooNote\FundoNote\node_modules\express\lib\router\index.js:646:15
+    at next (C:\Users\Gajanan\OneDrive\Desktop\BasicsJS\projects\FundooNote\FundoNote\node_modules\express\lib\router\index.js:265:14)
+    at C:\Users\Gajanan\OneDrive\Desktop\BasicsJS\projects\FundooNote\FundoNote\node_modules\express\lib\router\index.js:646:15
+    at next (C:\Users\Gajanan\OneDrive\Desktop\BasicsJS\projects\FundooNote\FundoNote\node_modules\express\lib\router\index.js:265:14)
+    at next (C:\Users\Gajanan\OneDrive\Desktop\BasicsJS\projects\FundooNote\FundoNote\node_modules\express\lib\router\route.js:136:14)
+    at _callee3$ (C:\Users\Gajanan\OneDrive\Desktop\BasicsJS\projects\FundooNote\FundoNote\src\controllers\/user.controller.js:57:5)
+    at tryCatch (C:\Users\Gajanan\OneDrive\Desktop\BasicsJS\projects\FundooNote\FundoNote\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:44:17)
+    at Generator.<anonymous> (C:\Users\Gajanan\OneDrive\Desktop\BasicsJS\projects\FundooNote\FundoNote\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:125:22)
+    at Generator.throw (C:\Users\Gajanan\OneDrive\Desktop\BasicsJS\projects\FundooNote\FundoNote\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:69:21)
+    at asyncGeneratorStep (C:\Users\Gajanan\OneDrive\Desktop\BasicsJS\projects\FundooNote\FundoNote\node_modules\@babel\runtime\helpers\asyncToGenerator.js:3:24)
+    at _throw (C:\Users\Gajanan\OneDrive\Desktop\BasicsJS\projects\FundooNote\FundoNote\node_modules\@babel\runtime\helpers\asyncToGenerator.js:25:9)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5) 
+    url - /api/v1/users/register 
+    method - POST 
+    IP - ::ffff:127.0.0.1
+   {"timestamp":"2022-12-28T05:36:35.588Z"}
+info: Server started at http://localhost:5000/api/v1/ {"timestamp":"2022-12-28T05:37:09.217Z"}
+info: Connected to the database. {"timestamp":"2022-12-28T05:37:17.901Z"}
+error: 
+    status - 500 
+    message - ValidationError: "lastName" length must be at least 2 characters long 
+    url - /api/v1/users/register 
+    method - POST 
+    IP - ::ffff:127.0.0.1
+   {"timestamp":"2022-12-28T05:37:19.007Z"}
+error: 
+      status - 11000
+      message - E11000 duplicate key error collection: test.users index: Email_1 dup key: { Email: null } 
+      url - /api/v1/users/register 
+      method - POST 
+      IP - ::ffff:127.0.0.1
+     {"timestamp":"2022-12-28T05:37:20.157Z"}
+error: 
+    status - 500 
+    message - RangeError: Invalid status code: 11000
+    at new NodeError (node:internal/errors:393:5)
+    at ServerResponse.writeHead (node:_http_server:343:11)
+    at ServerResponse.writeHead (C:\Users\Gajanan\OneDrive\Desktop\BasicsJS\projects\FundooNote\FundoNote\node_modules\on-headers\index.js:44:26)
+    at ServerResponse._implicitHeader (node:_http_server:334:8)
+    at write_ (node:_http_outgoing:867:9)
+    at ServerResponse.end (node:_http_outgoing:977:5)
+    at ServerResponse.send (C:\Users\Gajanan\OneDrive\Desktop\BasicsJS\projects\FundooNote\FundoNote\node_modules\express\lib\response.js:232:10)
+    at ServerResponse.json (C:\Users\Gajanan\OneDrive\Desktop\BasicsJS\projects\FundooNote\FundoNote\node_modules\express\lib\response.js:278:15)
+    at appErrorHandler (C:\Users\Gajanan\OneDrive\Desktop\BasicsJS\projects\FundooNote\FundoNote\src\middlewares\/error.middleware.js:36:26)
+    at Layer.handle_error (C:\Users\Gajanan\OneDrive\Desktop\BasicsJS\projects\FundooNote\FundoNote\node_modules\express\lib\router\layer.js:71:5)
+    at trim_prefix (C:\Users\Gajanan\OneDrive\Desktop\BasicsJS\projects\FundooNote\FundoNote\node_modules\express\lib\router\index.js:326:13)
+    at C:\Users\Gajanan\OneDrive\Desktop\BasicsJS\projects\FundooNote\FundoNote\node_modules\express\lib\router\index.js:286:9
+    at Function.process_params (C:\Users\Gajanan\OneDrive\Desktop\BasicsJS\projects\FundooNote\FundoNote\node_modules\express\lib\router\index.js:346:12)
+    at next (C:\Users\Gajanan\OneDrive\Desktop\BasicsJS\projects\FundooNote\FundoNote\node_modules\express\lib\router\index.js:280:10)
+    at C:\Users\Gajanan\OneDrive\Desktop\BasicsJS\projects\FundooNote\FundoNote\node_modules\express\lib\router\index.js:646:15
+    at next (C:\Users\Gajanan\OneDrive\Desktop\BasicsJS\projects\FundooNote\FundoNote\node_modules\express\lib\router\index.js:265:14)
+    at C:\Users\Gajanan\OneDrive\Desktop\BasicsJS\projects\FundooNote\FundoNote\node_modules\express\lib\router\index.js:646:15
+    at next (C:\Users\Gajanan\OneDrive\Desktop\BasicsJS\projects\FundooNote\FundoNote\node_modules\express\lib\router\index.js:265:14)
+    at next (C:\Users\Gajanan\OneDrive\Desktop\BasicsJS\projects\FundooNote\FundoNote\node_modules\express\lib\router\route.js:136:14)
+    at _callee3$ (C:\Users\Gajanan\OneDrive\Desktop\BasicsJS\projects\FundooNote\FundoNote\src\controllers\/user.controller.js:57:5)
+    at tryCatch (C:\Users\Gajanan\OneDrive\Desktop\BasicsJS\projects\FundooNote\FundoNote\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:44:17)
+    at Generator.<anonymous> (C:\Users\Gajanan\OneDrive\Desktop\BasicsJS\projects\FundooNote\FundoNote\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:125:22)
+    at Generator.throw (C:\Users\Gajanan\OneDrive\Desktop\BasicsJS\projects\FundooNote\FundoNote\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:69:21)
+    at asyncGeneratorStep (C:\Users\Gajanan\OneDrive\Desktop\BasicsJS\projects\FundooNote\FundoNote\node_modules\@babel\runtime\helpers\asyncToGenerator.js:3:24)
+    at _throw (C:\Users\Gajanan\OneDrive\Desktop\BasicsJS\projects\FundooNote\FundoNote\node_modules\@babel\runtime\helpers\asyncToGenerator.js:25:9)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5) 
+    url - /api/v1/users/register 
+    method - POST 
+    IP - ::ffff:127.0.0.1
+   {"timestamp":"2022-12-28T05:37:20.193Z"}
+info: Server started at http://localhost:5000/api/v1/ {"timestamp":"2022-12-28T05:40:07.259Z"}
+info: Connected to the database. {"timestamp":"2022-12-28T05:40:15.765Z"}
+error: 
+    status - 500 
+    message - ValidationError: "lastName" length must be at least 2 characters long 
+    url - /api/v1/users/register 
+    method - POST 
+    IP - ::ffff:127.0.0.1
+   {"timestamp":"2022-12-28T05:40:17.326Z"}
+error: 
+    status - 500 
+    message - ValidationError: "firstName" length must be at least 4 characters long 
+    url - /api/v1/users/register 
+    method - POST 
+    IP - ::ffff:127.0.0.1
+   {"timestamp":"2022-12-28T05:40:17.385Z"}
+info: Server started at http://localhost:5000/api/v1/ {"timestamp":"2022-12-28T05:41:02.807Z"}
+info: Connected to the database. {"timestamp":"2022-12-28T05:41:05.685Z"}
+error: 
+    status - 500 
+    message - ValidationError: "lastName" length must be at least 2 characters long 
+    url - /api/v1/users/register 
+    method - POST 
+    IP - ::ffff:127.0.0.1
+   {"timestamp":"2022-12-28T05:41:06.807Z"}
+error: 
+    status - 500 
+    message - ValidationError: "firstName" length must be at least 4 characters long 
+    url - /api/v1/users/register 
+    method - POST 
+    IP - ::ffff:127.0.0.1
+   {"timestamp":"2022-12-28T05:41:06.826Z"}
+info: Server started at http://localhost:5000/api/v1/ {"timestamp":"2022-12-28T06:17:00.694Z"}
+info: Connected to the database. {"timestamp":"2022-12-28T06:17:04.988Z"}
+error: 
+    status - 500 
+    message - ValidationError: "lastName" length must be at least 2 characters long 
+    url - /api/v1/users/register 
+    method - POST 
+    IP - ::ffff:127.0.0.1
+   {"timestamp":"2022-12-28T06:17:06.102Z"}
+error: 
+    status - 500 
+    message - ValidationError: "firstName" length must be at least 4 characters long 
+    url - /api/v1/users/register 
+    method - POST 
+    IP - ::ffff:127.0.0.1
+   {"timestamp":"2022-12-28T06:17:06.117Z"}
+info: Server started at http://localhost:5000/api/v1/ {"timestamp":"2022-12-28T06:34:25.236Z"}
+info: Connected to the database. {"timestamp":"2022-12-28T06:34:33.458Z"}
+error: 
+    status - 500 
+    message - ValidationError: "lastName" length must be at least 2 characters long 
+    url - /api/v1/users/register 
+    method - POST 
+    IP - ::ffff:127.0.0.1
+   {"timestamp":"2022-12-28T06:34:35.262Z"}
+error: 
+    status - 500 
+    message - ValidationError: "firstName" length must be at least 4 characters long 
+    url - /api/v1/users/register 
+    method - POST 
+    IP - ::ffff:127.0.0.1
+   {"timestamp":"2022-12-28T06:34:35.288Z"}
+info: Server started at http://localhost:5000/api/v1/ {"timestamp":"2022-12-28T06:35:08.462Z"}
+info: Connected to the database. {"timestamp":"2022-12-28T06:35:11.159Z"}
+error: 
+    status - 500 
+    message - ValidationError: "lastName" length must be at least 2 characters long 
+    url - /api/v1/users/register 
+    method - POST 
+    IP - ::ffff:127.0.0.1
+   {"timestamp":"2022-12-28T06:35:12.219Z"}
+error: 
+    status - 500 
+    message - ValidationError: "firstName" length must be at least 4 characters long 
+    url - /api/v1/users/register 
+    method - POST 
+    IP - ::ffff:127.0.0.1
+   {"timestamp":"2022-12-28T06:35:12.234Z"}
+info: Server started at http://localhost:5000/api/v1/ {"timestamp":"2022-12-28T09:39:43.912Z"}
+info: Connected to the database. {"timestamp":"2022-12-28T09:39:46.527Z"}
+error: 
+    status - 500 
+    message - ValidationError: "lastName" length must be at least 2 characters long 
+    url - /api/v1/users/register 
+    method - POST 
+    IP - ::ffff:127.0.0.1
+   {"timestamp":"2022-12-28T09:39:47.663Z"}
+error: 
+    status - 500 
+    message - ValidationError: "firstName" length must be at least 4 characters long 
+    url - /api/v1/users/register 
+    method - POST 
+    IP - ::ffff:127.0.0.1
+   {"timestamp":"2022-12-28T09:39:47.691Z"}
+info: Server started at http://localhost:5000/api/v1/ {"timestamp":"2022-12-28T09:41:24.059Z"}
+info: Connected to the database. {"timestamp":"2022-12-28T09:41:26.755Z"}
+error: 
+    status - 500 
+    message - ValidationError: "lastName" length must be at least 2 characters long 
+    url - /api/v1/users/register 
+    method - POST 
+    IP - ::ffff:127.0.0.1
+   {"timestamp":"2022-12-28T09:41:27.729Z"}
+error: 
+    status - 500 
+    message - ValidationError: "firstName" length must be at least 4 characters long 
+    url - /api/v1/users/register 
+    method - POST 
+    IP - ::ffff:127.0.0.1
+   {"timestamp":"2022-12-28T09:41:27.762Z"}
+info: Server started at http://localhost:5000/api/v1/ {"timestamp":"2022-12-28T09:42:10.157Z"}
+info: Connected to the database. {"timestamp":"2022-12-28T09:42:12.997Z"}
+error: 
+    status - 500 
+    message - ValidationError: "lastName" length must be at least 2 characters long 
+    url - /api/v1/users/register 
+    method - POST 
+    IP - ::ffff:127.0.0.1
+   {"timestamp":"2022-12-28T09:42:14.116Z"}
+error: 
+    status - 500 
+    message - ValidationError: "firstName" length must be at least 4 characters long 
+    url - /api/v1/users/register 
+    method - POST 
+    IP - ::ffff:127.0.0.1
+   {"timestamp":"2022-12-28T09:42:14.132Z"}
+info: Server started at http://localhost:5000/api/v1/ {"timestamp":"2022-12-28T09:50:40.234Z"}
+info: Connected to the database. {"timestamp":"2022-12-28T09:50:48.128Z"}
+error: 
+    status - 500 
+    message - ValidationError: "lastName" length must be at least 2 characters long 
+    url - /api/v1/users/register 
+    method - POST 
+    IP - ::ffff:127.0.0.1
+   {"timestamp":"2022-12-28T09:50:49.142Z"}
+error: 
+    status - 500 
+    message - ValidationError: "firstName" length must be at least 4 characters long 
+    url - /api/v1/users/register 
+    method - POST 
+    IP - ::ffff:127.0.0.1
+   {"timestamp":"2022-12-28T09:50:49.162Z"}
+info: Server started at http://localhost:5000/api/v1/ {"timestamp":"2022-12-28T09:54:45.910Z"}
+info: Connected to the database. {"timestamp":"2022-12-28T09:54:49.042Z"}
+error: 
+    status - 500 
+    message - Error: Password is Invalid
+    at _callee3$ (C:\Users\Gajanan\OneDrive\Desktop\BasicsJS\projects\FundooNote\FundoNote\src\services\/user.service.js:40:13)
+    at tryCatch (C:\Users\Gajanan\OneDrive\Desktop\BasicsJS\projects\FundooNote\FundoNote\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:44:17)
+    at Generator.<anonymous> (C:\Users\Gajanan\OneDrive\Desktop\BasicsJS\projects\FundooNote\FundoNote\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:125:22)
+    at Generator.next (C:\Users\Gajanan\OneDrive\Desktop\BasicsJS\projects\FundooNote\FundoNote\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:69:21)
+    at asyncGeneratorStep (C:\Users\Gajanan\OneDrive\Desktop\BasicsJS\projects\FundooNote\FundoNote\node_modules\@babel\runtime\helpers\asyncToGenerator.js:3:24)
+    at _next (C:\Users\Gajanan\OneDrive\Desktop\BasicsJS\projects\FundooNote\FundoNote\node_modules\@babel\runtime\helpers\asyncToGenerator.js:22:9) 
+    url - /api/v1/users/loginuser 
+    method - POST 
+    IP - ::1
+   {"timestamp":"2022-12-28T09:58:56.336Z"}
+error: 
+    status - 500 
+    message - Error: Password is Invalid
+    at _callee3$ (C:\Users\Gajanan\OneDrive\Desktop\BasicsJS\projects\FundooNote\FundoNote\src\services\/user.service.js:40:13)
+    at tryCatch (C:\Users\Gajanan\OneDrive\Desktop\BasicsJS\projects\FundooNote\FundoNote\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:44:17)
+    at Generator.<anonymous> (C:\Users\Gajanan\OneDrive\Desktop\BasicsJS\projects\FundooNote\FundoNote\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:125:22)
+    at Generator.next (C:\Users\Gajanan\OneDrive\Desktop\BasicsJS\projects\FundooNote\FundoNote\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:69:21)
+    at asyncGeneratorStep (C:\Users\Gajanan\OneDrive\Desktop\BasicsJS\projects\FundooNote\FundoNote\node_modules\@babel\runtime\helpers\asyncToGenerator.js:3:24)
+    at _next (C:\Users\Gajanan\OneDrive\Desktop\BasicsJS\projects\FundooNote\FundoNote\node_modules\@babel\runtime\helpers\asyncToGenerator.js:22:9) 
+    url - /api/v1/users/loginuser 
+    method - POST 
+    IP - ::1
+   {"timestamp":"2022-12-28T09:59:10.630Z"}
+info: Server started at http://localhost:5000/api/v1/ {"timestamp":"2022-12-28T11:44:32.389Z"}
+info: Connected to the database. {"timestamp":"2022-12-28T11:44:36.011Z"}
+error: 
+    status - 500 
+    message - ValidationError: "lastName" length must be at least 2 characters long 
+    url - /api/v1/users/register 
+    method - POST 
+    IP - ::ffff:127.0.0.1
+   {"timestamp":"2022-12-28T11:44:37.581Z"}
+error: 
+    status - 500 
+    message - ValidationError: "firstName" length must be at least 4 characters long 
+    url - /api/v1/users/register 
+    method - POST 
+    IP - ::ffff:127.0.0.1
+   {"timestamp":"2022-12-28T11:44:37.603Z"}

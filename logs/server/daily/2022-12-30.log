@@ -1,0 +1,766 @@
+info: Server started at http://localhost:5000/api/v1/ {"timestamp":"2022-12-30T02:45:47.359Z"}
+info: Connected to the database. {"timestamp":"2022-12-30T02:45:51.705Z"}
+error: 
+    status - 500 
+    message - ValidationError: "lastName" length must be at least 2 characters long 
+    url - /api/v1/users/register 
+    method - POST 
+    IP - ::ffff:127.0.0.1
+   {"timestamp":"2022-12-30T02:45:53.602Z"}
+error: 
+    status - 500 
+    message - ValidationError: "firstName" length must be at least 4 characters long 
+    url - /api/v1/users/register 
+    method - POST 
+    IP - ::ffff:127.0.0.1
+   {"timestamp":"2022-12-30T02:45:53.632Z"}
+error: 
+    status - 500 
+    message - Error: Invalid  EmailId
+    at _callee3$ (C:\Users\Gajanan\OneDrive\Desktop\BasicsJS\projects\FundooNote\FundoNote\src\services\/user.service.js:43:11)
+    at tryCatch (C:\Users\Gajanan\OneDrive\Desktop\BasicsJS\projects\FundooNote\FundoNote\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:44:17)
+    at Generator.<anonymous> (C:\Users\Gajanan\OneDrive\Desktop\BasicsJS\projects\FundooNote\FundoNote\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:125:22)
+    at Generator.next (C:\Users\Gajanan\OneDrive\Desktop\BasicsJS\projects\FundooNote\FundoNote\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:69:21)
+    at asyncGeneratorStep (C:\Users\Gajanan\OneDrive\Desktop\BasicsJS\projects\FundooNote\FundoNote\node_modules\@babel\runtime\helpers\asyncToGenerator.js:3:24)
+    at _next (C:\Users\Gajanan\OneDrive\Desktop\BasicsJS\projects\FundooNote\FundoNote\node_modules\@babel\runtime\helpers\asyncToGenerator.js:22:9)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5) 
+    url - /api/v1/users/loginuser 
+    method - POST 
+    IP - ::ffff:127.0.0.1
+   {"timestamp":"2022-12-30T02:45:54.470Z"}
+error: 
+    status - 500 
+    message - Error: Password is Invalid
+    at _callee3$ (C:\Users\Gajanan\OneDrive\Desktop\BasicsJS\projects\FundooNote\FundoNote\src\services\/user.service.js:40:13)
+    at tryCatch (C:\Users\Gajanan\OneDrive\Desktop\BasicsJS\projects\FundooNote\FundoNote\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:44:17)
+    at Generator.<anonymous> (C:\Users\Gajanan\OneDrive\Desktop\BasicsJS\projects\FundooNote\FundoNote\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:125:22)
+    at Generator.next (C:\Users\Gajanan\OneDrive\Desktop\BasicsJS\projects\FundooNote\FundoNote\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:69:21)
+    at asyncGeneratorStep (C:\Users\Gajanan\OneDrive\Desktop\BasicsJS\projects\FundooNote\FundoNote\node_modules\@babel\runtime\helpers\asyncToGenerator.js:3:24)
+    at _next (C:\Users\Gajanan\OneDrive\Desktop\BasicsJS\projects\FundooNote\FundoNote\node_modules\@babel\runtime\helpers\asyncToGenerator.js:22:9) 
+    url - /api/v1/users/loginuser 
+    method - POST 
+    IP - ::ffff:127.0.0.1
+   {"timestamp":"2022-12-30T02:45:54.829Z"}
+error: 
+      status - 400
+      message - Authorization token is required 
+      url - /api/v1/notes/add 
+      method - POST 
+      IP - ::ffff:127.0.0.1
+     {"timestamp":"2022-12-30T02:45:55.167Z"}
+error: 
+      status - 400
+      message - Authorization token is required 
+      url - /api/v1/notes/add 
+      method - POST 
+      IP - ::ffff:127.0.0.1
+     {"timestamp":"2022-12-30T02:45:55.245Z"}
+error: 
+      status - 400
+      message - Authorization token is required 
+      url - /api/v1/notes/add 
+      method - POST 
+      IP - ::ffff:127.0.0.1
+     {"timestamp":"2022-12-30T02:45:55.272Z"}
+error: 
+      status - 400
+      message - Authorization token is required 
+      url - /api/v1/notes/add 
+      method - POST 
+      IP - ::ffff:127.0.0.1
+     {"timestamp":"2022-12-30T02:45:55.950Z"}
+info: Server started at http://localhost:5000/api/v1/ {"timestamp":"2022-12-30T09:34:44.836Z"}
+info: Connected to the database. {"timestamp":"2022-12-30T09:34:48.832Z"}
+error: 
+    status - 500 
+    message - ValidationError: "lastName" length must be at least 2 characters long 
+    url - /api/v1/users/register 
+    method - POST 
+    IP - ::ffff:127.0.0.1
+   {"timestamp":"2022-12-30T09:34:50.578Z"}
+error: 
+    status - 500 
+    message - ValidationError: "firstName" length must be at least 4 characters long 
+    url - /api/v1/users/register 
+    method - POST 
+    IP - ::ffff:127.0.0.1
+   {"timestamp":"2022-12-30T09:34:50.594Z"}
+error: 
+    status - 500 
+    message - Error: Invalid  EmailId
+    at _callee3$ (C:\Users\Gajanan\OneDrive\Desktop\BasicsJS\projects\FundooNote\FundoNote\src\services\/user.service.js:43:11)
+    at tryCatch (C:\Users\Gajanan\OneDrive\Desktop\BasicsJS\projects\FundooNote\FundoNote\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:44:17)
+    at Generator.<anonymous> (C:\Users\Gajanan\OneDrive\Desktop\BasicsJS\projects\FundooNote\FundoNote\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:125:22)
+    at Generator.next (C:\Users\Gajanan\OneDrive\Desktop\BasicsJS\projects\FundooNote\FundoNote\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:69:21)
+    at asyncGeneratorStep (C:\Users\Gajanan\OneDrive\Desktop\BasicsJS\projects\FundooNote\FundoNote\node_modules\@babel\runtime\helpers\asyncToGenerator.js:3:24)
+    at _next (C:\Users\Gajanan\OneDrive\Desktop\BasicsJS\projects\FundooNote\FundoNote\node_modules\@babel\runtime\helpers\asyncToGenerator.js:22:9)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5) 
+    url - /api/v1/users/loginuser 
+    method - POST 
+    IP - ::ffff:127.0.0.1
+   {"timestamp":"2022-12-30T09:34:51.227Z"}
+error: 
+    status - 500 
+    message - Error: Password is Invalid
+    at _callee3$ (C:\Users\Gajanan\OneDrive\Desktop\BasicsJS\projects\FundooNote\FundoNote\src\services\/user.service.js:40:13)
+    at tryCatch (C:\Users\Gajanan\OneDrive\Desktop\BasicsJS\projects\FundooNote\FundoNote\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:44:17)
+    at Generator.<anonymous> (C:\Users\Gajanan\OneDrive\Desktop\BasicsJS\projects\FundooNote\FundoNote\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:125:22)
+    at Generator.next (C:\Users\Gajanan\OneDrive\Desktop\BasicsJS\projects\FundooNote\FundoNote\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:69:21)
+    at asyncGeneratorStep (C:\Users\Gajanan\OneDrive\Desktop\BasicsJS\projects\FundooNote\FundoNote\node_modules\@babel\runtime\helpers\asyncToGenerator.js:3:24)
+    at _next (C:\Users\Gajanan\OneDrive\Desktop\BasicsJS\projects\FundooNote\FundoNote\node_modules\@babel\runtime\helpers\asyncToGenerator.js:22:9) 
+    url - /api/v1/users/loginuser 
+    method - POST 
+    IP - ::ffff:127.0.0.1
+   {"timestamp":"2022-12-30T09:34:51.609Z"}
+error: 
+      status - 400
+      message - Authorization token is required 
+      url - /api/v1/notes/add 
+      method - POST 
+      IP - ::ffff:127.0.0.1
+     {"timestamp":"2022-12-30T09:34:51.940Z"}
+error: 
+      status - 400
+      message - Authorization token is required 
+      url - /api/v1/notes/add 
+      method - POST 
+      IP - ::ffff:127.0.0.1
+     {"timestamp":"2022-12-30T09:34:51.967Z"}
+error: 
+      status - 400
+      message - Authorization token is required 
+      url - /api/v1/notes/add 
+      method - POST 
+      IP - ::ffff:127.0.0.1
+     {"timestamp":"2022-12-30T09:34:51.982Z"}
+error: 
+      status - 400
+      message - Authorization token is required 
+      url - /api/v1/notes/add 
+      method - POST 
+      IP - ::ffff:127.0.0.1
+     {"timestamp":"2022-12-30T09:34:52.589Z"}
+error: 
+      status - 400
+      message - Authorization token is required 
+      url - /api/v1/notes/63aeb0bb8c97274178b261f2 
+      method - PUT 
+      IP - ::ffff:127.0.0.1
+     {"timestamp":"2022-12-30T09:34:52.604Z"}
+info: Server started at http://localhost:5000/api/v1/ {"timestamp":"2022-12-30T09:35:32.579Z"}
+info: Connected to the database. {"timestamp":"2022-12-30T09:35:35.429Z"}
+error: 
+    status - 500 
+    message - ValidationError: "lastName" length must be at least 2 characters long 
+    url - /api/v1/users/register 
+    method - POST 
+    IP - ::ffff:127.0.0.1
+   {"timestamp":"2022-12-30T09:35:36.557Z"}
+error: 
+    status - 500 
+    message - ValidationError: "firstName" length must be at least 4 characters long 
+    url - /api/v1/users/register 
+    method - POST 
+    IP - ::ffff:127.0.0.1
+   {"timestamp":"2022-12-30T09:35:36.574Z"}
+error: 
+    status - 500 
+    message - Error: Invalid  EmailId
+    at _callee3$ (C:\Users\Gajanan\OneDrive\Desktop\BasicsJS\projects\FundooNote\FundoNote\src\services\/user.service.js:43:11)
+    at tryCatch (C:\Users\Gajanan\OneDrive\Desktop\BasicsJS\projects\FundooNote\FundoNote\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:44:17)
+    at Generator.<anonymous> (C:\Users\Gajanan\OneDrive\Desktop\BasicsJS\projects\FundooNote\FundoNote\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:125:22)
+    at Generator.next (C:\Users\Gajanan\OneDrive\Desktop\BasicsJS\projects\FundooNote\FundoNote\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:69:21)
+    at asyncGeneratorStep (C:\Users\Gajanan\OneDrive\Desktop\BasicsJS\projects\FundooNote\FundoNote\node_modules\@babel\runtime\helpers\asyncToGenerator.js:3:24)
+    at _next (C:\Users\Gajanan\OneDrive\Desktop\BasicsJS\projects\FundooNote\FundoNote\node_modules\@babel\runtime\helpers\asyncToGenerator.js:22:9)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5) 
+    url - /api/v1/users/loginuser 
+    method - POST 
+    IP - ::ffff:127.0.0.1
+   {"timestamp":"2022-12-30T09:35:37.240Z"}
+error: 
+    status - 500 
+    message - Error: Password is Invalid
+    at _callee3$ (C:\Users\Gajanan\OneDrive\Desktop\BasicsJS\projects\FundooNote\FundoNote\src\services\/user.service.js:40:13)
+    at tryCatch (C:\Users\Gajanan\OneDrive\Desktop\BasicsJS\projects\FundooNote\FundoNote\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:44:17)
+    at Generator.<anonymous> (C:\Users\Gajanan\OneDrive\Desktop\BasicsJS\projects\FundooNote\FundoNote\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:125:22)
+    at Generator.next (C:\Users\Gajanan\OneDrive\Desktop\BasicsJS\projects\FundooNote\FundoNote\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:69:21)
+    at asyncGeneratorStep (C:\Users\Gajanan\OneDrive\Desktop\BasicsJS\projects\FundooNote\FundoNote\node_modules\@babel\runtime\helpers\asyncToGenerator.js:3:24)
+    at _next (C:\Users\Gajanan\OneDrive\Desktop\BasicsJS\projects\FundooNote\FundoNote\node_modules\@babel\runtime\helpers\asyncToGenerator.js:22:9) 
+    url - /api/v1/users/loginuser 
+    method - POST 
+    IP - ::ffff:127.0.0.1
+   {"timestamp":"2022-12-30T09:35:37.645Z"}
+error: 
+      status - 400
+      message - Authorization token is required 
+      url - /api/v1/notes/add 
+      method - POST 
+      IP - ::ffff:127.0.0.1
+     {"timestamp":"2022-12-30T09:35:37.955Z"}
+error: 
+      status - 400
+      message - Authorization token is required 
+      url - /api/v1/notes/add 
+      method - POST 
+      IP - ::ffff:127.0.0.1
+     {"timestamp":"2022-12-30T09:35:37.976Z"}
+error: 
+      status - 400
+      message - Authorization token is required 
+      url - /api/v1/notes/add 
+      method - POST 
+      IP - ::ffff:127.0.0.1
+     {"timestamp":"2022-12-30T09:35:37.988Z"}
+error: 
+      status - 400
+      message - Authorization token is required 
+      url - /api/v1/notes/add 
+      method - POST 
+      IP - ::ffff:127.0.0.1
+     {"timestamp":"2022-12-30T09:35:38.574Z"}
+error: 
+      status - 400
+      message - Authorization token is required 
+      url - /api/v1/notes/63aeb0e930e1a68430a4b890 
+      method - PUT 
+      IP - ::ffff:127.0.0.1
+     {"timestamp":"2022-12-30T09:35:38.597Z"}
+info: Server started at http://localhost:5000/api/v1/ {"timestamp":"2022-12-30T09:36:11.233Z"}
+info: Connected to the database. {"timestamp":"2022-12-30T09:36:15.152Z"}
+error: 
+    status - 500 
+    message - ValidationError: "lastName" length must be at least 2 characters long 
+    url - /api/v1/users/register 
+    method - POST 
+    IP - ::ffff:127.0.0.1
+   {"timestamp":"2022-12-30T09:36:16.767Z"}
+error: 
+    status - 500 
+    message - ValidationError: "firstName" length must be at least 4 characters long 
+    url - /api/v1/users/register 
+    method - POST 
+    IP - ::ffff:127.0.0.1
+   {"timestamp":"2022-12-30T09:36:16.785Z"}
+error: 
+    status - 500 
+    message - Error: Invalid  EmailId
+    at _callee3$ (C:\Users\Gajanan\OneDrive\Desktop\BasicsJS\projects\FundooNote\FundoNote\src\services\/user.service.js:43:11)
+    at tryCatch (C:\Users\Gajanan\OneDrive\Desktop\BasicsJS\projects\FundooNote\FundoNote\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:44:17)
+    at Generator.<anonymous> (C:\Users\Gajanan\OneDrive\Desktop\BasicsJS\projects\FundooNote\FundoNote\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:125:22)
+    at Generator.next (C:\Users\Gajanan\OneDrive\Desktop\BasicsJS\projects\FundooNote\FundoNote\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:69:21)
+    at asyncGeneratorStep (C:\Users\Gajanan\OneDrive\Desktop\BasicsJS\projects\FundooNote\FundoNote\node_modules\@babel\runtime\helpers\asyncToGenerator.js:3:24)
+    at _next (C:\Users\Gajanan\OneDrive\Desktop\BasicsJS\projects\FundooNote\FundoNote\node_modules\@babel\runtime\helpers\asyncToGenerator.js:22:9)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5) 
+    url - /api/v1/users/loginuser 
+    method - POST 
+    IP - ::ffff:127.0.0.1
+   {"timestamp":"2022-12-30T09:36:17.512Z"}
+error: 
+    status - 500 
+    message - Error: Password is Invalid
+    at _callee3$ (C:\Users\Gajanan\OneDrive\Desktop\BasicsJS\projects\FundooNote\FundoNote\src\services\/user.service.js:40:13)
+    at tryCatch (C:\Users\Gajanan\OneDrive\Desktop\BasicsJS\projects\FundooNote\FundoNote\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:44:17)
+    at Generator.<anonymous> (C:\Users\Gajanan\OneDrive\Desktop\BasicsJS\projects\FundooNote\FundoNote\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:125:22)
+    at Generator.next (C:\Users\Gajanan\OneDrive\Desktop\BasicsJS\projects\FundooNote\FundoNote\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:69:21)
+    at asyncGeneratorStep (C:\Users\Gajanan\OneDrive\Desktop\BasicsJS\projects\FundooNote\FundoNote\node_modules\@babel\runtime\helpers\asyncToGenerator.js:3:24)
+    at _next (C:\Users\Gajanan\OneDrive\Desktop\BasicsJS\projects\FundooNote\FundoNote\node_modules\@babel\runtime\helpers\asyncToGenerator.js:22:9) 
+    url - /api/v1/users/loginuser 
+    method - POST 
+    IP - ::ffff:127.0.0.1
+   {"timestamp":"2022-12-30T09:36:17.865Z"}
+error: 
+      status - 400
+      message - Authorization token is required 
+      url - /api/v1/notes/add 
+      method - POST 
+      IP - ::ffff:127.0.0.1
+     {"timestamp":"2022-12-30T09:36:18.213Z"}
+error: 
+      status - 400
+      message - Authorization token is required 
+      url - /api/v1/notes/add 
+      method - POST 
+      IP - ::ffff:127.0.0.1
+     {"timestamp":"2022-12-30T09:36:18.252Z"}
+error: 
+      status - 400
+      message - Authorization token is required 
+      url - /api/v1/notes/add 
+      method - POST 
+      IP - ::ffff:127.0.0.1
+     {"timestamp":"2022-12-30T09:36:18.289Z"}
+error: 
+      status - 400
+      message - Authorization token is required 
+      url - /api/v1/notes/add 
+      method - POST 
+      IP - ::ffff:127.0.0.1
+     {"timestamp":"2022-12-30T09:36:18.919Z"}
+error: 
+      status - 400
+      message - Authorization token is required 
+      url - /api/v1/notes/63aeb1116460df9a48ff52aa 
+      method - PUT 
+      IP - ::ffff:127.0.0.1
+     {"timestamp":"2022-12-30T09:36:18.939Z"}
+error: 
+      status - 400
+      message - Authorization token is required 
+      url - /api/v1/notes/63aeb1116460df9a48ff52aa 
+      method - DELETE 
+      IP - ::ffff:127.0.0.1
+     {"timestamp":"2022-12-30T09:36:18.952Z"}
+info: Server started at http://localhost:5000/api/v1/ {"timestamp":"2022-12-30T09:37:03.491Z"}
+info: Connected to the database. {"timestamp":"2022-12-30T09:37:06.119Z"}
+error: 
+    status - 500 
+    message - ValidationError: "lastName" length must be at least 2 characters long 
+    url - /api/v1/users/register 
+    method - POST 
+    IP - ::ffff:127.0.0.1
+   {"timestamp":"2022-12-30T09:37:07.220Z"}
+error: 
+    status - 500 
+    message - ValidationError: "firstName" length must be at least 4 characters long 
+    url - /api/v1/users/register 
+    method - POST 
+    IP - ::ffff:127.0.0.1
+   {"timestamp":"2022-12-30T09:37:07.235Z"}
+error: 
+    status - 500 
+    message - Error: Invalid  EmailId
+    at _callee3$ (C:\Users\Gajanan\OneDrive\Desktop\BasicsJS\projects\FundooNote\FundoNote\src\services\/user.service.js:43:11)
+    at tryCatch (C:\Users\Gajanan\OneDrive\Desktop\BasicsJS\projects\FundooNote\FundoNote\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:44:17)
+    at Generator.<anonymous> (C:\Users\Gajanan\OneDrive\Desktop\BasicsJS\projects\FundooNote\FundoNote\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:125:22)
+    at Generator.next (C:\Users\Gajanan\OneDrive\Desktop\BasicsJS\projects\FundooNote\FundoNote\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:69:21)
+    at asyncGeneratorStep (C:\Users\Gajanan\OneDrive\Desktop\BasicsJS\projects\FundooNote\FundoNote\node_modules\@babel\runtime\helpers\asyncToGenerator.js:3:24)
+    at _next (C:\Users\Gajanan\OneDrive\Desktop\BasicsJS\projects\FundooNote\FundoNote\node_modules\@babel\runtime\helpers\asyncToGenerator.js:22:9)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5) 
+    url - /api/v1/users/loginuser 
+    method - POST 
+    IP - ::ffff:127.0.0.1
+   {"timestamp":"2022-12-30T09:37:07.901Z"}
+error: 
+    status - 500 
+    message - Error: Password is Invalid
+    at _callee3$ (C:\Users\Gajanan\OneDrive\Desktop\BasicsJS\projects\FundooNote\FundoNote\src\services\/user.service.js:40:13)
+    at tryCatch (C:\Users\Gajanan\OneDrive\Desktop\BasicsJS\projects\FundooNote\FundoNote\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:44:17)
+    at Generator.<anonymous> (C:\Users\Gajanan\OneDrive\Desktop\BasicsJS\projects\FundooNote\FundoNote\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:125:22)
+    at Generator.next (C:\Users\Gajanan\OneDrive\Desktop\BasicsJS\projects\FundooNote\FundoNote\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:69:21)
+    at asyncGeneratorStep (C:\Users\Gajanan\OneDrive\Desktop\BasicsJS\projects\FundooNote\FundoNote\node_modules\@babel\runtime\helpers\asyncToGenerator.js:3:24)
+    at _next (C:\Users\Gajanan\OneDrive\Desktop\BasicsJS\projects\FundooNote\FundoNote\node_modules\@babel\runtime\helpers\asyncToGenerator.js:22:9) 
+    url - /api/v1/users/loginuser 
+    method - POST 
+    IP - ::ffff:127.0.0.1
+   {"timestamp":"2022-12-30T09:37:08.275Z"}
+error: 
+      status - 400
+      message - Authorization token is required 
+      url - /api/v1/notes/add 
+      method - POST 
+      IP - ::ffff:127.0.0.1
+     {"timestamp":"2022-12-30T09:37:08.574Z"}
+error: 
+      status - 400
+      message - Authorization token is required 
+      url - /api/v1/notes/add 
+      method - POST 
+      IP - ::ffff:127.0.0.1
+     {"timestamp":"2022-12-30T09:37:08.590Z"}
+error: 
+      status - 400
+      message - Authorization token is required 
+      url - /api/v1/notes/add 
+      method - POST 
+      IP - ::ffff:127.0.0.1
+     {"timestamp":"2022-12-30T09:37:08.601Z"}
+error: 
+      status - 400
+      message - Authorization token is required 
+      url - /api/v1/notes/add 
+      method - POST 
+      IP - ::ffff:127.0.0.1
+     {"timestamp":"2022-12-30T09:37:09.213Z"}
+error: 
+      status - 400
+      message - Authorization token is required 
+      url - /api/v1/notes/63aeb144a38e6c42b026d622 
+      method - PUT 
+      IP - ::ffff:127.0.0.1
+     {"timestamp":"2022-12-30T09:37:09.231Z"}
+error: 
+      status - 400
+      message - Authorization token is required 
+      url - /api/v1/notes/63aeb144a38e6c42b026d622 
+      method - DELETE 
+      IP - ::ffff:127.0.0.1
+     {"timestamp":"2022-12-30T09:37:09.244Z"}
+info: Server started at http://localhost:5000/api/v1/ {"timestamp":"2022-12-30T09:37:45.416Z"}
+error: 
+    status - 500 
+    message - MongooseError: Operation `users.findOne()` buffering timed out after 10000ms
+    at Timeout.<anonymous> (C:\Users\Gajanan\OneDrive\Desktop\BasicsJS\projects\FundooNote\FundoNote\node_modules\mongoose\lib\drivers\node-mongodb-native\collection.js:198:23)
+    at listOnTimeout (node:internal/timers:564:17)
+    at processTimers (node:internal/timers:507:7) 
+    url - /api/v1/users/register 
+    method - POST 
+    IP - ::ffff:127.0.0.1
+   {"timestamp":"2022-12-30T09:37:55.498Z"}
+error: 
+    status - 500 
+    message - ValidationError: "lastName" length must be at least 2 characters long 
+    url - /api/v1/users/register 
+    method - POST 
+    IP - ::ffff:127.0.0.1
+   {"timestamp":"2022-12-30T09:37:56.017Z"}
+error: 
+    status - 500 
+    message - ValidationError: "firstName" length must be at least 4 characters long 
+    url - /api/v1/users/register 
+    method - POST 
+    IP - ::ffff:127.0.0.1
+   {"timestamp":"2022-12-30T09:37:56.053Z"}
+info: Connected to the database. {"timestamp":"2022-12-30T09:37:56.754Z"}
+info: Server started at http://localhost:5000/api/v1/ {"timestamp":"2022-12-30T09:38:37.204Z"}
+info: Connected to the database. {"timestamp":"2022-12-30T09:38:39.944Z"}
+error: 
+    status - 500 
+    message - ValidationError: "lastName" length must be at least 2 characters long 
+    url - /api/v1/users/register 
+    method - POST 
+    IP - ::ffff:127.0.0.1
+   {"timestamp":"2022-12-30T09:38:41.009Z"}
+error: 
+    status - 500 
+    message - ValidationError: "firstName" length must be at least 4 characters long 
+    url - /api/v1/users/register 
+    method - POST 
+    IP - ::ffff:127.0.0.1
+   {"timestamp":"2022-12-30T09:38:41.028Z"}
+error: 
+    status - 500 
+    message - Error: Invalid  EmailId
+    at _callee3$ (C:\Users\Gajanan\OneDrive\Desktop\BasicsJS\projects\FundooNote\FundoNote\src\services\/user.service.js:43:11)
+    at tryCatch (C:\Users\Gajanan\OneDrive\Desktop\BasicsJS\projects\FundooNote\FundoNote\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:44:17)
+    at Generator.<anonymous> (C:\Users\Gajanan\OneDrive\Desktop\BasicsJS\projects\FundooNote\FundoNote\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:125:22)
+    at Generator.next (C:\Users\Gajanan\OneDrive\Desktop\BasicsJS\projects\FundooNote\FundoNote\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:69:21)
+    at asyncGeneratorStep (C:\Users\Gajanan\OneDrive\Desktop\BasicsJS\projects\FundooNote\FundoNote\node_modules\@babel\runtime\helpers\asyncToGenerator.js:3:24)
+    at _next (C:\Users\Gajanan\OneDrive\Desktop\BasicsJS\projects\FundooNote\FundoNote\node_modules\@babel\runtime\helpers\asyncToGenerator.js:22:9)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5) 
+    url - /api/v1/users/loginuser 
+    method - POST 
+    IP - ::ffff:127.0.0.1
+   {"timestamp":"2022-12-30T09:38:41.651Z"}
+error: 
+    status - 500 
+    message - Error: Password is Invalid
+    at _callee3$ (C:\Users\Gajanan\OneDrive\Desktop\BasicsJS\projects\FundooNote\FundoNote\src\services\/user.service.js:40:13)
+    at tryCatch (C:\Users\Gajanan\OneDrive\Desktop\BasicsJS\projects\FundooNote\FundoNote\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:44:17)
+    at Generator.<anonymous> (C:\Users\Gajanan\OneDrive\Desktop\BasicsJS\projects\FundooNote\FundoNote\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:125:22)
+    at Generator.next (C:\Users\Gajanan\OneDrive\Desktop\BasicsJS\projects\FundooNote\FundoNote\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:69:21)
+    at asyncGeneratorStep (C:\Users\Gajanan\OneDrive\Desktop\BasicsJS\projects\FundooNote\FundoNote\node_modules\@babel\runtime\helpers\asyncToGenerator.js:3:24)
+    at _next (C:\Users\Gajanan\OneDrive\Desktop\BasicsJS\projects\FundooNote\FundoNote\node_modules\@babel\runtime\helpers\asyncToGenerator.js:22:9) 
+    url - /api/v1/users/loginuser 
+    method - POST 
+    IP - ::ffff:127.0.0.1
+   {"timestamp":"2022-12-30T09:38:42.009Z"}
+error: 
+      status - 400
+      message - Authorization token is required 
+      url - /api/v1/notes/add 
+      method - POST 
+      IP - ::ffff:127.0.0.1
+     {"timestamp":"2022-12-30T09:38:42.333Z"}
+error: 
+      status - 400
+      message - Authorization token is required 
+      url - /api/v1/notes/add 
+      method - POST 
+      IP - ::ffff:127.0.0.1
+     {"timestamp":"2022-12-30T09:38:42.363Z"}
+error: 
+      status - 400
+      message - Authorization token is required 
+      url - /api/v1/notes/add 
+      method - POST 
+      IP - ::ffff:127.0.0.1
+     {"timestamp":"2022-12-30T09:38:42.386Z"}
+error: 
+      status - 400
+      message - Authorization token is required 
+      url - /api/v1/notes/add 
+      method - POST 
+      IP - ::ffff:127.0.0.1
+     {"timestamp":"2022-12-30T09:38:43.005Z"}
+error: 
+      status - 400
+      message - Authorization token is required 
+      url - /api/v1/notes/63aeb1a25d7a7c4af801d598 
+      method - PUT 
+      IP - ::ffff:127.0.0.1
+     {"timestamp":"2022-12-30T09:38:43.026Z"}
+info: Server started at http://localhost:5000/api/v1/ {"timestamp":"2022-12-30T09:39:28.098Z"}
+info: Connected to the database. {"timestamp":"2022-12-30T09:39:30.908Z"}
+error: 
+    status - 500 
+    message - ValidationError: "lastName" length must be at least 2 characters long 
+    url - /api/v1/users/register 
+    method - POST 
+    IP - ::ffff:127.0.0.1
+   {"timestamp":"2022-12-30T09:39:32.019Z"}
+error: 
+    status - 500 
+    message - ValidationError: "firstName" length must be at least 4 characters long 
+    url - /api/v1/users/register 
+    method - POST 
+    IP - ::ffff:127.0.0.1
+   {"timestamp":"2022-12-30T09:39:32.045Z"}
+error: 
+    status - 500 
+    message - Error: Invalid  EmailId
+    at _callee3$ (C:\Users\Gajanan\OneDrive\Desktop\BasicsJS\projects\FundooNote\FundoNote\src\services\/user.service.js:43:11)
+    at tryCatch (C:\Users\Gajanan\OneDrive\Desktop\BasicsJS\projects\FundooNote\FundoNote\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:44:17)
+    at Generator.<anonymous> (C:\Users\Gajanan\OneDrive\Desktop\BasicsJS\projects\FundooNote\FundoNote\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:125:22)
+    at Generator.next (C:\Users\Gajanan\OneDrive\Desktop\BasicsJS\projects\FundooNote\FundoNote\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:69:21)
+    at asyncGeneratorStep (C:\Users\Gajanan\OneDrive\Desktop\BasicsJS\projects\FundooNote\FundoNote\node_modules\@babel\runtime\helpers\asyncToGenerator.js:3:24)
+    at _next (C:\Users\Gajanan\OneDrive\Desktop\BasicsJS\projects\FundooNote\FundoNote\node_modules\@babel\runtime\helpers\asyncToGenerator.js:22:9)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5) 
+    url - /api/v1/users/loginuser 
+    method - POST 
+    IP - ::ffff:127.0.0.1
+   {"timestamp":"2022-12-30T09:39:32.757Z"}
+error: 
+    status - 500 
+    message - Error: Password is Invalid
+    at _callee3$ (C:\Users\Gajanan\OneDrive\Desktop\BasicsJS\projects\FundooNote\FundoNote\src\services\/user.service.js:40:13)
+    at tryCatch (C:\Users\Gajanan\OneDrive\Desktop\BasicsJS\projects\FundooNote\FundoNote\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:44:17)
+    at Generator.<anonymous> (C:\Users\Gajanan\OneDrive\Desktop\BasicsJS\projects\FundooNote\FundoNote\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:125:22)
+    at Generator.next (C:\Users\Gajanan\OneDrive\Desktop\BasicsJS\projects\FundooNote\FundoNote\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:69:21)
+    at asyncGeneratorStep (C:\Users\Gajanan\OneDrive\Desktop\BasicsJS\projects\FundooNote\FundoNote\node_modules\@babel\runtime\helpers\asyncToGenerator.js:3:24)
+    at _next (C:\Users\Gajanan\OneDrive\Desktop\BasicsJS\projects\FundooNote\FundoNote\node_modules\@babel\runtime\helpers\asyncToGenerator.js:22:9) 
+    url - /api/v1/users/loginuser 
+    method - POST 
+    IP - ::ffff:127.0.0.1
+   {"timestamp":"2022-12-30T09:39:33.145Z"}
+error: 
+      status - 400
+      message - Authorization token is required 
+      url - /api/v1/notes/add 
+      method - POST 
+      IP - ::ffff:127.0.0.1
+     {"timestamp":"2022-12-30T09:39:33.468Z"}
+error: 
+      status - 400
+      message - Authorization token is required 
+      url - /api/v1/notes/add 
+      method - POST 
+      IP - ::ffff:127.0.0.1
+     {"timestamp":"2022-12-30T09:39:33.484Z"}
+error: 
+      status - 400
+      message - Authorization token is required 
+      url - /api/v1/notes/add 
+      method - POST 
+      IP - ::ffff:127.0.0.1
+     {"timestamp":"2022-12-30T09:39:33.498Z"}
+error: 
+      status - 400
+      message - Authorization token is required 
+      url - /api/v1/notes/add 
+      method - POST 
+      IP - ::ffff:127.0.0.1
+     {"timestamp":"2022-12-30T09:39:34.092Z"}
+error: 
+      status - 400
+      message - Authorization token is required 
+      url - /api/v1/notes/63aeb1d5396cc8946c49fa58 
+      method - PUT 
+      IP - ::ffff:127.0.0.1
+     {"timestamp":"2022-12-30T09:39:34.106Z"}
+error: 
+      status - 400
+      message - Authorization token is required 
+      url - /api/v1/notes/63aeb1d5396cc8946c49fa58 
+      method - DELETE 
+      IP - ::ffff:127.0.0.1
+     {"timestamp":"2022-12-30T09:39:34.122Z"}
+info: Server started at http://localhost:5000/api/v1/ {"timestamp":"2022-12-30T09:40:37.534Z"}
+info: Connected to the database. {"timestamp":"2022-12-30T09:40:41.267Z"}
+error: 
+    status - 500 
+    message - ValidationError: "lastName" length must be at least 2 characters long 
+    url - /api/v1/users/register 
+    method - POST 
+    IP - ::ffff:127.0.0.1
+   {"timestamp":"2022-12-30T09:40:43.357Z"}
+error: 
+    status - 500 
+    message - ValidationError: "firstName" length must be at least 4 characters long 
+    url - /api/v1/users/register 
+    method - POST 
+    IP - ::ffff:127.0.0.1
+   {"timestamp":"2022-12-30T09:40:43.370Z"}
+error: 
+    status - 500 
+    message - Error: Invalid  EmailId
+    at _callee3$ (C:\Users\Gajanan\OneDrive\Desktop\BasicsJS\projects\FundooNote\FundoNote\src\services\/user.service.js:43:11)
+    at tryCatch (C:\Users\Gajanan\OneDrive\Desktop\BasicsJS\projects\FundooNote\FundoNote\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:44:17)
+    at Generator.<anonymous> (C:\Users\Gajanan\OneDrive\Desktop\BasicsJS\projects\FundooNote\FundoNote\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:125:22)
+    at Generator.next (C:\Users\Gajanan\OneDrive\Desktop\BasicsJS\projects\FundooNote\FundoNote\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:69:21)
+    at asyncGeneratorStep (C:\Users\Gajanan\OneDrive\Desktop\BasicsJS\projects\FundooNote\FundoNote\node_modules\@babel\runtime\helpers\asyncToGenerator.js:3:24)
+    at _next (C:\Users\Gajanan\OneDrive\Desktop\BasicsJS\projects\FundooNote\FundoNote\node_modules\@babel\runtime\helpers\asyncToGenerator.js:22:9)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5) 
+    url - /api/v1/users/loginuser 
+    method - POST 
+    IP - ::ffff:127.0.0.1
+   {"timestamp":"2022-12-30T09:40:45.590Z"}
+error: 
+    status - 500 
+    message - Error: Password is Invalid
+    at _callee3$ (C:\Users\Gajanan\OneDrive\Desktop\BasicsJS\projects\FundooNote\FundoNote\src\services\/user.service.js:40:13)
+    at tryCatch (C:\Users\Gajanan\OneDrive\Desktop\BasicsJS\projects\FundooNote\FundoNote\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:44:17)
+    at Generator.<anonymous> (C:\Users\Gajanan\OneDrive\Desktop\BasicsJS\projects\FundooNote\FundoNote\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:125:22)
+    at Generator.next (C:\Users\Gajanan\OneDrive\Desktop\BasicsJS\projects\FundooNote\FundoNote\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:69:21)
+    at asyncGeneratorStep (C:\Users\Gajanan\OneDrive\Desktop\BasicsJS\projects\FundooNote\FundoNote\node_modules\@babel\runtime\helpers\asyncToGenerator.js:3:24)
+    at _next (C:\Users\Gajanan\OneDrive\Desktop\BasicsJS\projects\FundooNote\FundoNote\node_modules\@babel\runtime\helpers\asyncToGenerator.js:22:9) 
+    url - /api/v1/users/loginuser 
+    method - POST 
+    IP - ::ffff:127.0.0.1
+   {"timestamp":"2022-12-30T09:40:45.942Z"}
+error: 
+      status - 400
+      message - Authorization token is required 
+      url - /api/v1/notes/add 
+      method - POST 
+      IP - ::ffff:127.0.0.1
+     {"timestamp":"2022-12-30T09:40:46.254Z"}
+error: 
+      status - 400
+      message - Authorization token is required 
+      url - /api/v1/notes/add 
+      method - POST 
+      IP - ::ffff:127.0.0.1
+     {"timestamp":"2022-12-30T09:40:46.274Z"}
+error: 
+      status - 400
+      message - Authorization token is required 
+      url - /api/v1/notes/add 
+      method - POST 
+      IP - ::ffff:127.0.0.1
+     {"timestamp":"2022-12-30T09:40:46.294Z"}
+error: 
+    status - 500 
+    message - CastError: Cast to ObjectId failed for value "{ _id: '${noteid}' }" (type Object) at path "_id" for model "notes"
+    at model.Query.exec (C:\Users\Gajanan\OneDrive\Desktop\BasicsJS\projects\FundooNote\FundoNote\node_modules\mongoose\lib\query.js:4498:21)
+    at model.Query.Query.then (C:\Users\Gajanan\OneDrive\Desktop\BasicsJS\projects\FundooNote\FundoNote\node_modules\mongoose\lib\query.js:4592:15)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5) 
+    url - /api/v1/notes/$%7Bnoteid%7D 
+    method - PUT 
+    IP - ::ffff:127.0.0.1
+   {"timestamp":"2022-12-30T09:40:46.641Z"}
+error: 
+      status - 400
+      message - Authorization token is required 
+      url - /api/v1/notes/add 
+      method - POST 
+      IP - ::ffff:127.0.0.1
+     {"timestamp":"2022-12-30T09:40:46.738Z"}
+error: 
+      status - 400
+      message - Authorization token is required 
+      url - /api/v1/notes/63aeb21d2300fd0f0804876b 
+      method - PUT 
+      IP - ::ffff:127.0.0.1
+     {"timestamp":"2022-12-30T09:40:46.753Z"}
+error: 
+      status - 400
+      message - Authorization token is required 
+      url - /api/v1/notes/63aeb21d2300fd0f0804876b 
+      method - DELETE 
+      IP - ::ffff:127.0.0.1
+     {"timestamp":"2022-12-30T09:40:46.767Z"}
+info: Server started at http://localhost:5000/api/v1/ {"timestamp":"2022-12-30T09:41:39.058Z"}
+info: Connected to the database. {"timestamp":"2022-12-30T09:41:41.784Z"}
+error: 
+    status - 500 
+    message - ValidationError: "lastName" length must be at least 2 characters long 
+    url - /api/v1/users/register 
+    method - POST 
+    IP - ::ffff:127.0.0.1
+   {"timestamp":"2022-12-30T09:41:42.908Z"}
+error: 
+    status - 500 
+    message - ValidationError: "firstName" length must be at least 4 characters long 
+    url - /api/v1/users/register 
+    method - POST 
+    IP - ::ffff:127.0.0.1
+   {"timestamp":"2022-12-30T09:41:42.927Z"}
+error: 
+    status - 500 
+    message - Error: Invalid  EmailId
+    at _callee3$ (C:\Users\Gajanan\OneDrive\Desktop\BasicsJS\projects\FundooNote\FundoNote\src\services\/user.service.js:43:11)
+    at tryCatch (C:\Users\Gajanan\OneDrive\Desktop\BasicsJS\projects\FundooNote\FundoNote\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:44:17)
+    at Generator.<anonymous> (C:\Users\Gajanan\OneDrive\Desktop\BasicsJS\projects\FundooNote\FundoNote\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:125:22)
+    at Generator.next (C:\Users\Gajanan\OneDrive\Desktop\BasicsJS\projects\FundooNote\FundoNote\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:69:21)
+    at asyncGeneratorStep (C:\Users\Gajanan\OneDrive\Desktop\BasicsJS\projects\FundooNote\FundoNote\node_modules\@babel\runtime\helpers\asyncToGenerator.js:3:24)
+    at _next (C:\Users\Gajanan\OneDrive\Desktop\BasicsJS\projects\FundooNote\FundoNote\node_modules\@babel\runtime\helpers\asyncToGenerator.js:22:9)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5) 
+    url - /api/v1/users/loginuser 
+    method - POST 
+    IP - ::ffff:127.0.0.1
+   {"timestamp":"2022-12-30T09:41:43.564Z"}
+error: 
+    status - 500 
+    message - Error: Password is Invalid
+    at _callee3$ (C:\Users\Gajanan\OneDrive\Desktop\BasicsJS\projects\FundooNote\FundoNote\src\services\/user.service.js:40:13)
+    at tryCatch (C:\Users\Gajanan\OneDrive\Desktop\BasicsJS\projects\FundooNote\FundoNote\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:44:17)
+    at Generator.<anonymous> (C:\Users\Gajanan\OneDrive\Desktop\BasicsJS\projects\FundooNote\FundoNote\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:125:22)
+    at Generator.next (C:\Users\Gajanan\OneDrive\Desktop\BasicsJS\projects\FundooNote\FundoNote\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:69:21)
+    at asyncGeneratorStep (C:\Users\Gajanan\OneDrive\Desktop\BasicsJS\projects\FundooNote\FundoNote\node_modules\@babel\runtime\helpers\asyncToGenerator.js:3:24)
+    at _next (C:\Users\Gajanan\OneDrive\Desktop\BasicsJS\projects\FundooNote\FundoNote\node_modules\@babel\runtime\helpers\asyncToGenerator.js:22:9) 
+    url - /api/v1/users/loginuser 
+    method - POST 
+    IP - ::ffff:127.0.0.1
+   {"timestamp":"2022-12-30T09:41:43.965Z"}
+error: 
+      status - 400
+      message - Authorization token is required 
+      url - /api/v1/notes/add 
+      method - POST 
+      IP - ::ffff:127.0.0.1
+     {"timestamp":"2022-12-30T09:41:44.303Z"}
+error: 
+      status - 400
+      message - Authorization token is required 
+      url - /api/v1/notes/add 
+      method - POST 
+      IP - ::ffff:127.0.0.1
+     {"timestamp":"2022-12-30T09:41:44.322Z"}
+error: 
+      status - 400
+      message - Authorization token is required 
+      url - /api/v1/notes/add 
+      method - POST 
+      IP - ::ffff:127.0.0.1
+     {"timestamp":"2022-12-30T09:41:44.338Z"}
+error: 
+      status - 400
+      message - Authorization token is required 
+      url - /api/v1/notes/add 
+      method - POST 
+      IP - ::ffff:127.0.0.1
+     {"timestamp":"2022-12-30T09:41:44.888Z"}
+error: 
+      status - 400
+      message - Authorization token is required 
+      url - /api/v1/notes/63aeb2578dde8711a0861964 
+      method - PUT 
+      IP - ::ffff:127.0.0.1
+     {"timestamp":"2022-12-30T09:41:44.912Z"}
+error: 
+      status - 400
+      message - Authorization token is required 
+      url - /api/v1/notes/63aeb2578dde8711a0861964 
+      method - DELETE 
+      IP - ::ffff:127.0.0.1
+     {"timestamp":"2022-12-30T09:41:44.923Z"}

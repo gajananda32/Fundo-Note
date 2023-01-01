@@ -1,0 +1,4 @@
+info: ::1 - - [25/Dec/2022:17:14:20 +0000] "GET /api/v1/notes HTTP/1.1" 200 538 "-" "PostmanRuntime/7.30.0"
+
+info: ::1 - - [25/Dec/2022:17:14:46 +0000] "DELETE /api/v1/notes/63a55226095ec968c42ba043 HTTP/1.1" 200 61 "-" "PostmanRuntime/7.30.0"
+

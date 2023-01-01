@@ -1,0 +1,299 @@
+info: Server started at http://localhost:5000/api/v1/ {"timestamp":"2022-12-27T13:09:13.014Z"}
+info: Connected to the database. {"timestamp":"2022-12-27T13:09:38.757Z"}
+error: 
+    status - 500 
+    message - Error: Invalid Email ID
+    at _callee5$ (C:\Users\Gajanan\OneDrive\Desktop\BasicsJS\projects\FundooNote\FundoNote\src\services\/user.service.js:69:11)
+    at tryCatch (C:\Users\Gajanan\OneDrive\Desktop\BasicsJS\projects\FundooNote\FundoNote\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:44:17)
+    at Generator.<anonymous> (C:\Users\Gajanan\OneDrive\Desktop\BasicsJS\projects\FundooNote\FundoNote\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:125:22)
+    at Generator.next (C:\Users\Gajanan\OneDrive\Desktop\BasicsJS\projects\FundooNote\FundoNote\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:69:21)
+    at asyncGeneratorStep (C:\Users\Gajanan\OneDrive\Desktop\BasicsJS\projects\FundooNote\FundoNote\node_modules\@babel\runtime\helpers\asyncToGenerator.js:3:24)
+    at _next (C:\Users\Gajanan\OneDrive\Desktop\BasicsJS\projects\FundooNote\FundoNote\node_modules\@babel\runtime\helpers\asyncToGenerator.js:22:9)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5) 
+    url - /api/v1/users/forgottpassword 
+    method - POST 
+    IP - ::1
+   {"timestamp":"2022-12-27T13:11:39.688Z"}
+error: 
+    status - 500 
+    message - Error: Invalid Email ID
+    at _callee5$ (C:\Users\Gajanan\OneDrive\Desktop\BasicsJS\projects\FundooNote\FundoNote\src\services\/user.service.js:69:11)
+    at tryCatch (C:\Users\Gajanan\OneDrive\Desktop\BasicsJS\projects\FundooNote\FundoNote\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:44:17)
+    at Generator.<anonymous> (C:\Users\Gajanan\OneDrive\Desktop\BasicsJS\projects\FundooNote\FundoNote\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:125:22)
+    at Generator.next (C:\Users\Gajanan\OneDrive\Desktop\BasicsJS\projects\FundooNote\FundoNote\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:69:21)
+    at asyncGeneratorStep (C:\Users\Gajanan\OneDrive\Desktop\BasicsJS\projects\FundooNote\FundoNote\node_modules\@babel\runtime\helpers\asyncToGenerator.js:3:24)
+    at _next (C:\Users\Gajanan\OneDrive\Desktop\BasicsJS\projects\FundooNote\FundoNote\node_modules\@babel\runtime\helpers\asyncToGenerator.js:22:9)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5) 
+    url - /api/v1/users/forgottpassword 
+    method - POST 
+    IP - ::1
+   {"timestamp":"2022-12-27T13:11:58.928Z"}
+info: Server started at http://localhost:5000/api/v1/ {"timestamp":"2022-12-27T13:17:06.334Z"}
+info: Connected to the database. {"timestamp":"2022-12-27T13:17:09.148Z"}
+error: 
+    status - 500 
+    message - Error: Invalid Email ID
+    at _callee5$ (C:\Users\Gajanan\OneDrive\Desktop\BasicsJS\projects\FundooNote\FundoNote\src\services\/user.service.js:70:11)
+    at tryCatch (C:\Users\Gajanan\OneDrive\Desktop\BasicsJS\projects\FundooNote\FundoNote\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:44:17)
+    at Generator.<anonymous> (C:\Users\Gajanan\OneDrive\Desktop\BasicsJS\projects\FundooNote\FundoNote\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:125:22)
+    at Generator.next (C:\Users\Gajanan\OneDrive\Desktop\BasicsJS\projects\FundooNote\FundoNote\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:69:21)
+    at asyncGeneratorStep (C:\Users\Gajanan\OneDrive\Desktop\BasicsJS\projects\FundooNote\FundoNote\node_modules\@babel\runtime\helpers\asyncToGenerator.js:3:24)
+    at _next (C:\Users\Gajanan\OneDrive\Desktop\BasicsJS\projects\FundooNote\FundoNote\node_modules\@babel\runtime\helpers\asyncToGenerator.js:22:9)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5) 
+    url - /api/v1/users/forgottpassword 
+    method - POST 
+    IP - ::1
+   {"timestamp":"2022-12-27T13:17:15.057Z"}
+error: 
+    status - 500 
+    message - Error: Invalid Email ID
+    at _callee5$ (C:\Users\Gajanan\OneDrive\Desktop\BasicsJS\projects\FundooNote\FundoNote\src\services\/user.service.js:70:11)
+    at tryCatch (C:\Users\Gajanan\OneDrive\Desktop\BasicsJS\projects\FundooNote\FundoNote\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:44:17)
+    at Generator.<anonymous> (C:\Users\Gajanan\OneDrive\Desktop\BasicsJS\projects\FundooNote\FundoNote\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:125:22)
+    at Generator.next (C:\Users\Gajanan\OneDrive\Desktop\BasicsJS\projects\FundooNote\FundoNote\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:69:21)
+    at asyncGeneratorStep (C:\Users\Gajanan\OneDrive\Desktop\BasicsJS\projects\FundooNote\FundoNote\node_modules\@babel\runtime\helpers\asyncToGenerator.js:3:24)
+    at _next (C:\Users\Gajanan\OneDrive\Desktop\BasicsJS\projects\FundooNote\FundoNote\node_modules\@babel\runtime\helpers\asyncToGenerator.js:22:9)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5) 
+    url - /api/v1/users/forgottpassword 
+    method - POST 
+    IP - ::1
+   {"timestamp":"2022-12-27T13:21:57.417Z"}
+error: 
+    status - 500 
+    message - Error: Invalid Email ID
+    at _callee5$ (C:\Users\Gajanan\OneDrive\Desktop\BasicsJS\projects\FundooNote\FundoNote\src\services\/user.service.js:70:11)
+    at tryCatch (C:\Users\Gajanan\OneDrive\Desktop\BasicsJS\projects\FundooNote\FundoNote\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:44:17)
+    at Generator.<anonymous> (C:\Users\Gajanan\OneDrive\Desktop\BasicsJS\projects\FundooNote\FundoNote\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:125:22)
+    at Generator.next (C:\Users\Gajanan\OneDrive\Desktop\BasicsJS\projects\FundooNote\FundoNote\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:69:21)
+    at asyncGeneratorStep (C:\Users\Gajanan\OneDrive\Desktop\BasicsJS\projects\FundooNote\FundoNote\node_modules\@babel\runtime\helpers\asyncToGenerator.js:3:24)
+    at _next (C:\Users\Gajanan\OneDrive\Desktop\BasicsJS\projects\FundooNote\FundoNote\node_modules\@babel\runtime\helpers\asyncToGenerator.js:22:9)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5) 
+    url - /api/v1/users/forgottpassword 
+    method - POST 
+    IP - ::1
+   {"timestamp":"2022-12-27T13:22:49.224Z"}
+info: Server started at http://localhost:5000/api/v1/ {"timestamp":"2022-12-27T13:33:34.397Z"}
+info: Connected to the database. {"timestamp":"2022-12-27T13:33:45.954Z"}
+error: 
+    status - 500 
+    message - Error: data and salt arguments required
+    at Object.hash (C:\Users\Gajanan\OneDrive\Desktop\BasicsJS\projects\FundooNote\FundoNote\node_modules\bcrypt\bcrypt.js:137:17)
+    at C:\Users\Gajanan\OneDrive\Desktop\BasicsJS\projects\FundooNote\FundoNote\node_modules\bcrypt\promises.js:29:12
+    at new Promise (<anonymous>)
+    at Object.module.exports.promise (C:\Users\Gajanan\OneDrive\Desktop\BasicsJS\projects\FundooNote\FundoNote\node_modules\bcrypt\promises.js:20:12)
+    at Object.hash (C:\Users\Gajanan\OneDrive\Desktop\BasicsJS\projects\FundooNote\FundoNote\node_modules\bcrypt\bcrypt.js:133:25)
+    at _callee4$ (C:\Users\Gajanan\OneDrive\Desktop\BasicsJS\projects\FundooNote\FundoNote\src\services\/user.service.js:48:37)
+    at tryCatch (C:\Users\Gajanan\OneDrive\Desktop\BasicsJS\projects\FundooNote\FundoNote\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:44:17)
+    at Generator.<anonymous> (C:\Users\Gajanan\OneDrive\Desktop\BasicsJS\projects\FundooNote\FundoNote\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:125:22)
+    at Generator.next (C:\Users\Gajanan\OneDrive\Desktop\BasicsJS\projects\FundooNote\FundoNote\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:69:21)
+    at asyncGeneratorStep (C:\Users\Gajanan\OneDrive\Desktop\BasicsJS\projects\FundooNote\FundoNote\node_modules\@babel\runtime\helpers\asyncToGenerator.js:3:24)
+    at _next (C:\Users\Gajanan\OneDrive\Desktop\BasicsJS\projects\FundooNote\FundoNote\node_modules\@babel\runtime\helpers\asyncToGenerator.js:22:9)
+    at C:\Users\Gajanan\OneDrive\Desktop\BasicsJS\projects\FundooNote\FundoNote\node_modules\@babel\runtime\helpers\asyncToGenerator.js:27:7
+    at new Promise (<anonymous>)
+    at Object.<anonymous> (C:\Users\Gajanan\OneDrive\Desktop\BasicsJS\projects\FundooNote\FundoNote\node_modules\@babel\runtime\helpers\asyncToGenerator.js:19:12)
+    at Object.ResetPassword (C:\Users\Gajanan\OneDrive\Desktop\BasicsJS\projects\FundooNote\FundoNote\src\services\/user.service.js:46:27)
+    at _callee5$ (C:\Users\Gajanan\OneDrive\Desktop\BasicsJS\projects\FundooNote\FundoNote\src\controllers\/user.controller.js:78:36)
+    at tryCatch (C:\Users\Gajanan\OneDrive\Desktop\BasicsJS\projects\FundooNote\FundoNote\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:44:17)
+    at Generator.<anonymous> (C:\Users\Gajanan\OneDrive\Desktop\BasicsJS\projects\FundooNote\FundoNote\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:125:22)
+    at Generator.next (C:\Users\Gajanan\OneDrive\Desktop\BasicsJS\projects\FundooNote\FundoNote\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:69:21)
+    at asyncGeneratorStep (C:\Users\Gajanan\OneDrive\Desktop\BasicsJS\projects\FundooNote\FundoNote\node_modules\@babel\runtime\helpers\asyncToGenerator.js:3:24)
+    at _next (C:\Users\Gajanan\OneDrive\Desktop\BasicsJS\projects\FundooNote\FundoNote\node_modules\@babel\runtime\helpers\asyncToGenerator.js:22:9)
+    at C:\Users\Gajanan\OneDrive\Desktop\BasicsJS\projects\FundooNote\FundoNote\node_modules\@babel\runtime\helpers\asyncToGenerator.js:27:7
+    at new Promise (<anonymous>)
+    at C:\Users\Gajanan\OneDrive\Desktop\BasicsJS\projects\FundooNote\FundoNote\node_modules\@babel\runtime\helpers\asyncToGenerator.js:19:12
+    at ResetPassword (C:\Users\Gajanan\OneDrive\Desktop\BasicsJS\projects\FundooNote\FundoNote\src\controllers\/user.controller.js:76:27)
+    at Layer.handle [as handle_request] (C:\Users\Gajanan\OneDrive\Desktop\BasicsJS\projects\FundooNote\FundoNote\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Users\Gajanan\OneDrive\Desktop\BasicsJS\projects\FundooNote\FundoNote\node_modules\express\lib\router\route.js:144:13)
+    at _callee2$ (C:\Users\Gajanan\OneDrive\Desktop\BasicsJS\projects\FundooNote\FundoNote\src\middlewares\/auth.middleware.js:43:5)
+    at tryCatch (C:\Users\Gajanan\OneDrive\Desktop\BasicsJS\projects\FundooNote\FundoNote\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:44:17)
+    at Generator.<anonymous> (C:\Users\Gajanan\OneDrive\Desktop\BasicsJS\projects\FundooNote\FundoNote\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:125:22)
+    at Generator.next (C:\Users\Gajanan\OneDrive\Desktop\BasicsJS\projects\FundooNote\FundoNote\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:69:21)
+    at asyncGeneratorStep (C:\Users\Gajanan\OneDrive\Desktop\BasicsJS\projects\FundooNote\FundoNote\node_modules\@babel\runtime\helpers\asyncToGenerator.js:3:24)
+    at _next (C:\Users\Gajanan\OneDrive\Desktop\BasicsJS\projects\FundooNote\FundoNote\node_modules\@babel\runtime\helpers\asyncToGenerator.js:22:9)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5) 
+    url - /api/v1/users/resetpassword 
+    method - PUT 
+    IP - ::1
+   {"timestamp":"2022-12-27T13:34:03.285Z"}
+info: Server started at http://localhost:5000/api/v1/ {"timestamp":"2022-12-27T13:35:54.049Z"}
+info: Connected to the database. {"timestamp":"2022-12-27T13:35:57.290Z"}
+error: 
+    status - 500 
+    message - ReferenceError: hashPassword is not defined
+    at _callee4$ (C:\Users\Gajanan\OneDrive\Desktop\BasicsJS\projects\FundooNote\FundoNote\src\services\/user.service.js:52:15)
+    at tryCatch (C:\Users\Gajanan\OneDrive\Desktop\BasicsJS\projects\FundooNote\FundoNote\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:44:17)
+    at Generator.<anonymous> (C:\Users\Gajanan\OneDrive\Desktop\BasicsJS\projects\FundooNote\FundoNote\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:125:22)
+    at Generator.next (C:\Users\Gajanan\OneDrive\Desktop\BasicsJS\projects\FundooNote\FundoNote\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:69:21)
+    at asyncGeneratorStep (C:\Users\Gajanan\OneDrive\Desktop\BasicsJS\projects\FundooNote\FundoNote\node_modules\@babel\runtime\helpers\asyncToGenerator.js:3:24)
+    at _next (C:\Users\Gajanan\OneDrive\Desktop\BasicsJS\projects\FundooNote\FundoNote\node_modules\@babel\runtime\helpers\asyncToGenerator.js:22:9)
+    at C:\Users\Gajanan\OneDrive\Desktop\BasicsJS\projects\FundooNote\FundoNote\node_modules\@babel\runtime\helpers\asyncToGenerator.js:27:7
+    at new Promise (<anonymous>)
+    at Object.<anonymous> (C:\Users\Gajanan\OneDrive\Desktop\BasicsJS\projects\FundooNote\FundoNote\node_modules\@babel\runtime\helpers\asyncToGenerator.js:19:12)
+    at Object.ResetPassword (C:\Users\Gajanan\OneDrive\Desktop\BasicsJS\projects\FundooNote\FundoNote\src\services\/user.service.js:46:27)
+    at _callee5$ (C:\Users\Gajanan\OneDrive\Desktop\BasicsJS\projects\FundooNote\FundoNote\src\controllers\/user.controller.js:78:36)
+    at tryCatch (C:\Users\Gajanan\OneDrive\Desktop\BasicsJS\projects\FundooNote\FundoNote\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:44:17)
+    at Generator.<anonymous> (C:\Users\Gajanan\OneDrive\Desktop\BasicsJS\projects\FundooNote\FundoNote\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:125:22)
+    at Generator.next (C:\Users\Gajanan\OneDrive\Desktop\BasicsJS\projects\FundooNote\FundoNote\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:69:21)
+    at asyncGeneratorStep (C:\Users\Gajanan\OneDrive\Desktop\BasicsJS\projects\FundooNote\FundoNote\node_modules\@babel\runtime\helpers\asyncToGenerator.js:3:24)
+    at _next (C:\Users\Gajanan\OneDrive\Desktop\BasicsJS\projects\FundooNote\FundoNote\node_modules\@babel\runtime\helpers\asyncToGenerator.js:22:9)
+    at C:\Users\Gajanan\OneDrive\Desktop\BasicsJS\projects\FundooNote\FundoNote\node_modules\@babel\runtime\helpers\asyncToGenerator.js:27:7
+    at new Promise (<anonymous>)
+    at C:\Users\Gajanan\OneDrive\Desktop\BasicsJS\projects\FundooNote\FundoNote\node_modules\@babel\runtime\helpers\asyncToGenerator.js:19:12
+    at ResetPassword (C:\Users\Gajanan\OneDrive\Desktop\BasicsJS\projects\FundooNote\FundoNote\src\controllers\/user.controller.js:76:27)
+    at Layer.handle [as handle_request] (C:\Users\Gajanan\OneDrive\Desktop\BasicsJS\projects\FundooNote\FundoNote\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Users\Gajanan\OneDrive\Desktop\BasicsJS\projects\FundooNote\FundoNote\node_modules\express\lib\router\route.js:144:13)
+    at _callee2$ (C:\Users\Gajanan\OneDrive\Desktop\BasicsJS\projects\FundooNote\FundoNote\src\middlewares\/auth.middleware.js:43:5)
+    at tryCatch (C:\Users\Gajanan\OneDrive\Desktop\BasicsJS\projects\FundooNote\FundoNote\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:44:17)
+    at Generator.<anonymous> (C:\Users\Gajanan\OneDrive\Desktop\BasicsJS\projects\FundooNote\FundoNote\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:125:22)
+    at Generator.next (C:\Users\Gajanan\OneDrive\Desktop\BasicsJS\projects\FundooNote\FundoNote\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:69:21)
+    at asyncGeneratorStep (C:\Users\Gajanan\OneDrive\Desktop\BasicsJS\projects\FundooNote\FundoNote\node_modules\@babel\runtime\helpers\asyncToGenerator.js:3:24)
+    at _next (C:\Users\Gajanan\OneDrive\Desktop\BasicsJS\projects\FundooNote\FundoNote\node_modules\@babel\runtime\helpers\asyncToGenerator.js:22:9)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5) 
+    url - /api/v1/users/resetpassword 
+    method - PUT 
+    IP - ::1
+   {"timestamp":"2022-12-27T13:36:03.007Z"}
+info: Server started at http://localhost:5000/api/v1/ {"timestamp":"2022-12-27T13:36:32.218Z"}
+info: Connected to the database. {"timestamp":"2022-12-27T13:36:34.763Z"}
+error: 
+    status - 500 
+    message - Error: Password is Invalid
+    at _callee3$ (C:\Users\Gajanan\OneDrive\Desktop\BasicsJS\projects\FundooNote\FundoNote\src\services\/user.service.js:38:13)
+    at tryCatch (C:\Users\Gajanan\OneDrive\Desktop\BasicsJS\projects\FundooNote\FundoNote\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:44:17)
+    at Generator.<anonymous> (C:\Users\Gajanan\OneDrive\Desktop\BasicsJS\projects\FundooNote\FundoNote\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:125:22)
+    at Generator.next (C:\Users\Gajanan\OneDrive\Desktop\BasicsJS\projects\FundooNote\FundoNote\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:69:21)
+    at asyncGeneratorStep (C:\Users\Gajanan\OneDrive\Desktop\BasicsJS\projects\FundooNote\FundoNote\node_modules\@babel\runtime\helpers\asyncToGenerator.js:3:24)
+    at _next (C:\Users\Gajanan\OneDrive\Desktop\BasicsJS\projects\FundooNote\FundoNote\node_modules\@babel\runtime\helpers\asyncToGenerator.js:22:9) 
+    url - /api/v1/users/loginuser 
+    method - POST 
+    IP - ::1
+   {"timestamp":"2022-12-27T13:38:51.425Z"}
+error: 
+    status - 500 
+    message - Error: Password is Invalid
+    at _callee3$ (C:\Users\Gajanan\OneDrive\Desktop\BasicsJS\projects\FundooNote\FundoNote\src\services\/user.service.js:38:13)
+    at tryCatch (C:\Users\Gajanan\OneDrive\Desktop\BasicsJS\projects\FundooNote\FundoNote\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:44:17)
+    at Generator.<anonymous> (C:\Users\Gajanan\OneDrive\Desktop\BasicsJS\projects\FundooNote\FundoNote\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:125:22)
+    at Generator.next (C:\Users\Gajanan\OneDrive\Desktop\BasicsJS\projects\FundooNote\FundoNote\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:69:21)
+    at asyncGeneratorStep (C:\Users\Gajanan\OneDrive\Desktop\BasicsJS\projects\FundooNote\FundoNote\node_modules\@babel\runtime\helpers\asyncToGenerator.js:3:24)
+    at _next (C:\Users\Gajanan\OneDrive\Desktop\BasicsJS\projects\FundooNote\FundoNote\node_modules\@babel\runtime\helpers\asyncToGenerator.js:22:9) 
+    url - /api/v1/users/loginuser 
+    method - POST 
+    IP - ::1
+   {"timestamp":"2022-12-27T13:39:06.062Z"}
+error: 
+    status - 500 
+    message - Error: Password is Invalid
+    at _callee3$ (C:\Users\Gajanan\OneDrive\Desktop\BasicsJS\projects\FundooNote\FundoNote\src\services\/user.service.js:38:13)
+    at tryCatch (C:\Users\Gajanan\OneDrive\Desktop\BasicsJS\projects\FundooNote\FundoNote\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:44:17)
+    at Generator.<anonymous> (C:\Users\Gajanan\OneDrive\Desktop\BasicsJS\projects\FundooNote\FundoNote\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:125:22)
+    at Generator.next (C:\Users\Gajanan\OneDrive\Desktop\BasicsJS\projects\FundooNote\FundoNote\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:69:21)
+    at asyncGeneratorStep (C:\Users\Gajanan\OneDrive\Desktop\BasicsJS\projects\FundooNote\FundoNote\node_modules\@babel\runtime\helpers\asyncToGenerator.js:3:24)
+    at _next (C:\Users\Gajanan\OneDrive\Desktop\BasicsJS\projects\FundooNote\FundoNote\node_modules\@babel\runtime\helpers\asyncToGenerator.js:22:9) 
+    url - /api/v1/users/loginuser 
+    method - POST 
+    IP - ::1
+   {"timestamp":"2022-12-27T13:43:06.268Z"}
+error: 
+    status - 500 
+    message - Error: Password is Invalid
+    at _callee3$ (C:\Users\Gajanan\OneDrive\Desktop\BasicsJS\projects\FundooNote\FundoNote\src\services\/user.service.js:38:13)
+    at tryCatch (C:\Users\Gajanan\OneDrive\Desktop\BasicsJS\projects\FundooNote\FundoNote\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:44:17)
+    at Generator.<anonymous> (C:\Users\Gajanan\OneDrive\Desktop\BasicsJS\projects\FundooNote\FundoNote\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:125:22)
+    at Generator.next (C:\Users\Gajanan\OneDrive\Desktop\BasicsJS\projects\FundooNote\FundoNote\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:69:21)
+    at asyncGeneratorStep (C:\Users\Gajanan\OneDrive\Desktop\BasicsJS\projects\FundooNote\FundoNote\node_modules\@babel\runtime\helpers\asyncToGenerator.js:3:24)
+    at _next (C:\Users\Gajanan\OneDrive\Desktop\BasicsJS\projects\FundooNote\FundoNote\node_modules\@babel\runtime\helpers\asyncToGenerator.js:22:9) 
+    url - /api/v1/users/loginuser 
+    method - POST 
+    IP - ::1
+   {"timestamp":"2022-12-27T13:44:22.647Z"}
+info: Server started at http://localhost:5000/api/v1/ {"timestamp":"2022-12-27T13:44:52.917Z"}
+info: Connected to the database. {"timestamp":"2022-12-27T13:45:43.024Z"}
+error: 
+    status - 500 
+    message - Error: Password is Invalid
+    at _callee3$ (C:\Users\Gajanan\OneDrive\Desktop\BasicsJS\projects\FundooNote\FundoNote\src\services\/user.service.js:38:13)
+    at tryCatch (C:\Users\Gajanan\OneDrive\Desktop\BasicsJS\projects\FundooNote\FundoNote\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:44:17)
+    at Generator.<anonymous> (C:\Users\Gajanan\OneDrive\Desktop\BasicsJS\projects\FundooNote\FundoNote\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:125:22)
+    at Generator.next (C:\Users\Gajanan\OneDrive\Desktop\BasicsJS\projects\FundooNote\FundoNote\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:69:21)
+    at asyncGeneratorStep (C:\Users\Gajanan\OneDrive\Desktop\BasicsJS\projects\FundooNote\FundoNote\node_modules\@babel\runtime\helpers\asyncToGenerator.js:3:24)
+    at _next (C:\Users\Gajanan\OneDrive\Desktop\BasicsJS\projects\FundooNote\FundoNote\node_modules\@babel\runtime\helpers\asyncToGenerator.js:22:9) 
+    url - /api/v1/users/loginuser 
+    method - POST 
+    IP - ::1
+   {"timestamp":"2022-12-27T13:45:49.903Z"}
+info: Server started at http://localhost:5000/api/v1/ {"timestamp":"2022-12-27T13:46:14.262Z"}
+info: Connected to the database. {"timestamp":"2022-12-27T13:46:29.693Z"}
+error: 
+    status - 500 
+    message - Error: Password is Invalid
+    at _callee3$ (C:\Users\Gajanan\OneDrive\Desktop\BasicsJS\projects\FundooNote\FundoNote\src\services\/user.service.js:38:13)
+    at tryCatch (C:\Users\Gajanan\OneDrive\Desktop\BasicsJS\projects\FundooNote\FundoNote\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:44:17)
+    at Generator.<anonymous> (C:\Users\Gajanan\OneDrive\Desktop\BasicsJS\projects\FundooNote\FundoNote\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:125:22)
+    at Generator.next (C:\Users\Gajanan\OneDrive\Desktop\BasicsJS\projects\FundooNote\FundoNote\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:69:21)
+    at asyncGeneratorStep (C:\Users\Gajanan\OneDrive\Desktop\BasicsJS\projects\FundooNote\FundoNote\node_modules\@babel\runtime\helpers\asyncToGenerator.js:3:24)
+    at _next (C:\Users\Gajanan\OneDrive\Desktop\BasicsJS\projects\FundooNote\FundoNote\node_modules\@babel\runtime\helpers\asyncToGenerator.js:22:9) 
+    url - /api/v1/users/loginuser 
+    method - POST 
+    IP - ::1
+   {"timestamp":"2022-12-27T13:46:36.210Z"}
+info: Server started at http://localhost:5000/api/v1/ {"timestamp":"2022-12-27T16:54:06.046Z"}
+info: Connected to the database. {"timestamp":"2022-12-27T16:54:09.810Z"}
+info: Server started at http://localhost:5000/api/v1/ {"timestamp":"2022-12-27T16:54:27.297Z"}
+info: Connected to the database. {"timestamp":"2022-12-27T16:54:29.934Z"}
+error: 
+    status - 500 
+    message - Error: Password is Invalid
+    at _callee3$ (C:\Users\Gajanan\OneDrive\Desktop\BasicsJS\projects\FundooNote\FundoNote\src\services\/user.service.js:39:13)
+    at tryCatch (C:\Users\Gajanan\OneDrive\Desktop\BasicsJS\projects\FundooNote\FundoNote\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:44:17)
+    at Generator.<anonymous> (C:\Users\Gajanan\OneDrive\Desktop\BasicsJS\projects\FundooNote\FundoNote\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:125:22)
+    at Generator.next (C:\Users\Gajanan\OneDrive\Desktop\BasicsJS\projects\FundooNote\FundoNote\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:69:21)
+    at asyncGeneratorStep (C:\Users\Gajanan\OneDrive\Desktop\BasicsJS\projects\FundooNote\FundoNote\node_modules\@babel\runtime\helpers\asyncToGenerator.js:3:24)
+    at _next (C:\Users\Gajanan\OneDrive\Desktop\BasicsJS\projects\FundooNote\FundoNote\node_modules\@babel\runtime\helpers\asyncToGenerator.js:22:9) 
+    url - /api/v1/users/loginuser 
+    method - POST 
+    IP - ::1
+   {"timestamp":"2022-12-27T16:54:41.775Z"}
+info: Server started at http://localhost:5000/api/v1/ {"timestamp":"2022-12-27T17:04:32.730Z"}
+info: Connected to the database. {"timestamp":"2022-12-27T17:04:41.930Z"}
+error: 
+    status - 500 
+    message - Error: data and salt arguments required
+    at Object.hash (C:\Users\Gajanan\OneDrive\Desktop\BasicsJS\projects\FundooNote\FundoNote\node_modules\bcrypt\bcrypt.js:137:17)
+    at C:\Users\Gajanan\OneDrive\Desktop\BasicsJS\projects\FundooNote\FundoNote\node_modules\bcrypt\promises.js:29:12
+    at new Promise (<anonymous>)
+    at Object.module.exports.promise (C:\Users\Gajanan\OneDrive\Desktop\BasicsJS\projects\FundooNote\FundoNote\node_modules\bcrypt\promises.js:20:12)
+    at Object.hash (C:\Users\Gajanan\OneDrive\Desktop\BasicsJS\projects\FundooNote\FundoNote\node_modules\bcrypt\bcrypt.js:133:25)
+    at _callee4$ (C:\Users\Gajanan\OneDrive\Desktop\BasicsJS\projects\FundooNote\FundoNote\src\services\/user.service.js:49:38)
+    at tryCatch (C:\Users\Gajanan\OneDrive\Desktop\BasicsJS\projects\FundooNote\FundoNote\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:44:17)
+    at Generator.<anonymous> (C:\Users\Gajanan\OneDrive\Desktop\BasicsJS\projects\FundooNote\FundoNote\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:125:22)
+    at Generator.next (C:\Users\Gajanan\OneDrive\Desktop\BasicsJS\projects\FundooNote\FundoNote\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:69:21)
+    at asyncGeneratorStep (C:\Users\Gajanan\OneDrive\Desktop\BasicsJS\projects\FundooNote\FundoNote\node_modules\@babel\runtime\helpers\asyncToGenerator.js:3:24)
+    at _next (C:\Users\Gajanan\OneDrive\Desktop\BasicsJS\projects\FundooNote\FundoNote\node_modules\@babel\runtime\helpers\asyncToGenerator.js:22:9)
+    at C:\Users\Gajanan\OneDrive\Desktop\BasicsJS\projects\FundooNote\FundoNote\node_modules\@babel\runtime\helpers\asyncToGenerator.js:27:7
+    at new Promise (<anonymous>)
+    at Object.<anonymous> (C:\Users\Gajanan\OneDrive\Desktop\BasicsJS\projects\FundooNote\FundoNote\node_modules\@babel\runtime\helpers\asyncToGenerator.js:19:12)
+    at Object.ResetPassword (C:\Users\Gajanan\OneDrive\Desktop\BasicsJS\projects\FundooNote\FundoNote\src\services\/user.service.js:47:27)
+    at _callee5$ (C:\Users\Gajanan\OneDrive\Desktop\BasicsJS\projects\FundooNote\FundoNote\src\controllers\/user.controller.js:78:36)
+    at tryCatch (C:\Users\Gajanan\OneDrive\Desktop\BasicsJS\projects\FundooNote\FundoNote\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:44:17)
+    at Generator.<anonymous> (C:\Users\Gajanan\OneDrive\Desktop\BasicsJS\projects\FundooNote\FundoNote\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:125:22)
+    at Generator.next (C:\Users\Gajanan\OneDrive\Desktop\BasicsJS\projects\FundooNote\FundoNote\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:69:21)
+    at asyncGeneratorStep (C:\Users\Gajanan\OneDrive\Desktop\BasicsJS\projects\FundooNote\FundoNote\node_modules\@babel\runtime\helpers\asyncToGenerator.js:3:24)
+    at _next (C:\Users\Gajanan\OneDrive\Desktop\BasicsJS\projects\FundooNote\FundoNote\node_modules\@babel\runtime\helpers\asyncToGenerator.js:22:9)
+    at C:\Users\Gajanan\OneDrive\Desktop\BasicsJS\projects\FundooNote\FundoNote\node_modules\@babel\runtime\helpers\asyncToGenerator.js:27:7
+    at new Promise (<anonymous>)
+    at C:\Users\Gajanan\OneDrive\Desktop\BasicsJS\projects\FundooNote\FundoNote\node_modules\@babel\runtime\helpers\asyncToGenerator.js:19:12
+    at ResetPassword (C:\Users\Gajanan\OneDrive\Desktop\BasicsJS\projects\FundooNote\FundoNote\src\controllers\/user.controller.js:76:27)
+    at Layer.handle [as handle_request] (C:\Users\Gajanan\OneDrive\Desktop\BasicsJS\projects\FundooNote\FundoNote\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Users\Gajanan\OneDrive\Desktop\BasicsJS\projects\FundooNote\FundoNote\node_modules\express\lib\router\route.js:144:13)
+    at _callee2$ (C:\Users\Gajanan\OneDrive\Desktop\BasicsJS\projects\FundooNote\FundoNote\src\middlewares\/auth.middleware.js:43:5)
+    at tryCatch (C:\Users\Gajanan\OneDrive\Desktop\BasicsJS\projects\FundooNote\FundoNote\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:44:17)
+    at Generator.<anonymous> (C:\Users\Gajanan\OneDrive\Desktop\BasicsJS\projects\FundooNote\FundoNote\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:125:22)
+    at Generator.next (C:\Users\Gajanan\OneDrive\Desktop\BasicsJS\projects\FundooNote\FundoNote\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:69:21)
+    at asyncGeneratorStep (C:\Users\Gajanan\OneDrive\Desktop\BasicsJS\projects\FundooNote\FundoNote\node_modules\@babel\runtime\helpers\asyncToGenerator.js:3:24)
+    at _next (C:\Users\Gajanan\OneDrive\Desktop\BasicsJS\projects\FundooNote\FundoNote\node_modules\@babel\runtime\helpers\asyncToGenerator.js:22:9)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5) 
+    url - /api/v1/users/resetpassword 
+    method - PUT 
+    IP - ::1
+   {"timestamp":"2022-12-27T17:05:11.578Z"}

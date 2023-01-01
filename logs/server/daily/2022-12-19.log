@@ -1,0 +1,28 @@
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-12-19T08:59:09.364Z"}
+info: Connected to the database. {"timestamp":"2022-12-19T08:59:12.276Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-12-19T09:02:16.748Z"}
+info: Connected to the database. {"timestamp":"2022-12-19T09:02:19.507Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-12-19T09:04:42.703Z"}
+info: Connected to the database. {"timestamp":"2022-12-19T09:04:45.342Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-12-19T09:05:13.469Z"}
+info: Connected to the database. {"timestamp":"2022-12-19T09:05:16.149Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-12-19T09:06:14.324Z"}
+info: Connected to the database. {"timestamp":"2022-12-19T09:06:17.085Z"}
+error: 
+    status - 500 
+    message - ValidationError: "password" length must be at least 8 characters long 
+    url - /api/v1/users/loginuser 
+    method - POST 
+    IP - ::1
+   {"timestamp":"2022-12-19T09:09:50.853Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-12-19T09:32:07.655Z"}
+info: Connected to the database. {"timestamp":"2022-12-19T09:32:10.172Z"}
+info: Connected to the database. {"timestamp":"2022-12-19T11:35:41.975Z"}
+info: Server started at http://localhost:5000/api/v1/ {"timestamp":"2022-12-19T11:37:11.519Z"}
+info: Connected to the database. {"timestamp":"2022-12-19T11:37:14.283Z"}
+info: Server started at http://localhost:5000/api/v1/ {"timestamp":"2022-12-19T11:39:10.167Z"}
+info: Connected to the database. {"timestamp":"2022-12-19T11:39:12.992Z"}
+info: Server started at http://localhost:5000/api/v1/ {"timestamp":"2022-12-19T14:34:54.259Z"}
+info: Connected to the database. {"timestamp":"2022-12-19T14:34:57.251Z"}
+info: Server started at http://localhost:5000/api/v1/ {"timestamp":"2022-12-19T14:40:34.659Z"}
+info: Connected to the database. {"timestamp":"2022-12-19T14:40:37.631Z"}
