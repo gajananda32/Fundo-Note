@@ -1,0 +1,169 @@
+info: Server started at http://localhost:5000/api/v1/ {"timestamp":"2023-01-04T02:23:33.130Z"}
+info: Connected to the database. {"timestamp":"2023-01-04T02:23:36.158Z"}
+info: Server started at http://localhost:5000/api/v1/ {"timestamp":"2023-01-04T02:58:55.013Z"}
+info: Connected to the database. {"timestamp":"2023-01-04T02:59:04.470Z"}
+info: Server started at http://localhost:5000/api/v1/ {"timestamp":"2023-01-04T03:00:14.988Z"}
+info: Connected to the database. {"timestamp":"2023-01-04T03:00:17.787Z"}
+error: 
+    status - 500 
+    message - ValidationError: "firstName" is required 
+    url - /api/v1/users/register 
+    method - POST 
+    IP - ::1
+   {"timestamp":"2023-01-04T03:01:20.975Z"}
+info: Server started at http://localhost:5000/api/v1/ {"timestamp":"2023-01-04T03:04:09.675Z"}
+info: Connected to the database. {"timestamp":"2023-01-04T03:04:12.676Z"}
+info: Server started at http://localhost:5000/api/v1/ {"timestamp":"2023-01-04T03:08:57.813Z"}
+info: Connected to the database. {"timestamp":"2023-01-04T03:09:01.058Z"}
+info: Server started at http://localhost:5000/api/v1/ {"timestamp":"2023-01-04T07:14:26.270Z"}
+info: Connected to the database. {"timestamp":"2023-01-04T07:14:29.273Z"}
+info: Server started at http://localhost:5000/api/v1/ {"timestamp":"2023-01-04T07:16:48.275Z"}
+info: Connected to the database. {"timestamp":"2023-01-04T07:16:51.010Z"}
+info: Server started at http://localhost:5000/api/v1/ {"timestamp":"2023-01-04T07:19:23.258Z"}
+info: Connected to the database. {"timestamp":"2023-01-04T07:19:25.990Z"}
+info: Server started at http://localhost:5000/api/v1/ {"timestamp":"2023-01-04T07:19:49.655Z"}
+info: Connected to the database. {"timestamp":"2023-01-04T07:19:53.712Z"}
+error: 
+    status - 500 
+    message - Error: data and salt arguments required
+    at Object.hashSync (C:\Users\Gajanan\OneDrive\Desktop\BasicsJS\projects\FundooNote\FundoNote\node_modules\bcrypt\bcrypt.js:91:15)
+    at _callee4$ (C:\Users\Gajanan\OneDrive\Desktop\BasicsJS\projects\FundooNote\FundoNote\src\services\/user.service.js:50:32)
+    at tryCatch (C:\Users\Gajanan\OneDrive\Desktop\BasicsJS\projects\FundooNote\FundoNote\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:44:17)
+    at Generator.<anonymous> (C:\Users\Gajanan\OneDrive\Desktop\BasicsJS\projects\FundooNote\FundoNote\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:125:22)
+    at Generator.next (C:\Users\Gajanan\OneDrive\Desktop\BasicsJS\projects\FundooNote\FundoNote\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:69:21)
+    at asyncGeneratorStep (C:\Users\Gajanan\OneDrive\Desktop\BasicsJS\projects\FundooNote\FundoNote\node_modules\@babel\runtime\helpers\asyncToGenerator.js:3:24)
+    at _next (C:\Users\Gajanan\OneDrive\Desktop\BasicsJS\projects\FundooNote\FundoNote\node_modules\@babel\runtime\helpers\asyncToGenerator.js:22:9)
+    at C:\Users\Gajanan\OneDrive\Desktop\BasicsJS\projects\FundooNote\FundoNote\node_modules\@babel\runtime\helpers\asyncToGenerator.js:27:7
+    at new Promise (<anonymous>)
+    at Object.<anonymous> (C:\Users\Gajanan\OneDrive\Desktop\BasicsJS\projects\FundooNote\FundoNote\node_modules\@babel\runtime\helpers\asyncToGenerator.js:19:12)
+    at Object.ResetPassword (C:\Users\Gajanan\OneDrive\Desktop\BasicsJS\projects\FundooNote\FundoNote\src\services\/user.service.js:48:27)
+    at _callee5$ (C:\Users\Gajanan\OneDrive\Desktop\BasicsJS\projects\FundooNote\FundoNote\src\controllers\/user.controller.js:78:36)
+    at tryCatch (C:\Users\Gajanan\OneDrive\Desktop\BasicsJS\projects\FundooNote\FundoNote\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:44:17)
+    at Generator.<anonymous> (C:\Users\Gajanan\OneDrive\Desktop\BasicsJS\projects\FundooNote\FundoNote\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:125:22)
+    at Generator.next (C:\Users\Gajanan\OneDrive\Desktop\BasicsJS\projects\FundooNote\FundoNote\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:69:21)
+    at asyncGeneratorStep (C:\Users\Gajanan\OneDrive\Desktop\BasicsJS\projects\FundooNote\FundoNote\node_modules\@babel\runtime\helpers\asyncToGenerator.js:3:24) 
+    url - /api/v1/users/resetpassword 
+    method - PUT 
+    IP - ::1
+   {"timestamp":"2023-01-04T07:27:49.248Z"}
+info: Server started at http://localhost:5000/api/v1/ {"timestamp":"2023-01-04T07:29:41.435Z"}
+info: Connected to the database. {"timestamp":"2023-01-04T07:29:44.266Z"}
+info: Server started at http://localhost:5000/api/v1/ {"timestamp":"2023-01-04T10:04:25.024Z"}
+info: Connected to the database. {"timestamp":"2023-01-04T10:04:29.219Z"}
+error: 
+    status - 500 
+    message - ValidationError: "firstName" is required 
+    url - /api/v1/users/register 
+    method - POST 
+    IP - ::1
+   {"timestamp":"2023-01-04T10:06:30.338Z"}
+info: Server started at http://localhost:5000/api/v1/ {"timestamp":"2023-01-04T10:08:23.996Z"}
+info: Connected to the database. {"timestamp":"2023-01-04T10:08:26.606Z"}
+error: 
+    status - 500 
+    message - Error: User with same mailid Already exits
+    at _callee2$ (C:\Users\Gajanan\OneDrive\Desktop\BasicsJS\projects\FundooNote\FundoNote\src\services\/user.service.js:16:11)
+    at tryCatch (C:\Users\Gajanan\OneDrive\Desktop\BasicsJS\projects\FundooNote\FundoNote\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:44:17)
+    at Generator.<anonymous> (C:\Users\Gajanan\OneDrive\Desktop\BasicsJS\projects\FundooNote\FundoNote\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:125:22)
+    at Generator.next (C:\Users\Gajanan\OneDrive\Desktop\BasicsJS\projects\FundooNote\FundoNote\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:69:21)
+    at asyncGeneratorStep (C:\Users\Gajanan\OneDrive\Desktop\BasicsJS\projects\FundooNote\FundoNote\node_modules\@babel\runtime\helpers\asyncToGenerator.js:3:24)
+    at _next (C:\Users\Gajanan\OneDrive\Desktop\BasicsJS\projects\FundooNote\FundoNote\node_modules\@babel\runtime\helpers\asyncToGenerator.js:22:9)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5) 
+    url - /api/v1/users/register 
+    method - POST 
+    IP - ::1
+   {"timestamp":"2023-01-04T10:09:05.352Z"}
+error: 
+    status - 500 
+    message - Error: Invalid Email ID
+    at _callee5$ (C:\Users\Gajanan\OneDrive\Desktop\BasicsJS\projects\FundooNote\FundoNote\src\services\/user.service.js:72:10)
+    at tryCatch (C:\Users\Gajanan\OneDrive\Desktop\BasicsJS\projects\FundooNote\FundoNote\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:44:17)
+    at Generator.<anonymous> (C:\Users\Gajanan\OneDrive\Desktop\BasicsJS\projects\FundooNote\FundoNote\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:125:22)
+    at Generator.next (C:\Users\Gajanan\OneDrive\Desktop\BasicsJS\projects\FundooNote\FundoNote\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:69:21)
+    at asyncGeneratorStep (C:\Users\Gajanan\OneDrive\Desktop\BasicsJS\projects\FundooNote\FundoNote\node_modules\@babel\runtime\helpers\asyncToGenerator.js:3:24)
+    at _next (C:\Users\Gajanan\OneDrive\Desktop\BasicsJS\projects\FundooNote\FundoNote\node_modules\@babel\runtime\helpers\asyncToGenerator.js:22:9)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5) 
+    url - /api/v1/users/forgottpassword 
+    method - POST 
+    IP - ::1
+   {"timestamp":"2023-01-04T10:11:22.081Z"}
+error: 
+      status - 400
+      message - Authorization token is required 
+      url - /api/v1/users/resetpassword 
+      method - PUT 
+      IP - ::1
+     {"timestamp":"2023-01-04T10:14:00.103Z"}
+info: Server started at http://localhost:5000/api/v1/ {"timestamp":"2023-01-04T10:26:56.587Z"}
+info: Connected to the database. {"timestamp":"2023-01-04T10:26:59.430Z"}
+error: 
+      status - 400
+      message - Authorization token is required 
+      url - /api/v1/users/resetpassword 
+      method - PUT 
+      IP - ::1
+     {"timestamp":"2023-01-04T10:27:09.417Z"}
+error: 
+      status - 400
+      message - Authorization token is required 
+      url - /api/v1/users/resetpassword 
+      method - PUT 
+      IP - ::1
+     {"timestamp":"2023-01-04T10:27:39.291Z"}
+error: 
+      status - 400
+      message - Authorization token is required 
+      url - /api/v1/notes/add 
+      method - POST 
+      IP - ::1
+     {"timestamp":"2023-01-04T10:30:45.520Z"}
+info: Server started at http://localhost:5000/api/v1/ {"timestamp":"2023-01-04T10:45:57.873Z"}
+info: Connected to the database. {"timestamp":"2023-01-04T10:46:00.510Z"}
+info: Server started at http://localhost:5000/api/v1/ {"timestamp":"2023-01-04T10:50:34.495Z"}
+info: Connected to the database. {"timestamp":"2023-01-04T10:50:37.940Z"}
+info: Server started at http://localhost:5000/api/v1/ {"timestamp":"2023-01-04T11:14:18.392Z"}
+info: Connected to the database. {"timestamp":"2023-01-04T11:14:21.236Z"}
+info: Server started at http://localhost:5000/api/v1/ {"timestamp":"2023-01-04T11:16:04.744Z"}
+info: Connected to the database. {"timestamp":"2023-01-04T11:16:07.495Z"}
+info: Server started at http://localhost:5000/api/v1/ {"timestamp":"2023-01-04T11:22:07.217Z"}
+info: Connected to the database. {"timestamp":"2023-01-04T11:22:15.067Z"}
+error: 
+    status - 500 
+    message - JsonWebTokenError: jwt malformed
+    at Object.verify (C:\Users\Gajanan\OneDrive\Desktop\BasicsJS\projects\FundooNote\FundoNote\node_modules\jsonwebtoken\verify.js:63:17)
+    at _callee2$ (C:\Users\Gajanan\OneDrive\Desktop\BasicsJS\projects\FundooNote\FundoNote\src\middlewares\/auth.middleware.js:41:29)
+    at tryCatch (C:\Users\Gajanan\OneDrive\Desktop\BasicsJS\projects\FundooNote\FundoNote\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:44:17)
+    at Generator.<anonymous> (C:\Users\Gajanan\OneDrive\Desktop\BasicsJS\projects\FundooNote\FundoNote\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:125:22)
+    at Generator.next (C:\Users\Gajanan\OneDrive\Desktop\BasicsJS\projects\FundooNote\FundoNote\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:69:21)
+    at asyncGeneratorStep (C:\Users\Gajanan\OneDrive\Desktop\BasicsJS\projects\FundooNote\FundoNote\node_modules\@babel\runtime\helpers\asyncToGenerator.js:3:24)
+    at _next (C:\Users\Gajanan\OneDrive\Desktop\BasicsJS\projects\FundooNote\FundoNote\node_modules\@babel\runtime\helpers\asyncToGenerator.js:22:9)
+    at C:\Users\Gajanan\OneDrive\Desktop\BasicsJS\projects\FundooNote\FundoNote\node_modules\@babel\runtime\helpers\asyncToGenerator.js:27:7
+    at new Promise (<anonymous>)
+    at C:\Users\Gajanan\OneDrive\Desktop\BasicsJS\projects\FundooNote\FundoNote\node_modules\@babel\runtime\helpers\asyncToGenerator.js:19:12
+    at resetAuth (C:\Users\Gajanan\OneDrive\Desktop\BasicsJS\projects\FundooNote\FundoNote\src\middlewares\/auth.middleware.js:31:23)
+    at Layer.handle [as handle_request] (C:\Users\Gajanan\OneDrive\Desktop\BasicsJS\projects\FundooNote\FundoNote\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Users\Gajanan\OneDrive\Desktop\BasicsJS\projects\FundooNote\FundoNote\node_modules\express\lib\router\route.js:144:13)
+    at Route.dispatch (C:\Users\Gajanan\OneDrive\Desktop\BasicsJS\projects\FundooNote\FundoNote\node_modules\express\lib\router\route.js:114:3)
+    at Layer.handle [as handle_request] (C:\Users\Gajanan\OneDrive\Desktop\BasicsJS\projects\FundooNote\FundoNote\node_modules\express\lib\router\layer.js:95:5)
+    at C:\Users\Gajanan\OneDrive\Desktop\BasicsJS\projects\FundooNote\FundoNote\node_modules\express\lib\router\index.js:284:15 
+    url - /api/v1/users/resetpassword 
+    method - PUT 
+    IP - ::1
+   {"timestamp":"2023-01-04T12:08:45.877Z"}
+info: Server started at http://localhost:5000/api/v1/ {"timestamp":"2023-01-04T16:22:34.683Z"}
+info: Connected to the database. {"timestamp":"2023-01-04T16:22:37.800Z"}
+info: Server started at http://localhost:5000/api/v1/ {"timestamp":"2023-01-04T16:24:50.263Z"}
+info: Connected to the database. {"timestamp":"2023-01-04T16:24:53.012Z"}
+error: 
+      status - 400
+      message - Authorization token is required 
+      url - /api/v1/notes/add 
+      method - POST 
+      IP - ::1
+     {"timestamp":"2023-01-04T16:26:29.889Z"}
+info: Server started at http://localhost:5000/api/v1/ {"timestamp":"2023-01-04T16:31:54.104Z"}
+info: Connected to the database. {"timestamp":"2023-01-04T16:31:56.813Z"}
+info: Server started at http://localhost:5000/api/v1/ {"timestamp":"2023-01-04T16:42:37.770Z"}
+info: Connected to the database. {"timestamp":"2023-01-04T16:42:40.951Z"}
+info: Server started at http://localhost:5000/api/v1/ {"timestamp":"2023-01-04T16:44:42.491Z"}
+info: Connected to the database. {"timestamp":"2023-01-04T16:44:45.549Z"}

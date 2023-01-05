@@ -1,0 +1,48 @@
+info: Server started at http://localhost:5000/api/v1/ {"timestamp":"2023-01-03T11:38:09.487Z"}
+info: Connected to the database. {"timestamp":"2023-01-03T11:38:14.219Z"}
+info: Server started at http://localhost:5000/api/v1/ {"timestamp":"2023-01-03T11:40:33.784Z"}
+info: Connected to the database. {"timestamp":"2023-01-03T11:40:36.575Z"}
+info: Server started at http://localhost:5000/api/v1/ {"timestamp":"2023-01-03T11:43:22.052Z"}
+info: Connected to the database. {"timestamp":"2023-01-03T11:43:24.791Z"}
+info: Server started at http://localhost:5000/api/v1/ {"timestamp":"2023-01-03T11:57:08.074Z"}
+info: Connected to the database. {"timestamp":"2023-01-03T11:57:11.042Z"}
+info: Server started at http://localhost:5000/api/v1/ {"timestamp":"2023-01-03T11:59:15.305Z"}
+info: Connected to the database. {"timestamp":"2023-01-03T11:59:18.062Z"}
+info: Server started at http://localhost:5000/api/v1/ {"timestamp":"2023-01-03T12:19:48.890Z"}
+info: Connected to the database. {"timestamp":"2023-01-03T12:19:51.727Z"}
+info: Server started at http://localhost:5000/api/v1/ {"timestamp":"2023-01-03T12:21:26.993Z"}
+info: Connected to the database. {"timestamp":"2023-01-03T12:21:29.741Z"}
+info: Server started at http://localhost:5000/api/v1/ {"timestamp":"2023-01-03T12:35:23.676Z"}
+info: Connected to the database. {"timestamp":"2023-01-03T12:35:31.460Z"}
+info: Server started at http://localhost:5000/api/v1/ {"timestamp":"2023-01-03T12:35:51.864Z"}
+info: Connected to the database. {"timestamp":"2023-01-03T12:35:54.385Z"}
+info: Server started at http://localhost:5000/api/v1/ {"timestamp":"2023-01-03T12:51:09.013Z"}
+info: Connected to the database. {"timestamp":"2023-01-03T12:51:11.773Z"}
+info: Server started at http://localhost:5000/api/v1/ {"timestamp":"2023-01-03T12:56:46.118Z"}
+info: Connected to the database. {"timestamp":"2023-01-03T12:56:48.987Z"}
+info: Server started at http://localhost:5000/api/v1/ {"timestamp":"2023-01-03T12:58:11.826Z"}
+info: Connected to the database. {"timestamp":"2023-01-03T12:58:14.690Z"}
+info: Server started at http://localhost:5000/api/v1/ {"timestamp":"2023-01-03T12:59:40.651Z"}
+info: Connected to the database. {"timestamp":"2023-01-03T12:59:43.286Z"}
+info: Server started at http://localhost:5000/api/v1/ {"timestamp":"2023-01-03T13:30:49.448Z"}
+error: Could not connect to the database. connection 1 to 54.163.77.134:27017 closed {"name":"MongoNetworkError","stack":"MongoNetworkError: connection 1 to 54.163.77.134:27017 closed\n    at Connection.handleIssue (C:\\Users\\Gajanan\\OneDrive\\Desktop\\BasicsJS\\projects\\FundooNote\\FundoNote\\node_modules\\mongodb\\lib\\cmap\\connection.js:131:15)\n    at TLSSocket.<anonymous> (C:\\Users\\Gajanan\\OneDrive\\Desktop\\BasicsJS\\projects\\FundooNote\\FundoNote\\node_modules\\mongodb\\lib\\cmap\\connection.js:64:35)\n    at TLSSocket.emit (node:events:513:28)\n    at TLSSocket.emit (node:domain:489:12)\n    at node:net:313:12\n    at TCP.done (node:_tls_wrap:587:7)","timestamp":"2023-01-03T13:31:16.317Z"}
+info: Server started at http://localhost:5000/api/v1/ {"timestamp":"2023-01-03T13:32:36.771Z"}
+info: Connected to the database. {"timestamp":"2023-01-03T13:32:40.079Z"}
+info: Server started at http://localhost:5000/api/v1/ {"timestamp":"2023-01-03T14:55:08.393Z"}
+info: Connected to the database. {"timestamp":"2023-01-03T14:55:11.395Z"}
+info: Server started at http://localhost:5000/api/v1/ {"timestamp":"2023-01-03T14:57:08.953Z"}
+info: Connected to the database. {"timestamp":"2023-01-03T14:57:12.467Z"}
+info: Server started at http://localhost:5000/api/v1/ {"timestamp":"2023-01-03T15:08:14.542Z"}
+error: Could not connect to the database. querySrv ETIMEOUT _mongodb._tcp.demo.aoloa.mongodb.net {"code":"ETIMEOUT","hostname":"_mongodb._tcp.demo.aoloa.mongodb.net","stack":"Error: querySrv ETIMEOUT _mongodb._tcp.demo.aoloa.mongodb.net\n    at QueryReqWrap.onresolve [as oncomplete] (node:internal/dns/callback_resolver:47:19)","syscall":"querySrv","timestamp":"2023-01-03T15:09:30.301Z"}
+info: Server started at http://localhost:5000/api/v1/ {"timestamp":"2023-01-03T15:14:25.643Z"}
+error: Could not connect to the database. querySrv ECONNREFUSED _mongodb._tcp.demo.aoloa.mongodb.net {"code":"ECONNREFUSED","hostname":"_mongodb._tcp.demo.aoloa.mongodb.net","stack":"Error: querySrv ECONNREFUSED _mongodb._tcp.demo.aoloa.mongodb.net\n    at QueryReqWrap.onresolve [as oncomplete] (node:internal/dns/callback_resolver:47:19)","syscall":"querySrv","timestamp":"2023-01-03T15:14:25.663Z"}
+info: Server started at http://localhost:5000/api/v1/ {"timestamp":"2023-01-03T15:15:40.561Z"}
+error: Could not connect to the database. querySrv ECONNREFUSED _mongodb._tcp.demo.aoloa.mongodb.net {"code":"ECONNREFUSED","hostname":"_mongodb._tcp.demo.aoloa.mongodb.net","stack":"Error: querySrv ECONNREFUSED _mongodb._tcp.demo.aoloa.mongodb.net\n    at QueryReqWrap.onresolve [as oncomplete] (node:internal/dns/callback_resolver:47:19)","syscall":"querySrv","timestamp":"2023-01-03T15:15:40.579Z"}
+info: Server started at http://localhost:5000/api/v1/ {"timestamp":"2023-01-03T15:16:21.937Z"}
+info: Connected to the database. {"timestamp":"2023-01-03T15:16:25.938Z"}
+info: Server started at http://localhost:5000/api/v1/ {"timestamp":"2023-01-03T18:15:42.690Z"}
+info: Connected to the database. {"timestamp":"2023-01-03T18:15:45.867Z"}
+info: Server started at http://localhost:5000/api/v1/ {"timestamp":"2023-01-03T18:17:32.760Z"}
+info: Connected to the database. {"timestamp":"2023-01-03T18:17:36.196Z"}
+info: Server started at http://localhost:5000/api/v1/ {"timestamp":"2023-01-03T18:18:28.948Z"}
+info: Connected to the database. {"timestamp":"2023-01-03T18:18:31.951Z"}

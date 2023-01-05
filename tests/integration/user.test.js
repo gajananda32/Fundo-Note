@@ -290,7 +290,7 @@ describe('User APIs Test', () => {
 
   //15 delete note without id should throw error
   describe('Delete note byid', () => {
-    it('Given without token should throw error', (done) => {
+    it('Given  note without token should throw error', (done) => {
       request(app)
         .delete(`/api/v1/notes/${noteid}`)
         // .set('authorization', `Bearer ${token}`)
@@ -300,10 +300,68 @@ describe('User APIs Test', () => {
         });
     });
   });
+
+  // 16 Test case for archive note by ID with authorization
+  describe(' Archive note by id with authorization ', () => {
+    it('Given valid id archive note by ID successfully complete should return status code 202', (done) => {
+      request(app)
+        .put(`/api/v1/notes/${noteid}/archive`)
+        .set('authorization', `Bearer ${token}`)
+        .end((err, res) => {
+          expect(res.statusCode).to.be.equal(202);
+          done();
+        });
+    });
+  });
+
+  // 17 Test case for archive note without token should throw error
+  describe(' Archive without token ', () => {
+    it('Given valid id archive note without token  should throw error', (done) => {
+      request(app)
+        .put(`/api/v1/notes/${noteid}/archive`)
+        //.set('authorization', `Bearer ${token}`)
+        .end((err, res) => {
+          expect(res.statusCode).to.be.equal(400);
+          done();
+        });
+    });
+  });
+
+  // 18 Test case for trash note by ID with authorization
+  describe('Trash note by id', () => {
+    it('Given valid id trash note by ID successfully complete should be trashed', (done) => {
+      request(app)
+        .put(`/api/v1/notes/${noteid}/trash`)
+        .set('authorization', `Bearer ${token}`)
+        .end((err, res) => {
+          expect(res.statusCode).to.be.equal(202);
+          done();
+        });
+    });
+  });
+  // 19 Test case for trash note without authorization
+  describe('Trash note by id', () => {
+    it('Given trash note without authorization should throw error', (done) => {
+      request(app)
+        .put(`/api/v1/notes/${noteid}/trash`)
+        //.set('authorization', `Bearer ${token}`)
+        .end((err, res) => {
+          expect(res.statusCode).to.be.equal(400);
+          done();
+        });
+    });
+  });
+ // 20 Test case for trash note without noteid
+ describe('Trash note by id', () => {
+  it('Given note without noteid should throw error', (done) => {
+    request(app)
+      .put(`/api/v1/notes/trash`)
+      //.set('authorization', `Bearer ${token}`)
+      .end((err, res) => {
+        expect(res.statusCode).to.be.equal(400);
+        done();
+      });
+  });
 });
 
-
-
-
-
-
+});

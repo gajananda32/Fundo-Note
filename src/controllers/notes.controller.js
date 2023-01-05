@@ -95,3 +95,61 @@ export const deleteNotes = async (req, res, next) => {
     next(error);
   }
 };
+
+
+//archive note
+export const archivenote= async(req,res,next)=>{
+  try {
+    const data=await notesService.archivenote(req.params._id);
+    res.status(HttpStatus.ACCEPTED).json({
+      code:HttpStatus.ACCEPTED,
+      data:data,
+      message:'note archived successfully'
+    });    
+  } catch (error) {
+    next(error);
+  }
+}
+
+//unarchive note
+export const unarchivenote= async(req,res,next)=>{
+  try {
+    const data=await notesService.unarchivenote(req.params._id);
+    res.status(HttpStatus.ACCEPTED).json({
+      code:HttpStatus.ACCEPTED,
+      data:data,
+      message:'note unarchived successfully'
+    });    
+  } catch (error) {
+    next(error);
+  }
+}
+
+
+// trash note
+export const trashnote=async(req,res,next)=>{
+  try {
+    const data=await notesService.trashnote(req.params._id);
+    res.status(HttpStatus.ACCEPTED).json({
+      code:HttpStatus.ACCEPTED,
+      data:data,
+      message:'Note trashed successfully'
+    });    
+  } catch (error) {
+    next(error);    
+  }
+}
+
+// untrash note
+export const untrashnote=async(req,res,next)=>{
+  try {
+    const data=await notesService.untrashnote(req.params._id);
+    res.status(HttpStatus.ACCEPTED).json({
+      code:HttpStatus.ACCEPTED,
+      data:data,
+      message:'Note untrashed successfully'
+    });    
+  } catch (error) {
+    next(error);    
+  }
+}

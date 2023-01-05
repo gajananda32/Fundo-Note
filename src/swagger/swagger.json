@@ -1,0 +1,393 @@
+{
+    "swagger": "2.0",
+    "info": {
+        "version": "v1",
+        "title": "Fundoo Notes",
+        "description": "Fundoo Notes "
+    },
+    "host": "localhost:5000",
+    "basePath": "/api/v1/",
+    "schemes": [
+        "http"
+    ],
+    "consumes": [
+        "application/json"
+    ],
+    "produces": [
+        "application/json"
+    ],
+    "paths": {
+        "/users/register": {
+            "post": {
+                "tags": [
+                    "User"
+                ],
+                "description": "New user registration",
+                "parameters": [
+                    {
+                        "name": "New User registration",
+                        "in": "body",
+                        "description": "Enter valid user details",
+                        "schema": {
+                            "$ref": "#/definitions/NewUser"
+                        },
+                        "required": true
+                    }
+                ],
+                "produces": [
+                    "application/json"
+                ],
+                "responses": {
+                    "201": {
+                        "description": "User registration  successfully"
+                    },
+                    "500": {
+                        "description": "Internal Server Error"
+                    }
+                }
+            }
+        },
+        "/users/loginuser": {
+            "post": {
+                "tags": [
+                    "User"
+                ],
+                "description": "User login",
+                "parameters": [
+                    {
+                        "name": "User Login",
+                        "in": "body",
+                        "description": "Enter valid details",
+                        "schema": {
+                            "$ref": "#/definitions/UserLogin"
+                        },
+                        "required": true
+                    }
+                ],
+                "produces": [
+                    "application/json"
+                ],
+                "responses": {
+                    "201": {
+                        "description": "User logged successfully done"
+                    },
+                    "500": {
+                        "description": "Internal Server Error"
+                    }
+                }
+            }
+        },
+        "/users/forgottpassword": {
+            "post": {
+                "tags": [
+                    "User"
+                ],
+                "description": "Forgot Password",
+                "parameters": [
+                    {
+                        "name": "Forgot password",
+                        "in": "body",
+                        "description": "Enter valid  emailID ",
+                        "schema": {
+                            "$ref": "#/definitions/forgetPassword"
+                        },
+                        "required": true
+                    }
+                ],
+                "produces": [
+                    "application/json"
+                ],
+                "responses": {
+                    "202": {
+                        "description": "Reset link send successfully"
+                    },
+                    "500": {
+                        "description": "Internal Server Error"
+                    }
+                }
+            }
+        },
+        "/users/resetpassword": {
+            "put": {
+                "tags": [
+                    "User"
+                ],
+                "description": "Reset Password",
+                "parameters": [
+                    {
+                        "name": "Reset password",
+                        "in": "body",
+                        "description": "Enter new password  ",
+                        "schema": {
+                            "$ref": "#/definitions/resetPassword"
+                        }
+                    }
+                ],
+                "produces": [
+                    "application/json"
+                ],
+                "responses": {
+                    "202": {
+                        "description": "Password updated successfully"
+                    },
+                    "500": {
+                        "description": "Internal Server Error"
+                    },
+                    "400": {
+                        "description": "Invalid authorization token"
+                    }
+                },
+                "security": [
+                    {
+                        "JWT": []
+                    }
+                ]
+            }
+        },
+        "/notes/add": {
+            "post": {
+                "tags": [
+                    "Notes"
+                ],
+                "description": "Creating new note",
+                "parameters": [
+                    {
+                        "name": "Creat Note",
+                        "in": "body",
+                        "description": "Enter valid note details",
+                        "schema": {
+                            "$ref": "#/definitions/CreateNote"
+                        }
+                    }
+                ],
+                "produces": [
+                    "application/json"
+                ],
+                "responses": {
+                    "201": {
+                        "description": "Note created successfully"
+                    },
+                    "500": {
+                        "description": "Internal Server Error"
+                    },
+                    "400": {
+                        "description": "Invalid authorization token"
+                    }
+                },
+                "security": [
+                    {
+                        "JWT": []
+                    }
+                ]
+            }
+        },
+        "/notes": {
+            "get": {
+                "tags": [
+                    "Notes"
+                ],
+                "description": "Get all notes",
+                "produces": [
+                    "application/json"
+                ],
+                "responses": {
+                    "201": {
+                        "description": "All notes fetch successfully"
+                    },
+                    "500": {
+                        "description": "Internal Server Error"
+                    },
+                    "400": {
+                        "description": "Invalid authorization token"
+                    }
+                },
+                "security": [
+                    {
+                        "JWT": []
+                    }
+                ]
+            }
+        },
+        "/notes/{id}": {
+            "get": {
+                "tags": [
+                    "Notes"
+                ],
+                "description": "Get note by id",
+                "parameters": [
+                    {
+                        "name": "id",
+                        "in": "path",
+                        "description": "Enter note id",
+                        "required": true,
+                        "type": "string"
+                    }
+                ],
+                "produces": [
+                    "application/json"
+                ],
+                "responses": {
+                    "201": {
+                        "description": "Note fetch successfully"
+                    },
+                    "500": {
+                        "description": "Internal Server Error"
+                    },
+                    "400": {
+                        "description": "Invalid authorization token"
+                    }
+                },
+                "security": [
+                    {
+                        "JWT": []
+                    }
+                ]
+            },
+            "put": {
+                "tags": [
+                    "Notes"
+                ],
+                "description": "update note by id",
+                "parameters": [
+                    {
+                        "name": "id",
+                        "in": "path",
+                        "type": "string",
+                        "description": "Enter note id for update",
+                        "required": true
+                    },
+                    {
+                        "name": "Update Note",
+                        "in": "body",
+                        "description": "Update note",
+                        "required": false,
+                        "schema": {
+                            "$ref": "#/definitions/CreateNote"
+                        }
+                    }
+                ],
+                "produces": [
+                    "application/json"
+                ],
+                "responses": {
+                    "201": {
+                        "description": "Note fetch successfully"
+                    },
+                    "500": {
+                        "description": "Internal Server Error"
+                    },
+                    "400": {
+                        "description": "Invalid authorization token"
+                    }
+                },
+                "security": [
+                    {
+                        "JWT": []
+                    }
+                ]
+            },
+            "delete": {
+                "tags": [
+                    "Notes"
+                ],
+                "description": "delete note by id",
+                "parameters": [
+                    {
+                        "name": "id",
+                        "in": "path",
+                        "description": "delete note for given  id",
+                        "required": true,
+                        "type": "string"
+                    }
+                ],
+                "produces": [
+                    "application/json"
+                ],
+                "responses": {
+                    "201": {
+                        "description": "Note fetch successfully"
+                    },
+                    "500": {
+                        "description": "Internal Server Error"
+                    },
+                    "400": {
+                        "description": "Invalid authorization token"
+                    }
+                },
+                "security": [
+                    {
+                        "JWT": []
+                    }
+                ]
+            }
+        }
+    },
+    "definitions": {
+        "NewUser": {
+            "type": "object",
+            "properties": {
+                "firstName": {
+                    "type": "string"
+                },
+                "lastName": {
+                    "type": "string"
+                },
+                "email": {
+                    "type": "string"
+                },
+                "password": {
+                    "type": "string"
+                }
+            }
+        },
+        "UserLogin": {
+            "type": "object",
+            "properties": {
+                "email": {
+                    "type": "string"
+                },
+                "password": {
+                    "type": "string"
+                }
+            }
+        },
+        "forgetPassword": {
+            "type": "object",
+            "properties": {
+                "email": {
+                    "type": "string"
+                }
+            }
+        },
+        "resetPassword": {
+            "type": "object",
+            "properties": {
+                "password": {
+                    "type": "string"
+                }
+            }
+        },
+        "CreateNote": {
+            "type": "object",
+            "properties": {
+                "Title": {
+                    "type": "string"
+                },
+                "descrption": {
+                    "type": "string"
+                },
+                "colour": {
+                    "type": "string"
+                }
+            }
+        }
+       
+    },
+    "securityDefinitions": {
+        "JWT": {
+            "type": "apiKey",
+            "name": "Authorization",
+            "in": "header"
+        }
+    }
+}
