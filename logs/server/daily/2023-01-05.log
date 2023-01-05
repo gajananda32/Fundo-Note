@@ -1,0 +1,35 @@
+info: Server started at http://localhost:5000/api/v1/ {"timestamp":"2023-01-05T02:44:38.581Z"}
+info: Connected to the database. {"timestamp":"2023-01-05T02:44:47.417Z"}
+info: Server started at http://localhost:5000/api/v1/ {"timestamp":"2023-01-05T11:22:28.431Z"}
+info: Connected to the database. {"timestamp":"2023-01-05T11:22:31.715Z"}
+info: Server started at http://localhost:5000/api/v1/ {"timestamp":"2023-01-05T11:23:24.148Z"}
+info: Connected to the database. {"timestamp":"2023-01-05T11:23:26.729Z"}
+info: Server started at http://localhost:5000/api/v1/ {"timestamp":"2023-01-05T11:42:06.763Z"}
+info: Connected to the database. {"timestamp":"2023-01-05T11:42:16.527Z"}
+info: Server started at http://localhost:5000/api/v1/ {"timestamp":"2023-01-05T11:48:36.353Z"}
+info: Connected to the database. {"timestamp":"2023-01-05T11:48:41.220Z"}
+info: Server started at http://localhost:5000/api/v1/ {"timestamp":"2023-01-05T11:54:31.542Z"}
+info: Connected to the database. {"timestamp":"2023-01-05T11:54:34.368Z"}
+info: Server started at http://localhost:5000/api/v1/ {"timestamp":"2023-01-05T11:54:53.987Z"}
+info: Connected to the database. {"timestamp":"2023-01-05T11:54:56.624Z"}
+info: Server started at http://localhost:5000/api/v1/ {"timestamp":"2023-01-05T11:58:01.867Z"}
+info: Connected to the database. {"timestamp":"2023-01-05T11:58:04.678Z"}
+info: Server started at http://localhost:5000/api/v1/ {"timestamp":"2023-01-05T11:59:59.928Z"}
+info: Server started at http://localhost:5000/api/v1/ {"timestamp":"2023-01-05T12:00:05.661Z"}
+info: Connected to the database. {"timestamp":"2023-01-05T12:00:08.205Z"}
+error: 
+    status - 500 
+    message - ReferenceError: getData is not defined
+    at _callee5$ (C:\Users\Gajanan\OneDrive\Desktop\BasicsJS\projects\FundooNote\FundoNote\src\services\/notes.service.js:45:20)
+    at tryCatch (C:\Users\Gajanan\OneDrive\Desktop\BasicsJS\projects\FundooNote\FundoNote\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:44:17)
+    at Generator.<anonymous> (C:\Users\Gajanan\OneDrive\Desktop\BasicsJS\projects\FundooNote\FundoNote\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:125:22)
+    at Generator.next (C:\Users\Gajanan\OneDrive\Desktop\BasicsJS\projects\FundooNote\FundoNote\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:69:21)
+    at asyncGeneratorStep (C:\Users\Gajanan\OneDrive\Desktop\BasicsJS\projects\FundooNote\FundoNote\node_modules\@babel\runtime\helpers\asyncToGenerator.js:3:24)
+    at _next (C:\Users\Gajanan\OneDrive\Desktop\BasicsJS\projects\FundooNote\FundoNote\node_modules\@babel\runtime\helpers\asyncToGenerator.js:22:9)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5) 
+    url - /api/v1/notes/63b263c0e09a8561343260b2 
+    method - GET 
+    IP - ::1
+   {"timestamp":"2023-01-05T12:00:42.400Z"}
+info: Server started at http://localhost:5000/api/v1/ {"timestamp":"2023-01-05T12:02:11.344Z"}
+info: Connected to the database. {"timestamp":"2023-01-05T12:02:14.172Z"}
