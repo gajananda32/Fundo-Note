@@ -2,6 +2,7 @@ import User from '../models/user.model';
 import bcrypt from "bcrypt";
 import jwt from 'jsonwebtoken';
 import * as utilService from'../utils/user.util';
+import { sender } from '../config/rabbitmq';
 
 //get all users
 export const getAllUsers = async () => {
@@ -20,6 +21,7 @@ export const newUser = async (body) => {
     const hashedPassword=await bcrypt.hash(body.password,saltRounds);
     body.password = hashedPassword;
     const data = await User.create(body);
+    sender(data);
     return data;
   }
 };

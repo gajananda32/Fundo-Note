@@ -1,0 +1,24 @@
+info: Server started at http://localhost:5000/api/v1/ {"timestamp":"2023-01-07T04:08:32.521Z"}
+info: Connected to the database. {"timestamp":"2023-01-07T04:08:37.488Z"}
+info: Server started at http://localhost:5000/api/v1/ {"timestamp":"2023-01-07T04:30:40.493Z"}
+info: Connected to the database. {"timestamp":"2023-01-07T04:30:44.141Z"}
+info: Server started at http://localhost:5000/api/v1/ {"timestamp":"2023-01-07T04:35:32.009Z"}
+info: Connected to the database. {"timestamp":"2023-01-07T04:35:36.059Z"}
+error: 
+    status - 500 
+    message - Error: User with same mailid Already exits
+    at _callee2$ (C:\Users\Gajanan\OneDrive\Desktop\BasicsJS\projects\FundooNote\FundoNote\src\services\/user.service.js:17:11)
+    at tryCatch (C:\Users\Gajanan\OneDrive\Desktop\BasicsJS\projects\FundooNote\FundoNote\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:44:17)
+    at Generator.<anonymous> (C:\Users\Gajanan\OneDrive\Desktop\BasicsJS\projects\FundooNote\FundoNote\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:125:22)
+    at Generator.next (C:\Users\Gajanan\OneDrive\Desktop\BasicsJS\projects\FundooNote\FundoNote\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:69:21)
+    at asyncGeneratorStep (C:\Users\Gajanan\OneDrive\Desktop\BasicsJS\projects\FundooNote\FundoNote\node_modules\@babel\runtime\helpers\asyncToGenerator.js:3:24)
+    at _next (C:\Users\Gajanan\OneDrive\Desktop\BasicsJS\projects\FundooNote\FundoNote\node_modules\@babel\runtime\helpers\asyncToGenerator.js:22:9)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5) 
+    url - /api/v1/users/register 
+    method - POST 
+    IP - ::1
+   {"timestamp":"2023-01-07T04:35:42.135Z"}
+info: Server started at http://localhost:5000/api/v1/ {"timestamp":"2023-01-07T04:37:37.536Z"}
+info: Connected to the database. {"timestamp":"2023-01-07T04:37:40.399Z"}
+info: Server started at http://localhost:5000/api/v1/ {"timestamp":"2023-01-07T04:40:53.080Z"}
+info: Connected to the database. {"timestamp":"2023-01-07T04:40:56.098Z"}

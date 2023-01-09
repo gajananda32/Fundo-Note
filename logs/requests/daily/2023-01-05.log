@@ -70,3 +70,9 @@ info: ::1 - - [05/Jan/2023:12:02:20 +0000] "GET /api/v1/notes/63b263c0e09a856134
 
 info: ::1 - - [05/Jan/2023:12:02:24 +0000] "GET /api/v1/notes/63b263c0e09a8561343260b2 HTTP/1.1" 201 304 "-" "PostmanRuntime/7.30.0"
 
+info: ::1 - - [05/Jan/2023:14:51:50 +0000] "GET /api/v1/notes HTTP/1.1" 201 2957 "-" "PostmanRuntime/7.30.0"
+
+info: ::1 - - [05/Jan/2023:14:56:51 +0000] "GET /api/v1/notes HTTP/1.1" 201 2957 "-" "PostmanRuntime/7.30.0"
+
+info: ::1 - - [05/Jan/2023:14:56:55 +0000] "GET /api/v1/notes HTTP/1.1" 201 2957 "-" "PostmanRuntime/7.30.0"
+
